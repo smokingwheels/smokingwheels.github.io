@@ -42,8 +42,6 @@
 0.0.0.0 (https
 0.0.0.0 -abc.domain.com
 0.0.0.0 www.lulu.com
-0.0.0.0 d1eipm3vz40hy0.cloudfront.net
-0.0.0.0 d2av97idjaqjyo.cloudfront.net
 0.0.0.0 9thwief.org
 0.0.0.0 www.islamicbankingmagazine.org
 0.0.0.0 www.login.hiox.com
@@ -116,9 +114,6 @@
 0.0.0.0 www.tisn.gov.au
 0.0.0.0 www.legislation.gov.au
 0.0.0.0 www.coag.gov.au
-0.0.0.0 d1eipm3vz40hy0.cloudfront.net
-0.0.0.0 d2av97idjaqjyo.cloudfront.net
-0.0.0.0 d26a57ydsghvgx.cloudfront.net
 0.0.0.0 www.akamai.com
 0.0.0.0 www.islamicbankingmagazine.org
 0.0.0.0 www.gov.uk
@@ -251,4 +246,6 @@
 0.0.0.0 borntolearn.mslearn.net
 0.0.0.0 careers.microsoft.com
 0.0.0.0 www.novartis.com.ar
+0.0.0.0 interia.pl
+0.0.0.0 static.independent.co.uk
 # END of list lan for My YaCy Search Engines

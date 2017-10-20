@@ -1653,9 +1653,9 @@
 0.0.0.0 ^what=zone^$domain=ww3.cad.de
 0.0.0.0 |blob:$domain=hdfilme.tv
 0.0.0.0 |http:/$third-party,xmlhttprequest,domain=hdfilme.tv
-0.0.0.0 |http://$subdocument,third-party,domain=bonimail.de
-0.0.0.0 |http://byte.to^$script
-0.0.0.0 |http://lustich.de/bilder/*_*-
+0.0.0.0 $subdocument,third-party,domain=bonimail.de
+0.0.0.0 byte.to^$script
+0.0.0.0 lustich.de/bilder/*_*-
 0.0.0.0 ||1000hp.net/banner/
 0.0.0.0 ||149.13.77.20^$domain=ww3.cad.de
 0.0.0.0 ||193.107.16.142/f.php
@@ -3986,7 +3986,6 @@
 0.0.0.0 ||w55c.net^$domain=musikexpress.de
 0.0.0.0 ||widget.spoods.io/loader.js$domain=focus.de
 0.0.0.0 ||yieldlab.net^$domain=autobild.de|focus.de|metal-hammer.de|musikexpress.de|ran.de|rollingstone.de|stern.de|transfermarkt.de
-0.0.0.0 !
 0.0.0.0 /21b2056$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bafoeg-aktuell.de|bikerszene.de|boersennews.de|brieffreunde.de|clever-tanken.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|inside-handy.de|juraforum.de|kicker.de|kindergeld.org|kn-online.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|modhoster.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|quoka.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 0.0.0.0 /5702df5$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bafoeg-aktuell.de|bikerszene.de|boersennews.de|brieffreunde.de|clever-tanken.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|express.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|inside-handy.de|juraforum.de|kicker.de|kindergeld.org|kn-online.de|ksta.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|modhoster.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|quoka.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
 0.0.0.0 /662efc7$image,domain=aachener-nachrichten.de|aachener-zeitung.de|airliners.de|autoscout24.de|bafoeg-aktuell.de|bikerszene.de|boersennews.de|brieffreunde.de|clever-tanken.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|dnn.de|donnerwetter.de|e-hausaufgaben.de|epochtimes.de|express.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gesundheit.de|gevestor.de|goettinger-tageblatt.de|hausgarten.net|haz.de|iban-rechner.de|inside-handy.de|juraforum.de|kicker.de|kindergeld.org|kn-online.de|ksta.de|laut.de|liga3-online.de|ln-online.de|lvz.de|lz.de|mathepower.com|maz-online.de|modhoster.de|motorsport-total.com|moviejones.de|mt.de|netzwelt.de|news.de|nickles.de|nw.de|ostsee-zeitung.de|paz-online.de|pferde.de|pixelio.de|playfront.de|prad.de|psychic.de|quoka.de|sn-online.de|spielen.de|spielfilm.de|truckscout24.de|tvinfo.de|unicum.de|waz-online.de|weristdeinfreund.de|weser-kurier.de|wetteronline.de|wintotal.de|wize.life
@@ -4114,7 +4113,6 @@
 0.0.0.0 ||psychic.de/images/D/$image
 0.0.0.0 ||quoka.de/image/public/$image,domain=quoka.de
 0.0.0.0 ||tvinfo.de/img/dmax/DMAX_*.jpg
-0.0.0.0 !
 0.0.0.0 @@/ad_cache/$image,domain=4players.de|9monate.de|abendzeitung-muenchen.de|ajaxshowtime.com|antenne.de|arcor.de|areadvd.de|areamobile.de|ariva.de|auto-service.de|autopixx.de|baby-vornamen.de|boerse-online.de|boerse.de|buffed.de|caravaning.de|chefkoch.de|computerhilfen.de|computerworld.nl|comunio.de|comunio.es|connect.de|dbna.de|de.pons.com|donnerwetter.de|eatsmarter.de|extreme.pcgameshardware.de|f1maximaal.nl|fettspielen.de|fid-gesundheitswissen.de|finanzen.at|finanzen.ch|finanzen.net|finanztreff.de|formel1.de|gala.de|gamepro.de|gamesaktuell.de|gamestar.de|gamezone.de|general-anzeiger-bonn.de|genialetricks.de|gipfelbuch.ch|gmuender-tagespost.de|gusto.at|hamburg.de|hardwareluxx.de|heftig.de|heiseautos.de|hoerzu.de|ingame.de|inside-handy.de|jpgames.de|kamelle.de|knack.be|lablue.de|landwirt.com|leckerschmecker.me|levif.be|lifeline.de|likemag.com|lustaufsleben.at|lustich.de|mehr-tanken.de|mein-wahres-ich.de|menshealth.de|metalflirt.de|mopo.de|motor-talk.de|motorbasar.de|motorradonline.de|motorsport-total.com|motortests.de|moviepilot.de|mtb-news.de|news.at|nnn.de|noz.de|nwzonline.de|paradisi.de|pc-magazin.de|pcgames.de|pcgameshardware.de|pcwelt.de|pietsmiet.de|pnn.de|prignitzer.de|profil.at|promipool.de|promobil.de|readmore.de|runnersworld.de|schwaebische-post.de|serienjunkies.de|shz.de|sportal.de|spox.com|svz.de|tagesspiegel.de|testedich.de|tierfreund.co|tiervermittlung.de|trend.at|tv-media.at|tvdigital.de|tvtoday.de|videogameszone.de|webfail.com|webfail.de|webwereld.nl|wetteronline.de|wn.de|woman.at|womenshealth.de|yachtrevue.at
 0.0.0.0 @@/ad_campaigns/$image,domain=4players.de|9monate.de|abendzeitung-muenchen.de|ajaxshowtime.com|antenne.de|arcor.de|areadvd.de|areamobile.de|ariva.de|auto-service.de|autopixx.de|baby-vornamen.de|boerse-online.de|boerse.de|buffed.de|caravaning.de|chefkoch.de|computerhilfen.de|computerworld.nl|comunio.de|comunio.es|connect.de|dbna.de|de.pons.com|donnerwetter.de|eatsmarter.de|extreme.pcgameshardware.de|f1maximaal.nl|fettspielen.de|fid-gesundheitswissen.de|finanzen.at|finanzen.ch|finanzen.net|finanztreff.de|formel1.de|gala.de|gamepro.de|gamesaktuell.de|gamestar.de|gamezone.de|general-anzeiger-bonn.de|genialetricks.de|gipfelbuch.ch|gmuender-tagespost.de|gusto.at|hamburg.de|hardwareluxx.de|heftig.de|heiseautos.de|hoerzu.de|ingame.de|inside-handy.de|jpgames.de|kamelle.de|knack.be|lablue.de|landwirt.com|leckerschmecker.me|levif.be|lifeline.de|likemag.com|lustaufsleben.at|lustich.de|mehr-tanken.de|mein-wahres-ich.de|menshealth.de|metalflirt.de|mopo.de|motor-talk.de|motorbasar.de|motorradonline.de|motorsport-total.com|motortests.de|moviepilot.de|mtb-news.de|news.at|nnn.de|noz.de|nwzonline.de|paradisi.de|pc-magazin.de|pcgames.de|pcgameshardware.de|pcwelt.de|pietsmiet.de|pnn.de|prignitzer.de|profil.at|promipool.de|promobil.de|readmore.de|runnersworld.de|schwaebische-post.de|serienjunkies.de|shz.de|sportal.de|spox.com|svz.de|tagesspiegel.de|testedich.de|tierfreund.co|tiervermittlung.de|trend.at|tv-media.at|tvdigital.de|tvtoday.de|videogameszone.de|webfail.com|webfail.de|webwereld.nl|wetteronline.de|wn.de|woman.at|womenshealth.de|yachtrevue.at
 0.0.0.0 @@/ad_data/$image,domain=4players.de|9monate.de|abendzeitung-muenchen.de|ajaxshowtime.com|antenne.de|arcor.de|areadvd.de|areamobile.de|ariva.de|auto-service.de|autopixx.de|baby-vornamen.de|boerse-online.de|boerse.de|buffed.de|caravaning.de|chefkoch.de|computerhilfen.de|computerworld.nl|comunio.de|comunio.es|connect.de|dbna.de|de.pons.com|donnerwetter.de|eatsmarter.de|extreme.pcgameshardware.de|f1maximaal.nl|fettspielen.de|fid-gesundheitswissen.de|finanzen.at|finanzen.ch|finanzen.net|finanztreff.de|formel1.de|gala.de|gamepro.de|gamesaktuell.de|gamestar.de|gamezone.de|general-anzeiger-bonn.de|genialetricks.de|gipfelbuch.ch|gmuender-tagespost.de|gusto.at|hamburg.de|hardwareluxx.de|heftig.de|heiseautos.de|hoerzu.de|ingame.de|inside-handy.de|jpgames.de|kamelle.de|knack.be|lablue.de|landwirt.com|leckerschmecker.me|levif.be|lifeline.de|likemag.com|lustaufsleben.at|lustich.de|mehr-tanken.de|mein-wahres-ich.de|menshealth.de|metalflirt.de|mopo.de|motor-talk.de|motorbasar.de|motorradonline.de|motorsport-total.com|motortests.de|moviepilot.de|mtb-news.de|news.at|nnn.de|noz.de|nwzonline.de|paradisi.de|pc-magazin.de|pcgames.de|pcgameshardware.de|pcwelt.de|pietsmiet.de|pnn.de|prignitzer.de|profil.at|promipool.de|promobil.de|readmore.de|runnersworld.de|schwaebische-post.de|serienjunkies.de|shz.de|sportal.de|spox.com|svz.de|tagesspiegel.de|testedich.de|tierfreund.co|tiervermittlung.de|trend.at|tv-media.at|tvdigital.de|tvtoday.de|videogameszone.de|webfail.com|webfail.de|webwereld.nl|wetteronline.de|wn.de|woman.at|womenshealth.de|yachtrevue.at
@@ -8160,11 +8158,9 @@
 0.0.0.0 @@||zanox-affiliate.de^$popup,domain=dealdoktor.de
 0.0.0.0 ! *** easylist.txt ***
 0.0.0.0 ! Licence: https://easylist.to/pages/licence.html
-0.0.0.0 !
 0.0.0.0 ! Please report any unblocked adverts or problems
 0.0.0.0 ! in the forums (https://forums.lanik.us/)
 0.0.0.0 ! or via e-mail (easylist.subscription@gmail.com).
-0.0.0.0 !
 0.0.0.0 !-----------------------General advert blocking filters-----------------------!
 0.0.0.0 ! *** easylist:easylist/easylist_general_block.txt ***
 0.0.0.0 &act=ads_
@@ -28963,10 +28959,10 @@
 0.0.0.0 |blob:$domain=101greatgoals.com|1337x.to|1channel.biz|4chan.org|allthetests.com|ancient-origins.net|androidcentral.com|anime-joy.tv|antonymsfor.com|auroravid.to|biology-online.org|bitvid.sx|breakingisraelnews.com|britannica.com|btdb.in|champion.gg|closerweekly.com|cloudtime.to|colourlovers.com|connectedly.com|convert-me.com|couch-tuner.at|couch-tuner.me|couchtuner.ac|couchtuner.us|crackberry.com|dailycaller.com|datpiff.com|demonoid.pw|destructoid.com|dietlast.com|dreamfilm.se|episodetube.com|episodetube.net|ewatchseries.to|fastpic.ru|filme-streamz.com|filmlinks4u.is|firstforwomen.com|firstrowau.eu|firstrowus1.eu|fmovies.is|fmovies.se|fmovies.to|fullmatchesandshows.com|gamesradar.com|getinmybelly.com|gofirstrow.eu|gorillavid.in|hdfilme.tv|homerun.re|igvnews.co.uk|imagefap.com|imgadult.com|imgtaxi.com|imgwallet.com|imore.com|investopedia.com|israelnationalnews.com|jerusalemonline.com|jewsnews.co.il|keepvid.com|kickass.cd|kino-streamz.com|kiplinger.com|kissmanga.com|kshowonline.com|letmewatchthis.pl|letmewatchthis.video|livecricketz.org|livescience.com|lolcounter.com|merriam-webster.com|movies4stream.com|movpod.in|mylivecricket.org|mywatchseries.to|newtvworld.com|noslocker.com|nosvideo.com|nowfeed2all.eu|nowvideo.li|nowvideo.sx|nowvideo.to|nydailynews.com|olympicstreams.me|omgcheckitout.com|onwatchseries.to|openload.co|pcgamer.com|pcgames-download.net|phonearena.com|phonesreview.co.uk|pixxxels.org|pocketnow.com|primewire.ag|primewire.is|primewire.org|primewire.to|primewire.unblockall.xyz|psu.com|rinf.com|roadracerunner.com|sgvideos.net|skidrowcrack.com|snowysmile.com|sockshare.net|sportspickle.com|stream2watch.cc|streamazone.com|streamgaroo.com|strikeout.co|strikeout.me|strikeout.mobi|teamliquid.net|tetrisfriends.com|textsfromlastnight.com|thefreethoughtproject.com|thevideo.me|tomsguide.com|tomshardware.co.uk|tomshardware.com|torrentz2.eu|torrentz2.me|trifind.com|tv-series.me|veteranstoday.com|videotoolbox.com|vidlox.tv|vidtodo.com|vidup.me|vidwatch3.me|vipbox.bz|vipbox.is|vipbox.nu|vipbox.sx|vipbox.tv|vipboxeu.co|vipboxoc.co|vipboxtv.me|vipleague.ch|vipleague.co|vipleague.is|vipleague.me|vipleague.mobi|vipleague.se|vipleague.sx|vipleague.tv|vipleague.ws|vipstand.is|vivo.sx|vrheads.com|watch-series-tv.to|watch-series.ag|watch-tv-series.to|watchcartoononline.io|watchepisodes-tv.com|watchseries.ag|watchseries.li|watchseries.lt|watchseries.ph|watchseries.vc|watchseriesuk.ag|watchseriesuk.lt|watchtvseries.se|watchtvseries.unblocked.work|watchtvseries.vc|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|webfirstrow.eu|wholecloud.net|windowscentral.com|world4ufree.ws
 0.0.0.0 |http:$subdocument,third-party,domain=2ad.in|ad2links.com|adfoc.us|adv.li|adyou.me|allmyvideos.net|amvtv.net|ay.gy|fuestfka.com|imgmega.com|j.gs|linkbucksmedia.com|mortastica.com|prodsetter-in.com|q.gs|sh.st|shr77.com|sonomerit.com|ssovgoxbvppy.net|streamcloud.eu|thevideo.me|twer.info|u.bb|uploaded.net|vidspot.net
 0.0.0.0 |http:$third-party,xmlhttprequest,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.ru|123movies.vc|123moviesfree.com|123movieshd.net|9cartoon.me|animehaven.to|auroravid.to|ay8ou8ohth.com|bitvid.sx|btdb.in|clipconverter.cc|cloudtime.to|cmovieshd.com|divxme.com|downloadming.tv|fmovies.se|fmovies.to|full-pcsoftware.com|halacima.net|hdmusic99.in|hdtv-rls.com|kannadamovies.biz|kissanime.ru|kissmanga.com|livetvcafe.net|movdivx.com|nowvideo.li|nowvideo.sx|nowvideo.to|oogh8ot0el.com|otorrents.com|pocketnow.com|putlocker.co|putlockertv.is|suprafiles.co|thepiratebay.cd|vidzi.tv|wholecloud.net
-0.0.0.0 |http://creative.*/smart.js$script,third-party
-0.0.0.0 |http://go.$domain=nowvideo.sx
-0.0.0.0 |http://j.gs/omnigy*.swf
-0.0.0.0 |http://p.pw^$subdocument
+0.0.0.0 creative.*/smart.js$script,third-party
+0.0.0.0 go.$domain=nowvideo.sx
+0.0.0.0 j.gs/omnigy*.swf
+0.0.0.0 p.pw^$subdocument
 0.0.0.0 |https:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adjet.biz|adv.li|ay.gy|j.gs|linkbucksmedia.com|q.gs|sh.st|thevideo.me|tvbximak.com|u.bb
 0.0.0.0 |https:$third-party,xmlhttprequest,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.ru|123movies.vc|123movieshd.net|123movieshd.tv|dropapk.com|estream.to|hdmusic99.in|otorrents.com|solarmovie.sc|wholecloud.net
 0.0.0.0 ||0-60mag.com/js/takeover-2.0/
@@ -33328,7 +33324,6 @@
 0.0.0.0 @@||youtube.com/iframe_api$third-party
 0.0.0.0 @@||youtube.com/player_api$third-party
 0.0.0.0 ||cloudfront.net^$script,third-party,domain=171gifs.com|1proxy.de|2ddl.download|300mbfilms.co|300mbfilms.org|321jav.com|353online.com|4horlover.blogspot.com|4horlover2.blogspot.com|4proxy.de|61tube.com|69sugar.com|6jav.com|6teentube.am|7starhd.com|9xmovies.site|abcmalayalam.co|abgdianci.com|adultdouga.biz|aflamfree.net|aflamtorrent.com|agarios.org|ahlamtv.com|alivefoot.us|alivefootballstreaming.com|allpeliculas.com|amabitch.com|amateur.ug|ancensored.com|andrija-i-andjelka.com|anime-music.info|anime-shitai.tv|anime-sugoi.com|animeado.net|animeai2.net|animelek.com|animemusicdownload.info|animesenzalimiti.com|animesonline2hd.org|animesonlinetk.info|animesorion.org|animezone.pl|anitube.es|antenasport.eu|anyanime.com|apklover.net|aquariumgays.com|arab-moviez.org|arabp2p.com|archived.moe|artgifsocean.com|asianporndistrict.com|asianxv.com|assistirfilmeshd.org|assistirfilmesonline2.net|avpockiehd.com|axxomovies.in|azkempire.com|aznude.com|baixarsomusica.com|bajarjuegospcgratis.com|bakacan.com|balkandownload.org|balkanje.com|bdmusicboss.net|bdsmporn.us|beautiesbondage.com|becekin.net|beelink.in|behchala.com|bestsongspk.com|big4umovies.net|bilasport.pw|blackboxrepack.com|blacklionmusic.com|blogqpot.com|bludv.com|bokep2017.com|bokepcewek.net|bokepseks.co|bolly2tolly.com|bouncebreak.com|brazzershd.co|btdb.in|bugiltelanjang17.com|calcioitalia.stream|camrouge.com|camwhores.co|cartoonhd.cc|cartoonth12.com|catosports.ml|centraldeanimes.biz|cholotubex.com|cinemamkv.xyz|cinetux.net|cliphayho.com|coastalhut.com|columbia-xxx.com|comicporno.org|cookiesnetfl1x.com|cooltamil.com|coroas40.com|couchtuner.fr|couchtuner.nu|cricbox.net|cwtube.dj|czechmoneyteens.com|dblatino.com|dclinks.info|dd-books.com|debrideco.com|demonoid.co|depedlps.blogspot.com|desixnxx.net|devil-torrents.pl|discografiascompletas.net|djmazamp3.info|donlotfile.com|download-xyz.com|downloadgameps3.com|downloadgamepsp.com|downloadgamexbox.com|drakorindo.com|drakorindofilms.com|drhmonegyi.net|dvdwap.com|dzrepackteam.com|e-hentai.me|e-jav.com|edmdl.com|ekasiwap.com|electro-torrent.pl|embedlink.info|embedsr.to|erodouga69.com|erostar.jp|estrenosdoramas.net|estrenosdoramas.org|etsmods.net|eurostreaming.video|exposure.pw|fagken.com|fastdrama.co|felipephtutoriais.com.br|filerocks.us|filmaon.com|filmclub.tv|filmehd.net|filmeserialeonline.org|filmeseseriesonline.net|filmesonline1080p.com|filmesonline4.com|filmesonlineagora.com|filmesonlineplay.com|filmesonlinex.biz|filmetraduseonline.ro|filmi7.com|filminvazio.com|filmozu.net|filmuptobox.net|filsex.com|flashbd24.blogspot.com|freeadultcomix.com|freeiptvlinks.net|freelivesports.co|freesoftwaredlul.com|fullmaza.net|fullpinoymovies.net|futebolps2.com|fxporn.net|gameofporn.net|gamepciso.com|gamestorrent.co|garotosbrasil.com|gaycock4u.com|gaysex69.net|gibanica.club|girlswithmuscle.com|gogoanime.ch|gottateens.com|gravuregirlz.com|grcrt.net|guasavemp3.com|hacknetfl1x.net|halacima.net|happy-foxie.com|haylike.net|hdarkzone.com|hdmovie16.ws|hdmovie24.net|hdmusic23.net|hdmusic25.com|hdmusic90.co|hdporner720.com|hdpornfull.co|hdpornfull.net|hdshows.in|hdteenvids.com|hdtube.co|hdzex.net|healthsoul.info|hentai-for.me|hentai-id.tv|hentai.to|hentaicomicsbr.net|hentaiplay.net|hentaiplus.co|hentaistream.co|her69.net|herobo.com|hindimoviesonlines.net|hiper.cool|hkfree.co|homeporn.tv|hon3yhd.com|hyperdebrid.net|i-gay.org|icwutudidare.info|idolblog.org|igg-games.com|ightdl.xyz|iimgur.club|ilinks.ug|ilovefilmesonline.biz|image-bugs.com|imgsmile.com|incestoporno.org|insharee.com|iprojectfreetv.us|iptvsatlinks.blogspot.com|itastreaming.gratis|ivhunter.com|izporn.net|jav-for.me|javeu.com|javgay.com|javhd.pro|javhd4k.com|javkimochiii.com|javleak.com|javmobile.net|javmost.com|javonline.online|javpob.com|javrom.com|javstream.co|javus.net|jdownloader2premium.com|jilhub.xyz|jizzman.com|jogostorrentgratis.net|jpfiles.eu|jpgayporn.net|jpidols.tv|k18.co|kingstheme.com|kizzboy.com|kooora2day.com|koraspeak.com|koreansubindo.net|kreskowkazone.pl|kreskowki.tv|kshowes.net|lacajita.xyz|lambingan.su|layar-21.com|layarindo21.com|lecheanal.com|leech.ae|leosims.com|letsjav.com|link2download.net|livehd90m.info|livesoccertv.live|livestreaming24.net|loonertube.com|lyricsy.ir|macgames-download.com|macnwins.com|magesy.be|manatelugump3.net|mangacanblog.com|maniacosporcomics.com|marapcana.eu|marvin-vibez.to|masflowmusik.net|masterfilmesonlinegratis.info|maxinlive.com|megafilmeshdplus.org|megafodabr.com|megahentaicomics.com|megaseriesonline.com|megatobox.net|meguminime.com|metaserie.com|milversite.me|minatosuki.com|minhaserie.me|mitemovie.com|mixhdporn.com|mkvtv.net|mmfilmes.com|mocnoi.com|modelblog.org|movie24k.ch|movieerotic.net|moviehd-free.com|moviehd-xxx.com|movierulz.ch|movierulz.cm|movierulz.xyz|movies24hd.co|movies5x.com|moviesak47.com|moviesgoldonline.net|moviesgoldonline.pro|movieshdgratis.com.mx|movietubenow.bz|movietv.ws|moviezplanet.org|movieztimes.com|mp3haat.com|mp3kart.co|mp3kart.com|mp3mydownload.com|mp3puu.com|mp3songdl.net|musculoduro.com.br|muvibg.com|mylucah.co|mymoviepot.xyz|mzansifun.com|mzansiporntube.com|mzansixxx.com|namethatpornstar.com|naphi.lol|nasze-kino.online|nbafullhd.com|neko-miku.com|nekonime.com|newhdmovie24.biz|newhdmovie24.co|newhdmovies.net|newpct.com|newpct1.com|nflstream.net|ngentot.tv|ninfetasnovinhas.net|nontononlinedrama.com|nosteam.com.ro|nudeyoung.xyz|nulledcenter.com|nungg.com|nuttit.com|nxtcomicsclub.com|ocsstream.info|ohohd.com|ohyeah1080.com|okmovie-hd.com|olangal.pro|omberbagi.com|ondeeubaixo.com|one-series.cc|onlinefilmovisaprevodom.cc|onlinefilmsitesii.net|onlinemoviesgold.one|onlinemoviesprime.net|openx.tv|opujem.com|otaku-animehd.com|otorrents.com|ottakae.com|peliculasgo.com|peliculasm.tv|peliculasmega1k.com|peliculastomas01.org|pelisplus.tv|pelisxporno.com|pentasex.com|perfecthdmovies.pw|perulareshd.pw|phimotv.net|picanteeproibido.com.br|pinaycute.com|pipocao.com|pirateaccess.xyz|piratebay.co.in|planetsport.pw|playbokep.me|playpornfree.net|pleermp3.net|pokemonlaserielatino.com|polskie-torrenty.com|popjav.com|porneq.com|pornfromcz.com|pornfromczech.com|pornhardx.com|pornhd5k.com|pornhubz.tumblr.com|pornleak.net|pornlibrary.net|pornobae.com|pornocomics.net|pornotorrent.com.br|pornotorrent.org|pornpassw0rds.com|pornsexonline.xxx|pornvibe.org|pornvxl.com|portalroms.com|portalultautv.com|primewire.io|programasvirtualespc.net|projectfreetvhd.co|projectfreetvi.info|psarips.com|pure-anime.tv|pussybook.xyz|q3sk-dizi.blogspot.com|querofilmehd.com|r34anim.com|rapcloud.co|reallifecamhd.com|reallifecamvd.com|ripvod.com|rosextube.com|runvideo.net|savvystreams.blogspot.co.uk|savvystreams.blogspot.com|sceper.ws|sdmoviespoint.in|serialed.blogspot.com|series-cravings.tv|seriesblanco.tv|seriescr.com|seriesfuture.com|seriesintorrent.com|serieslatino.tv|seriesparaassistironline.org|seriesparalatinoamerica.blogspot.com|sexisfree.net|sexix.net|sexiz.net|sexloading.com|sexvui.net|sexxdesi.net|sexy-youtubers.com|sexyeroticgirls.com|shofonline.org|shush.se|sinevizyonda.org|singgah.in|sitpad.info|skidrowcrack.com|sklns.net|soccerembed.blogspot.com|solotorrent.net|soparagamestorrents.com|spacemov.tv|speedplay.pro|sports4u.net|stadium-live.biz|streamingok.com|streamlord.com|suki48.web.id|superteenz.com|sweext.com|tamilmv.vc|tamilrasigan.net|teenboytwink.com|teentubeq.com|tele-wizja.com|telugudon.com|telugupalaka.com|teluguringtones.co|telugusexstorieskathalu.net|theapricity.com|thebarchive.com|thebestofcafucus.com|thepiratebay.cd|thepiratebay24.ga|thepiratebay3.org|theputlocker.net|thesimplebay.pro|thiruttuvcd.me|tlenovelas.net|todaypk.li|todoinmega.com|tokusatsuindo.com|torjackan.info|torrentcounter.cc|torrentfilmesbr.com|torrentlocura.com|torrentool.com|torrentoon.com|torrentrapid.com|torrentscompletos.com|torrentsgroup.com|tousatu.biz|tr7music.me|tuhentaionline.com|tumejortorrent.com|tuportaldemusica.com|turkishseries.li|tuserie.com|tushyporn.net|tvrex.net|twitchstats.net|ufreetv.com|unduhfilmrama.biz|upcomics.org|uporniahd.com|usabit.com|utaseries.co|utaseries.com|uwatchfree.co|v100v.net|vdizpk.com|veekyforums.com|vercanalestv.com|verdirectotv.com|verpeliculasporno.gratis|vertusnovelas.net|veyqo.net|veziserialeonline.info|vibokep.info|video.az|videobokepgratis.me|videobokepincest.xyz|videoexa.com|videosexbokep.org|videosnudes.com|vidiobokeptop.com|vidtome.co|vidz7.com|viralshow.info|vivatorrents.com|viveseries.com|vivetusnovelas.com|vixvids.to|vpondo.com|vpornex.com|watchaha.com|watcharcheronline.com|watchcommunity.tv|watchers.to|watchfomny.tv|watchjavidol.com|watchjavonline.com|watchparksandrecreation.cc|watchpornfree.me|watchtheofficeonline.cc|wetblog.org|wibudesu.com|wolverdon-filmes.com|world4ufree.ws|worldvidz.com|wplocker.com|xdvideos.org|xfilmywap.com|xgatinhas.com|xkorean.net|xmovies1.com|xmovies247.com|xmovies8.org|xrares.com|xteenchan.com|xvideospanish.com|xxgasm.com|xxhdporn.com|xxx-comics.com|yallakora-online.com|yedhit.com|yeucontrai.com|yify-torrent.xyz|yify.bz|yodrama.com|youpornzz.com|youswear.com|ytsyify.com|yuptorrents.com|yuuk.net|zambianobserver.com|zfilmeonline.eu|zippymoviez.top|zippysharealbum.download|zonavideo.net|zone-series.cc|zoocine.co|zw-net.com
-0.0.0.0 !
 0.0.0.0 ! Popads domains Site Specific fixes
 0.0.0.0 @@/wp-content/*$script,third-party,domain=animakai.info|faststream.ws|ig2fap.com|javfinder.to|moviesgoldonline.net|onlinemoviesgold.one|openx.tv|sexix.net|todaypk.ag|veporn.net|yourporn.sexy
 0.0.0.0 @@||04stream.com/weed.js
@@ -33348,7 +33343,6 @@
 0.0.0.0 @@||zencdn.net^$script,domain=pornotorrent.com.br
 0.0.0.0 @@||zoomtv.me^$script,domain=strikeout.co
 0.0.0.0 @@||zopim.com^$script,domain=javhd4k.com
-0.0.0.0 !
 0.0.0.0 ! torrentproject.se
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=torrentproject.se
 0.0.0.0 @@||torrentproject.se/lazyload.js
@@ -33360,8 +33354,8 @@
 0.0.0.0 @@||fonts.googleapis.com^$stylesheet,domain=xclusivejams.xyz
 0.0.0.0 @@||wp.com^$script,domain=xclusivejams.xyz
 0.0.0.0 @@||youtube.com/embed/$domain=xclusivejams.xyz
-0.0.0.0 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=xclusivejams.xyz
-0.0.0.0 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=xclusivejams.xyz
+0.0.0.0 $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=xclusivejams.xyz
+0.0.0.0 $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=xclusivejams.xyz
 0.0.0.0 ! filecrypt.cc
 0.0.0.0 @@||filecrypt.cc/js/container.js$script
 0.0.0.0 @@||filecrypt.cc/js/fcwindow.js$script
@@ -33376,22 +33370,22 @@
 0.0.0.0 @@||filecrypt.cc/js/scriptaculous/slider.js$script
 0.0.0.0 ||filecrypt.cc/js/$script
 0.0.0.0 ! auroravid.to
-0.0.0.0 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=auroravid.to
-0.0.0.0 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=auroravid.to
+0.0.0.0 $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=auroravid.to
+0.0.0.0 $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=auroravid.to
 0.0.0.0 ! iwatchonline
 0.0.0.0 @@||spot.im/api/all/$xmlhttprequest,domain=iwatchonline.cr|iwatchonline.eu
 0.0.0.0 @@||spot.im/api/newsfeed-sync/$xmlhttprequest,domain=iwatchonline.cr|iwatchonline.eu
 0.0.0.0 @@||spot.im^$script,subdocument,domain=iwatchonline.cr|iwatchonline.eu
-0.0.0.0 |http://$script,subdocument,third-party,xmlhttprequest,domain=iwatchonline.cr|iwatchonline.eu
-0.0.0.0 |https://$script,subdocument,third-party,xmlhttprequest,domain=iwatchonline.cr|iwatchonline.eu
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=iwatchonline.cr|iwatchonline.eu
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=iwatchonline.cr|iwatchonline.eu
 0.0.0.0 ! blacklistednews.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=blacklistednews.com
 0.0.0.0 @@||disqus.com^$domain=blacklistednews.com
 0.0.0.0 @@||disquscdn.com^$domain=blacklistednews.com
 0.0.0.0 @@||maxcdn.bootstrapcdn.com^$script,domain=blacklistednews.com
 0.0.0.0 @@||ravenjs.com^*/raven.min.js$domain=blacklistednews.com
-0.0.0.0 |http://$script,stylesheet,subdocument,third-party,webrtc,xmlhttprequest,domain=blacklistednews.com
-0.0.0.0 |https://$script,stylesheet,subdocument,third-party,webrtc,xmlhttprequest,domain=blacklistednews.com
+0.0.0.0 $script,stylesheet,subdocument,third-party,webrtc,xmlhttprequest,domain=blacklistednews.com
+0.0.0.0 $script,stylesheet,subdocument,third-party,webrtc,xmlhttprequest,domain=blacklistednews.com
 0.0.0.0 ! Imagetwist/Imagenpic/Imageshimage
 0.0.0.0 @@||imagenpic.com/jquery-*.js
 0.0.0.0 @@||imagenpic.com/jquery.*.js
@@ -33430,8 +33424,8 @@
 0.0.0.0 @@||imgchili.net/source/includes/scripts/genjscript.js|$script
 0.0.0.0 @@||imgchili.net/source/includes/scripts/jquery.$script
 0.0.0.0 @@||imgchili.net/source/includes/scripts/phpjs_*.js
-0.0.0.0 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=imgchili.net
-0.0.0.0 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=imgchili.net
+0.0.0.0 $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=imgchili.net
+0.0.0.0 $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=imgchili.net
 0.0.0.0 ||imgchili.net^$script,~third-party
 0.0.0.0 ! Pixhost
 0.0.0.0 @@||pixhost.org/js/clipboard-helpers.js?
@@ -33454,8 +33448,8 @@
 0.0.0.0 @@||pixhost.org/vendor/jquery-*.js?
 0.0.0.0 ||pixhost.org^$script,~third-party
 0.0.0.0 ! youtube-mp3.org
-0.0.0.0 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=youtube-mp3.org
-0.0.0.0 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=youtube-mp3.org
+0.0.0.0 $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=youtube-mp3.org
+0.0.0.0 $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=youtube-mp3.org
 0.0.0.0 ! shink.in
 0.0.0.0 @@||shink.in/js/creative.js
 0.0.0.0 @@||shink.in/js/jquery.easing.min.js
@@ -33464,31 +33458,31 @@
 0.0.0.0 @@||shink.in/js/wow.min.js
 0.0.0.0 ||shink.in^$script
 0.0.0.0 ! unblocked
-0.0.0.0 |http://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=unblocked.work
-0.0.0.0 |https://$script,stylesheet,subdocument,third-party,xmlhttprequest,domain=unblocked.work
+0.0.0.0 $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=unblocked.work
+0.0.0.0 $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=unblocked.work
 0.0.0.0 ! up-4ever.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=up-4ever.com
 0.0.0.0 @@||connect.facebook.net^$script,domain=up-4ever.com
 0.0.0.0 @@||fonts.googleapis.com^$stylesheet,domain=up-4ever.com
 0.0.0.0 @@||maxcdn.bootstrapcdn.com^$stylesheet,domain=up-4ever.com
-0.0.0.0 |http://$script,stylesheet,third-party,xmlhttprequest,domain=up-4ever.com
-0.0.0.0 |https://$script,stylesheet,third-party,xmlhttprequest,domain=up-4ever.com
+0.0.0.0 $script,stylesheet,third-party,xmlhttprequest,domain=up-4ever.com
+0.0.0.0 $script,stylesheet,third-party,xmlhttprequest,domain=up-4ever.com
 0.0.0.0 ! hothardware.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=hothardware.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=hothardware.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=hothardware.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=hothardware.com
 0.0.0.0 ! thewindowsclub.com (Admiral)
 0.0.0.0 @@||cse.google.com/cse.js$script,domain=thewindowsclub.com
 0.0.0.0 @@||puzzlingfall.com^$xmlhttprequest,domain=thewindowsclub.com
 0.0.0.0 @@||thewindowsclub.disqus.com^$script,domain=thewindowsclub.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=thewindowsclub.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=thewindowsclub.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=thewindowsclub.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=thewindowsclub.com
 0.0.0.0 ! pcper.com (Admiral)
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=pcper.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=pcper.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=pcper.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=pcper.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=pcper.com
 0.0.0.0 ! freewarefiles.com
-0.0.0.0 |http://$third-party,xmlhttprequest,domain=freewarefiles.com
-0.0.0.0 |https://$third-party,xmlhttprequest,domain=freewarefiles.com
+0.0.0.0 $third-party,xmlhttprequest,domain=freewarefiles.com
+0.0.0.0 $third-party,xmlhttprequest,domain=freewarefiles.com
 0.0.0.0 ! demonoid.pw
 0.0.0.0 /nexp/dok2v=*/cloudflare/rocket.js$script,domain=demonoid.pw
 0.0.0.0 @@||cloudflare.com/ajax/$script,third-party,domain=demonoid.pw
@@ -33499,8 +33493,8 @@
 0.0.0.0 @@||demonoid.pw/js/jq3.js|$script
 0.0.0.0 @@||demonoid.pw/new_pm.php$xmlhttprequest
 0.0.0.0 @@||demonoid.pw/torrent_categories_script.php|$script
-0.0.0.0 |http://$script,xmlhttprequest,domain=demonoid.pw
-0.0.0.0 |https://$script,xmlhttprequest,domain=demonoid.pw
+0.0.0.0 $script,xmlhttprequest,domain=demonoid.pw
+0.0.0.0 $script,xmlhttprequest,domain=demonoid.pw
 0.0.0.0 ! imagebam
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=imagebam.com
 0.0.0.0 @@||imagebam.com/JS/imagebam.js$script
@@ -33512,20 +33506,20 @@
 0.0.0.0 ||imagebam.com^$script
 0.0.0.0 ! debridnet.com
 0.0.0.0 @@||code.jquery.com^$script,domain=debridnet.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=debridnet.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=debridnet.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=debridnet.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=debridnet.com
 0.0.0.0 ! project-free-tv.li
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=project-free-tv.li
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=project-free-tv.li
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=project-free-tv.li
+0.0.0.0 $script,third-party,xmlhttprequest,domain=project-free-tv.li
+0.0.0.0 $script,third-party,xmlhttprequest,domain=project-free-tv.li
 0.0.0.0 ! destructoid.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=destructoid.com
 0.0.0.0 @@||code.jquery.com^$script,domain=destructoid.com
 0.0.0.0 @@||disqus.com^$script,domain=destructoid.com
 0.0.0.0 @@||disquscdn.com^$script,domain=destructoid.com
 0.0.0.0 @@||maxcdn.bootstrapcdn.com^$script,domain=destructoid.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=destructoid.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=destructoid.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=destructoid.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=destructoid.com
 0.0.0.0 !  fmovies
 0.0.0.0 @@||disqus.com^$script,domain=fmovies.is
 0.0.0.0 @@||disquscdn.com^$script,stylesheet,domain=fmovies.is
@@ -33534,43 +33528,43 @@
 0.0.0.0 @@||fmovies.is/user/ajax/$xmlhttprequest,domain=fmovies.is
 0.0.0.0 @@||platform.twitter.com^$script,domain=fmovies.is|fmovies.se|fmovies.to
 0.0.0.0 |http:$popup,third-party,domain=fmovies.is
-0.0.0.0 |http://$script,stylesheet,third-party,domain=fmovies.is|fmovies.se|fmovies.to
+0.0.0.0 $script,stylesheet,third-party,domain=fmovies.is|fmovies.se|fmovies.to
 0.0.0.0 |https:$popup,third-party,domain=fmovies.is
-0.0.0.0 |https://$script,stylesheet,third-party,domain=fmovies.is|fmovies.se|fmovies.to
+0.0.0.0 $script,stylesheet,third-party,domain=fmovies.is|fmovies.se|fmovies.to
 0.0.0.0 ||fmovies.is^$popup,~third-party
 0.0.0.0 ||fmovies.is^$xmlhttprequest,domain=fmovies.is
 0.0.0.0 ||fmovies.se^$popup,~third-party
 0.0.0.0 ||fmovies.to^$popup,~third-party
 0.0.0.0 ! wholecloud.net
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=wholecloud.net
-0.0.0.0 |http://$script,subdocument,third-party,xmlhttprequest,domain=wholecloud.net
-0.0.0.0 |https://$script,subdocument,third-party,xmlhttprequest,domain=wholecloud.net
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=wholecloud.net
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=wholecloud.net
 0.0.0.0 ! movdivx.com
 0.0.0.0 @@||movdivx.com/cgi-bin/upload.cgi?$xmlhttprequest
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=movdivx.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=movdivx.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=movdivx.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=movdivx.com
 0.0.0.0 ! vidlox.tv
 0.0.0.0 @@||api.peer5.com^$script,domain=vidlox.tv
 0.0.0.0 @@||cdn.jsdelivr.net^$script,domain=vidlox.tv
-0.0.0.0 |http://$script,subdocument,third-party,xmlhttprequest,domain=vidlox.tv
-0.0.0.0 |https://$script,subdocument,third-party,xmlhttprequest,domain=vidlox.tv
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=vidlox.tv
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=vidlox.tv
 0.0.0.0 ! ancient-origins.net
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=ancient-origins.net
 0.0.0.0 @@||connect.facebook.net^$script,domain=ancient-origins.net
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=ancient-origins.net
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=ancient-origins.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=ancient-origins.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=ancient-origins.net
 0.0.0.0 ! vshare.eu
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=vshare.eu
 0.0.0.0 @@||cdnjs.cloudflare.com^$script,domain=vshare.eu
 0.0.0.0 @@||lp.longtailvideo.com^$script,domain=vshare.eu
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=vshare.eu
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=vshare.eu
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vshare.eu
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vshare.eu
 0.0.0.0 ! pencurimovie.ph
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=pencurimovie.ph
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=pencurimovie.ph
+0.0.0.0 $script,third-party,xmlhttprequest,domain=pencurimovie.ph
+0.0.0.0 $script,third-party,xmlhttprequest,domain=pencurimovie.ph
 0.0.0.0 ! filmlinks4u.is
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=filmlinks4u.is
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=filmlinks4u.is
+0.0.0.0 $script,third-party,xmlhttprequest,domain=filmlinks4u.is
+0.0.0.0 $script,third-party,xmlhttprequest,domain=filmlinks4u.is
 0.0.0.0 ! 9anime.to
 0.0.0.0 @@||connect.facebook.net^$script,domain=9anime.to
 0.0.0.0 @@||disqus.com^$domain=9anime.to
@@ -33578,49 +33572,49 @@
 0.0.0.0 @@||openload.co/assets/js/jquery.min.js$script,domain=9anime.to
 0.0.0.0 @@||openload.co/assets/js/video*.js$script,domain=9anime.to
 0.0.0.0 @@||platform.twitter.com^$script,domain=9anime.to
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=9anime.to
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=9anime.to
+0.0.0.0 $script,third-party,xmlhttprequest,domain=9anime.to
+0.0.0.0 $script,third-party,xmlhttprequest,domain=9anime.to
 0.0.0.0 ! onlinemoviesgold.one
 0.0.0.0 @@||maps.googleapis.com^$domain=onlinemoviesgold.one
 0.0.0.0 @@||moviesgoldonline.net/wp-content/$script,domain=onlinemoviesgold.one
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=onlinemoviesgold.one
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=onlinemoviesgold.one
+0.0.0.0 $script,third-party,xmlhttprequest,domain=onlinemoviesgold.one
+0.0.0.0 $script,third-party,xmlhttprequest,domain=onlinemoviesgold.one
 0.0.0.0 ! nosvideo
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=nosvideo.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=nosvideo.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=nosvideo.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=nosvideo.com
 0.0.0.0 ! watchvideo / watchme
 0.0.0.0 @@/index-*.m3u8$xmlhttprequest,domain=vidwatch3.me|watchmovienow.site|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us
 0.0.0.0 @@/master.m3u8$xmlhttprequest,domain=vidwatch3.me|watchmovienow.site|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us
 0.0.0.0 @@/seg-*.ts$xmlhttprequest,domain=vidwatch3.me|watchmovienow.site|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us
 0.0.0.0 @@||pongomovies.xyz^$script,domain=watchmovienow.site
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=vidwatch3.me|watchmovienow.site|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=vidwatch3.me|watchmovienow.site|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vidwatch3.me|watchmovienow.site|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vidwatch3.me|watchmovienow.site|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us
 0.0.0.0 ! watchers.to
 0.0.0.0 @@||watchers.to/pop.js$script
-0.0.0.0 |http://$script,subdocument,third-party,xmlhttprequest,domain=watchers.to
-0.0.0.0 |https://$script,subdocument,third-party,xmlhttprequest,domain=watchers.to
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=watchers.to
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=watchers.to
 0.0.0.0 ! pcgames-download.net
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=pcgames-download.net
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=pcgames-download.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=pcgames-download.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=pcgames-download.net
 0.0.0.0 ! skidrowreloaded.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=skidrowreloaded.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=skidrowreloaded.com
 0.0.0.0 ! yify.bz
 0.0.0.0 @@||p.media-imdb.com^$script,domain=yify.bz
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=yify.bz
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=yify.bz
+0.0.0.0 $script,third-party,xmlhttprequest,domain=yify.bz
+0.0.0.0 $script,third-party,xmlhttprequest,domain=yify.bz
 0.0.0.0 ! yifytorrent.co
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=yifytorrent.co
 0.0.0.0 @@||cdnjs.cloudflare.com^$script,domain=yifytorrent.co
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=yifytorrent.co
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=yifytorrent.co
+0.0.0.0 $script,third-party,xmlhttprequest,domain=yifytorrent.co
+0.0.0.0 $script,third-party,xmlhttprequest,domain=yifytorrent.co
 0.0.0.0 ! bestream.tv
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=bestream.tv
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=bestream.tv
+0.0.0.0 $script,third-party,xmlhttprequest,domain=bestream.tv
+0.0.0.0 $script,third-party,xmlhttprequest,domain=bestream.tv
 0.0.0.0 ! ancensored.com
 0.0.0.0 @@||code.jquery.com^$domain=ancensored.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=ancensored.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=ancensored.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=ancensored.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=ancensored.com
 0.0.0.0 ! chicagoreader.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=chicagoreader.com
 0.0.0.0 @@||argyresthia.com^$xmlhttprequest,domain=chicagoreader.com
@@ -33628,17 +33622,17 @@
 0.0.0.0 @@||platform.twitter.com^$script,domain=chicagoreader.com
 0.0.0.0 @@||saambaa.com^$script,domain=chicagoreader.com
 0.0.0.0 @@||video.unrulymedia.com^$script,domain=chicagoreader.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=chicagoreader.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=chicagoreader.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=chicagoreader.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=chicagoreader.com
 0.0.0.0 ! vdrive.to
 0.0.0.0 @@||tawk.to^$domain=vdrive.to
 0.0.0.0 @@||vcdn.to^$xmlhttprequest,domain=vdrive.to
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=vdrive.to
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=vdrive.to
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vdrive.to
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vdrive.to
 0.0.0.0 ! embedscr.to
 0.0.0.0 @@||openload.co^$script,domain=embedscr.to|embedsr.to|iembedrip.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=embedscr.to|embedsr.to|iembedrip.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=embedscr.to|embedsr.to|iembedrip.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=embedscr.to|embedsr.to|iembedrip.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=embedscr.to|embedsr.to|iembedrip.com
 0.0.0.0 ! video-download.online
 0.0.0.0 @@||cdndoge.xyz/common/js/cookie.js
 0.0.0.0 @@||cdndoge.xyz/common/js/jquery.js
@@ -33647,8 +33641,8 @@
 0.0.0.0 @@||cdndoge.xyz/video-download/js/dropdown.js
 0.0.0.0 @@||cdndoge.xyz/video-download/js/event.js
 0.0.0.0 @@||cdndoge.xyz/video-download/js/waves.js
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=video-download.online
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=video-download.online
+0.0.0.0 $script,third-party,xmlhttprequest,domain=video-download.online
+0.0.0.0 $script,third-party,xmlhttprequest,domain=video-download.online
 0.0.0.0 ! Mobile Nations (windowscentral.com imore.com crackberry.com androidcentral.com)
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com
 0.0.0.0 @@||apis.google.com^$script,domain=crackberry.com|forums.androidcentral.com|imore.com|windowscentral.com
@@ -33665,42 +33659,42 @@
 0.0.0.0 @@||tru.am/scripts/custom/mobilenations.js$script,domain=crackberry.com|forums.androidcentral.com|imore.com|windowscentral.com
 0.0.0.0 @@||tru.am/scripts/ta-pagesocial-sdk.js$script,domain=crackberry.com|forums.androidcentral.com|imore.com|windowscentral.com
 0.0.0.0 @@||youtube.com^$script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com
 0.0.0.0 ||androidcentral.com/sites/androidcentral.com/files/advagg_js/$script
 0.0.0.0 ||crackberry.com/sites/crackberry.com/files/advagg_js/$script
 0.0.0.0 ||imore.com/sites/imore.com/files/advagg_js/$script
 0.0.0.0 ||windowscentral.com/sites/wpcentral.com/files/advagg_js/$script
 0.0.0.0 ! tamilmv
 0.0.0.0 @@||googleapis.com/ajax/$script,domain=tamilmv.mx
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=tamilmv.mx
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=tamilmv.org
+0.0.0.0 $script,third-party,xmlhttprequest,domain=tamilmv.mx
+0.0.0.0 $script,third-party,xmlhttprequest,domain=tamilmv.org
 0.0.0.0 ! world4ufree.ws
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=world4ufree.ws
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=world4ufree.ws
+0.0.0.0 $script,third-party,xmlhttprequest,domain=world4ufree.ws
+0.0.0.0 $script,third-party,xmlhttprequest,domain=world4ufree.ws
 0.0.0.0 ! goolink.me
 0.0.0.0 @@||google.com/recaptcha/$subdocument,domain=goolink.me
-0.0.0.0 |http://$subdocument,third-party,domain=goolink.me
-0.0.0.0 |https://$subdocument,third-party,domain=goolink.me
+0.0.0.0 $subdocument,third-party,domain=goolink.me
+0.0.0.0 $subdocument,third-party,domain=goolink.me
 0.0.0.0 ! adlipay.com
 0.0.0.0 @@||connect.facebook.net^$script,domain=adlipay.com
 0.0.0.0 @@||google.com/recaptcha/$subdocument,domain=adlipay.com
 0.0.0.0 @@||rawgit.com/Brando07/seocips/newbe/loading1.js$script,domain=adlipay.com
-0.0.0.0 |http://$script,subdocument,third-party,xmlhttprequest,domain=adlipay.com
-0.0.0.0 |https://$script,subdocument,third-party,xmlhttprequest,domain=adlipay.com
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=adlipay.com
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=adlipay.com
 0.0.0.0 ! veekyforums.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=veekyforums.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=veekyforums.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=veekyforums.com
 0.0.0.0 ||veekyforums.com^$subdocument,~third-party
 0.0.0.0 ! projectwatchseries.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=candyreader.com|likesblog.com|projectfreetv.at|projectfreetv.sc|projectfreetv.us|projectwatchseries.com|shupebrothers.com|watchseriesonline.info
 0.0.0.0 @@||cdnjs.cloudflare.com^$script,domain=candyreader.com|likesblog.com|projectfreetv.at|projectfreetv.sc|projectfreetv.us|projectwatchseries.com|shupebrothers.com|watchseriesonline.info
 0.0.0.0 @@||openload.co/assets/js/$script,domain=projectfreetv.at|projectfreetv.sc|projectfreetv.us|projectwatchseries.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=candyreader.com|likesblog.com|projectfreetv.at|projectfreetv.sc|projectfreetv.us|projectwatchseries.com|shupebrothers.com|watchseriesonline.info
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=candyreader.com|likesblog.com|projectfreetv.at|projectfreetv.sc|projectfreetv.us|projectwatchseries.com|shupebrothers.com|watchseriesonline.info
+0.0.0.0 $script,third-party,xmlhttprequest,domain=candyreader.com|likesblog.com|projectfreetv.at|projectfreetv.sc|projectfreetv.us|projectwatchseries.com|shupebrothers.com|watchseriesonline.info
+0.0.0.0 $script,third-party,xmlhttprequest,domain=candyreader.com|likesblog.com|projectfreetv.at|projectfreetv.sc|projectfreetv.us|projectwatchseries.com|shupebrothers.com|watchseriesonline.info
 0.0.0.0 ! urlcash.net
-0.0.0.0 |http://$script,xmlhttprequest,domain=urlcash.net
-0.0.0.0 |https://$script,xmlhttprequest,domain=urlcash.net
+0.0.0.0 $script,xmlhttprequest,domain=urlcash.net
+0.0.0.0 $script,xmlhttprequest,domain=urlcash.net
 0.0.0.0 ! thebarchive.com
 0.0.0.0 @@||4archive.org/js/extension.min.js
 0.0.0.0 @@||4archive.org/js/jquery.min.js
@@ -33721,17 +33715,17 @@
 0.0.0.0 @@||thebarchive.com/foolfuuka/foolz/*/bootstrap.min.js
 0.0.0.0 @@||thebarchive.com/foolfuuka/foolz/*/plugins.js
 0.0.0.0 @@||thebarchive.com/foolfuuka/mathjax/mathjax/$script
-0.0.0.0 |http://$script,stylesheet,xmlhttprequest,domain=4archive.org|4chanarchives.cu.cc|randomarchive.com|thebarchive.com
-0.0.0.0 |https://$script,stylesheet,xmlhttprequest,domain=4archive.org|4chanarchives.cu.cc|randomarchive.com|thebarchive.com
+0.0.0.0 $script,stylesheet,xmlhttprequest,domain=4archive.org|4chanarchives.cu.cc|randomarchive.com|thebarchive.com
+0.0.0.0 $script,stylesheet,xmlhttprequest,domain=4archive.org|4chanarchives.cu.cc|randomarchive.com|thebarchive.com
 0.0.0.0 ! watchtheofficeonline.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=watchtheofficeonline.com
 0.0.0.0 @@||chatango.com^$script,domain=watchtheofficeonline.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=watchtheofficeonline.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=watchtheofficeonline.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=watchtheofficeonline.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=watchtheofficeonline.com
 0.0.0.0 ! kissasian.com
 0.0.0.0 @@||disqus.com^$script,domain=kissasian.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=kissasian.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=kissasian.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=kissasian.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=kissasian.com
 0.0.0.0 ! rarbg.to
 0.0.0.0 ||rarbg.to^$script,~third-party
 0.0.0.0 ||rarbgmirror.com^$script,~third-party
@@ -33740,8 +33734,8 @@
 0.0.0.0 @@||rule34.xxx/css/sinni.js$script,~third-party
 0.0.0.0 @@||rule34.xxx/script/application.js$script,~third-party
 0.0.0.0 @@||sweetcaptcha.com^$script,domain=rule34.xxx
-0.0.0.0 |http://$script,domain=rule34.xxx
-0.0.0.0 |https://$script,domain=rule34.xxx
+0.0.0.0 $script,domain=rule34.xxx
+0.0.0.0 $script,domain=rule34.xxx
 0.0.0.0 ! en.yibada.com
 0.0.0.0 @@||ajax.aspnetcdn.com^$third-party,domain=yibada.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=yibada.com
@@ -33753,33 +33747,33 @@
 0.0.0.0 @@||maxcdn.bootstrapcdn.com^$script,domain=yibada.com
 0.0.0.0 @@||platform.instagram.com^$script,domain=yibada.com
 0.0.0.0 @@||platform.twitter.com^$script,domain=yibada.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=yibada.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=yibada.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=yibada.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=yibada.com
 0.0.0.0 ! jkanime.net
 0.0.0.0 @@||cdnjs.cloudflare.com^$script,domain=jkanime.net
 0.0.0.0 @@||connect.facebook.net^$script,domain=jkanime.net
 0.0.0.0 @@||facebook.com^$subdocument,domain=jkanime.net
 0.0.0.0 @@||openload.co/assets/js/video-js/$script,domain=jkanime.net
 0.0.0.0 @@||platform.twitter.com/widgets.js$domain=jkanime.net
-0.0.0.0 |http://$script,subdocument,third-party,xmlhttprequest,domain=jkanime.net
-0.0.0.0 |https://$script,subdocument,third-party,xmlhttprequest,domain=jkanime.net
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=jkanime.net
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=jkanime.net
 0.0.0.0 ! kickass.cd
 0.0.0.0 @@||connect.facebook.net^$script,domain=kickass.cd
 0.0.0.0 @@||platform.twitter.com/widgets.js$domain=kickass.cd
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=kickass.cd
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=kickass.cd
+0.0.0.0 $script,third-party,xmlhttprequest,domain=kickass.cd
+0.0.0.0 $script,third-party,xmlhttprequest,domain=kickass.cd
 0.0.0.0 ||kickass.cd/test.js
 0.0.0.0 ! neodrive
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=neodrive.co
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=neodrive.co
+0.0.0.0 $script,third-party,xmlhttprequest,domain=neodrive.co
+0.0.0.0 $script,third-party,xmlhttprequest,domain=neodrive.co
 0.0.0.0 ! tv-trader.me / vidshare.us
 0.0.0.0 @@||vidshare.us/player6/jwplayer.js
 0.0.0.0 ||vidshare.us^$script,~third-party
 0.0.0.0 ! listentoyoutube.com
 0.0.0.0 @@||code.jquery.com^$script,domain=listentoyoutube.com
 0.0.0.0 @@||connect.facebook.net^$script,domain=listentoyoutube.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=listentoyoutube.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=listentoyoutube.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=listentoyoutube.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=listentoyoutube.com
 0.0.0.0 ! stream.moe / anilinkz.io
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=anilinkz.io|stream.moe
 0.0.0.0 @@||apis.google.com^$script,domain=anilinkz.io
@@ -33788,29 +33782,29 @@
 0.0.0.0 @@||platform.twitter.com^$script,domain=anilinkz.io
 0.0.0.0 @@||st.chatango.com^$domain=anilinkz.io
 0.0.0.0 @@||wabbit.moecdn.io/core/page/ajax/$xmlhttprequest,domain=anilinkz.io|stream.moe
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=anilinkz.io|stream.moe
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=anilinkz.io|stream.moe
+0.0.0.0 $script,third-party,xmlhttprequest,domain=anilinkz.io|stream.moe
+0.0.0.0 $script,third-party,xmlhttprequest,domain=anilinkz.io|stream.moe
 0.0.0.0 ! userscloud
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=userscloud.work
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=userscloud.work
+0.0.0.0 $script,third-party,xmlhttprequest,domain=userscloud.work
+0.0.0.0 $script,third-party,xmlhttprequest,domain=userscloud.work
 0.0.0.0 ! multiup.org
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=multiup.org
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=multiup.org
+0.0.0.0 $script,third-party,xmlhttprequest,domain=multiup.org
+0.0.0.0 $script,third-party,xmlhttprequest,domain=multiup.org
 0.0.0.0 ! uploadocean
 0.0.0.0 @@|http://$image,third-party,domain=uploadocean.com
 0.0.0.0 @@|https://$image,third-party,domain=uploadocean.com
 0.0.0.0 @@||ajax.googleapis.com^$script,third-party,domain=uploadocean.com
 0.0.0.0 @@||maxcdn.bootstrapcdn.com^$domain=uploadocean.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=uploadocean.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=uploadocean.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=uploadocean.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=uploadocean.com
 0.0.0.0 ! xmovies8
 0.0.0.0 @@||connect.facebook.net^$script,domain=xmovies8.ru|xmovies8.tv
 0.0.0.0 @@||disqus.com^$script,domain=xmovies8.ru|xmovies8.tv
 0.0.0.0 @@||disquscdn.com^$script,domain=xmovies8.ru|xmovies8.tv
 0.0.0.0 @@||jwplatform.com^$script,domain=xmovies8.ru|xmovies8.tv
 0.0.0.0 @@||jwpsrv.com^$script,domain=xmovies8.ru|xmovies8.tv
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=xmovies8.ru|xmovies8.tv
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=xmovies8.ru|xmovies8.tv
+0.0.0.0 $script,third-party,xmlhttprequest,domain=xmovies8.ru|xmovies8.tv
+0.0.0.0 $script,third-party,xmlhttprequest,domain=xmovies8.ru|xmovies8.tv
 0.0.0.0 ! fullmatchesandshows.com
 0.0.0.0 @@||amazonaws.com/html5player.gamezone.com/$script,domain=fullmatchesandshows.com
 0.0.0.0 @@||platform.instagram.com^$script,domain=fullmatchesandshows.com
@@ -33818,58 +33812,58 @@
 0.0.0.0 @@||s.gravatar.com^$script,domain=fullmatchesandshows.com
 0.0.0.0 @@||video.twimg.com^$xmlhttprequest,domain=twitter.com
 0.0.0.0 @@||wp.com/wp-content/js/$script,domain=fullmatchesandshows.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=fullmatchesandshows.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=fullmatchesandshows.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=fullmatchesandshows.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=fullmatchesandshows.com
 0.0.0.0 ! yts.ag
 0.0.0.0 @@||yts.ag/assets/minified/modded1.js$script,~third-party
-0.0.0.0 |http://$script,domain=yts.ag
-0.0.0.0 |https://$script,domain=yts.ag
+0.0.0.0 $script,domain=yts.ag
+0.0.0.0 $script,domain=yts.ag
 0.0.0.0 ! downace.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=downace.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=downace.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=downace.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=downace.com
 0.0.0.0 ! woop
 0.0.0.0 @@||algolianet.com^$script,xmlhttprequest,domain=streamwoop.tv
 0.0.0.0 @@||cdn.jsdelivr.net^$script,domain=streamwoop.tv
 0.0.0.0 @@||cdnjs.cloudflare.com^$script,domain=streamwoop.tv
 0.0.0.0 @@||connect.facebook.net^$script,domain=streamwoop.tv
 0.0.0.0 @@||streamwoop.com^$script,domain=streamwoop.tv
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=streamwoop.tv
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=streamwoop.tv
+0.0.0.0 $script,third-party,xmlhttprequest,domain=streamwoop.tv
+0.0.0.0 $script,third-party,xmlhttprequest,domain=streamwoop.tv
 0.0.0.0 ! upload.so
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=upload.so
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=upload.so
+0.0.0.0 $script,third-party,xmlhttprequest,domain=upload.so
+0.0.0.0 $script,third-party,xmlhttprequest,domain=upload.so
 0.0.0.0 ! twoddl / 2ddl
 0.0.0.0 @@||2ddl.ag/css/jquery-1.4.2.min.js$script,~third-party
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=twoddl.link
 0.0.0.0 @@||tvmaze.com^$xmlhttprequest,domain=twoddl.link
 0.0.0.0 @@||twoddl.link/wp-content/plugins/$script,~third-party
 0.0.0.0 @@||twoddl.link/wp-includes/js/$script,~third-party
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=2ddl.ag|2ddl.io|2ddl.net|twoddl.link
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=2ddl.ag|2ddl.io|2ddl.net|twoddl.link
+0.0.0.0 $script,third-party,xmlhttprequest,domain=2ddl.ag|2ddl.io|2ddl.net|twoddl.link
+0.0.0.0 $script,third-party,xmlhttprequest,domain=2ddl.ag|2ddl.io|2ddl.net|twoddl.link
 0.0.0.0 ||twoddl.link^$script,~third-party
 0.0.0.0 ! gelbooru.com
 0.0.0.0 @@||gelbooru.com/index.php?$xmlhttprequest
 0.0.0.0 @@||gelbooru.com/public/$xmlhttprequest,domain=gelbooru.com
 0.0.0.0 @@||gelbooru.com/script/application.js$script
 0.0.0.0 @@||platform.twitter.com^$script,domain=gelbooru.com
-0.0.0.0 |http://$script,xmlhttprequest,domain=gelbooru.com
-0.0.0.0 |https://$script,xmlhttprequest,domain=gelbooru.com
+0.0.0.0 $script,xmlhttprequest,domain=gelbooru.com
+0.0.0.0 $script,xmlhttprequest,domain=gelbooru.com
 0.0.0.0 ! theinquirer.net / professionaladviser.com
 0.0.0.0 @@||disqus.com^$script,domain=professionaladviser.com|theinquirer.net
 0.0.0.0 @@||disquscdn.com^$script,domain=professionaladviser.com|theinquirer.net
 0.0.0.0 @@||googletagservices.com/tag/js/gpt.js$domain=theinquirer.net
 0.0.0.0 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=theinquirer.net
 0.0.0.0 @@||tpc.googlesyndication.com/pagead/imgad?id=$image,domain=theinquirer.net
-0.0.0.0 |http://$script,third-party,domain=professionaladviser.com|theinquirer.net
-0.0.0.0 |https://$script,third-party,domain=professionaladviser.com|theinquirer.net
+0.0.0.0 $script,third-party,domain=professionaladviser.com|theinquirer.net
+0.0.0.0 $script,third-party,domain=professionaladviser.com|theinquirer.net
 0.0.0.0 ! vidtodo.com
 0.0.0.0 @@||ajax.googleapis.com^$domain=vidto.me
 0.0.0.0 @@||plugins.longtailvideo.com^$domain=vidto.me
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=vidtodo.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=vidtodo.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vidtodo.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vidtodo.com
 0.0.0.0 ! vidto.me
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=vidto.me
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=vidto.me
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vidto.me
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vidto.me
 0.0.0.0 ! pch.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=games.pch.com
 0.0.0.0 @@||apis.google.com^$script,domain=games.pch.com
@@ -33879,40 +33873,40 @@
 0.0.0.0 @@||pchassets.com^$script,domain=games.pch.com
 0.0.0.0 @@||shoqolate.com^$script,domain=games.pch.com
 0.0.0.0 @@||tags.tiqcdn.com^$domain=games.pch.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=games.pch.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=games.pch.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=games.pch.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=games.pch.com
 0.0.0.0 ! mirrorcreator.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=mirrorcreator.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=mirrorcreator.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=mirrorcreator.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=mirrorcreator.com
 0.0.0.0 ! firstrow-related
 0.0.0.0 @@?stream=/embed/*&width=*&height=$script,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|ifirstrowit.eu|webfirstrow.eu
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|ifirstrowit.eu|webfirstrow.eu
 0.0.0.0 @@||platform.twitter.com^$script,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|ifirstrowit.eu|webfirstrow.eu
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|ifirstrowit.eu|webfirstrow.eu
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|ifirstrowit.eu|webfirstrow.eu
+0.0.0.0 $script,third-party,xmlhttprequest,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|ifirstrowit.eu|webfirstrow.eu
+0.0.0.0 $script,third-party,xmlhttprequest,domain=firstrowas.co|gofirstrow.eu|ifirstrow.eu|ifirstrowit.eu|webfirstrow.eu
 0.0.0.0 ! watchfree.to
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=watchfree.to
 0.0.0.0 @@||connect.facebook.net^$script,domain=watchfree.to
 0.0.0.0 @@||openload.co/assets/js/jquery.min.js$script,domain=watchfree.to
 0.0.0.0 @@||openload.co/assets/js/video*.js$script,domain=watchfree.to
 0.0.0.0 @@||platform.twitter.com^$script,domain=watchfree.to
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=watchfree.to
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=watchfree.to
+0.0.0.0 $script,third-party,xmlhttprequest,domain=watchfree.to
+0.0.0.0 $script,third-party,xmlhttprequest,domain=watchfree.to
 0.0.0.0 ! s0ft4pc.com
 0.0.0.0 @@||s.gravatar.com^$script,third-party,domain=s0ft4pc.com
 0.0.0.0 @@||wp.com/wp-content/js/$script,domain=s0ft4pc.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=s0ft4pc.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=s0ft4pc.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=s0ft4pc.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=s0ft4pc.com
 0.0.0.0 ! pixsense.net
 0.0.0.0 @@||ajax.googleapis.com^$third-party,domain=pixsense.net
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=pixsense.net
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=pixsense.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=pixsense.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=pixsense.net
 0.0.0.0 ! putlocker
 0.0.0.0 @@||apis.google.com^$script,domain=putlocker.is|putlocker.live|putlocker9.co|putlockers.ch|putlockertv.is
 0.0.0.0 @@||connect.facebook.net^$script,domain=putlocker.is|putlocker.live|putlocker9.co|putlockers.ch|putlockertv.is
 0.0.0.0 @@||jsc.mgid.com^$script,domain=putlocker.is|putlocker.live|putlocker9.co|putlockers.ch|putlockertv.is
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=putlocker.live|putlocker9.co|putlockers.ch|putlockertv.is
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=putlocker.is|putlocker.live|putlocker9.co|putlockers.ch|putlockertv.is
+0.0.0.0 $script,third-party,xmlhttprequest,domain=putlocker.live|putlocker9.co|putlockers.ch|putlockertv.is
+0.0.0.0 $script,third-party,xmlhttprequest,domain=putlocker.is|putlocker.live|putlocker9.co|putlockers.ch|putlockertv.is
 0.0.0.0 ! Depositfiles/Dfiles
 0.0.0.0 @@||api-secure.solvemedia.com^$domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
 0.0.0.0 @@||api.solvemedia.com^$third-party,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
@@ -33947,8 +33941,8 @@
 0.0.0.0 @@||static.depositfiles.org^$script
 0.0.0.0 @@||static.dfiles.eu^$script
 0.0.0.0 @@||static.dfiles.ru^$script
-0.0.0.0 |http://$script,subdocument,xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
-0.0.0.0 |https://$script,subdocument,xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
+0.0.0.0 $script,subdocument,xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
+0.0.0.0 $script,subdocument,xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
 0.0.0.0 ! Adreclaim
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=autoworldnews.com|biohealthinnovation.org|counselheal.com|dolphnsix.com|foodworldnews.com|gamenguide.com|itechpost.com|mobilenapps.com|scienceworldreport.com|travelerstoday.com|universityherald.com|wrestlinginc.com
 0.0.0.0 @@||cdnjs.cloudflare.com^$script,domain=autoworldnews.com|biohealthinnovation.org|counselheal.com|dolphnsix.com|foodworldnews.com|gamenguide.com|itechpost.com|mobilenapps.com|scienceworldreport.com|travelerstoday.com|universityherald.com
@@ -33959,22 +33953,22 @@
 0.0.0.0 @@||platform.twitter.com^$script,domain=gamenguide.com|wrestlinginc.com
 0.0.0.0 @@||springboardplatform.com^$domain=biohealthinnovation.org|counselheal.com|dolphnsix.com|foodworldnews.com|itechpost.com|universityherald.com
 0.0.0.0 @@||tv.bsvideos.com^$domain=itechpost.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=autoworldnews.com|biohealthinnovation.org|counselheal.com|dolphnsix.com|foodworldnews.com|gamenguide.com|itechpost.com|mobilenapps.com|scienceworldreport.comuniversityherald.com|travelerstoday.com|wrestlinginc.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=autoworldnews.com|biohealthinnovation.org|counselheal.com|dolphnsix.com|foodworldnews.com|gamenguide.com|itechpost.com|mobilenapps.com|scienceworldreport.com|travelerstoday.com|universityherald.com|wrestlinginc.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=autoworldnews.com|biohealthinnovation.org|counselheal.com|dolphnsix.com|foodworldnews.com|gamenguide.com|itechpost.com|mobilenapps.com|scienceworldreport.comuniversityherald.com|travelerstoday.com|wrestlinginc.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=autoworldnews.com|biohealthinnovation.org|counselheal.com|dolphnsix.com|foodworldnews.com|gamenguide.com|itechpost.com|mobilenapps.com|scienceworldreport.com|travelerstoday.com|universityherald.com|wrestlinginc.com
 0.0.0.0 ! rekoverr.com
 0.0.0.0 ||code.jquery.com^$script,domain=kumb.com|tomshardware.com
 0.0.0.0 ! bc.vc
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=bc.vc
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=bc.vc
+0.0.0.0 $script,third-party,xmlhttprequest,domain=bc.vc
+0.0.0.0 $script,third-party,xmlhttprequest,domain=bc.vc
 0.0.0.0 ! streamallthis.is
 0.0.0.0 @@||cdnjs.cloudflare.com^$script,domain=streamallthis.is
 0.0.0.0 @@||openload.co/assets/js/video-js/script,$domain=streamallthis.is
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=streamallthis.is
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=streamallthis.is
+0.0.0.0 $script,third-party,xmlhttprequest,domain=streamallthis.is
+0.0.0.0 $script,third-party,xmlhttprequest,domain=streamallthis.is
 0.0.0.0 ! publicleech.xyz
 0.0.0.0 @@||cdnjs.cloudflare.com^$script,domain=publicleech.xyz
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=publicleech.xyz
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=publicleech.xyz
+0.0.0.0 $script,third-party,xmlhttprequest,domain=publicleech.xyz
+0.0.0.0 $script,third-party,xmlhttprequest,domain=publicleech.xyz
 0.0.0.0 ! eztv.ag
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=eztv.ag|eztv.tf|eztv.yt
 0.0.0.0 @@||cdnjs.cloudflare.com^$script,domain=eztv.ag|eztv.tf|eztv.yt
@@ -33982,52 +33976,52 @@
 0.0.0.0 @@||eztv.ag/js/search_shows*.js$script,domain=eztv.ag|eztv.tf|eztv.yt
 0.0.0.0 @@||eztv.ag^$generichide
 0.0.0.0 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eztv.ag
-0.0.0.0 |http://$script,xmlhttprequest,domain=eztv.ag|eztv.tf|eztv.yt
-0.0.0.0 |https://$script,xmlhttprequest,domain=eztv.ag|eztv.tf|eztv.yt
+0.0.0.0 $script,xmlhttprequest,domain=eztv.ag|eztv.tf|eztv.yt
+0.0.0.0 $script,xmlhttprequest,domain=eztv.ag|eztv.tf|eztv.yt
 0.0.0.0 ! adf.ly
 0.0.0.0 @@||adf.ly/static/image/$image,~third-party
 0.0.0.0 @@||s1-adfly.com/show.php?$subdocument,third-party,domain=adf.ly
-0.0.0.0 |http://$third-party,domain=adf.ly|s1-adfly.com
-0.0.0.0 |https://$third-party,domain=adf.ly|s1-adfly.com
+0.0.0.0 $third-party,domain=adf.ly|s1-adfly.com
+0.0.0.0 $third-party,domain=adf.ly|s1-adfly.com
 0.0.0.0 ! linkdrop.net
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=linkdrop.net
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=linkdrop.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=linkdrop.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=linkdrop.net
 0.0.0.0 ! tamilyogi.cc
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=tamilyogi.cc
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=tamilyogi.cc
+0.0.0.0 $script,third-party,xmlhttprequest,domain=tamilyogi.cc
+0.0.0.0 $script,third-party,xmlhttprequest,domain=tamilyogi.cc
 0.0.0.0 ! salefiles.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=salefiles.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=salefiles.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=salefiles.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=salefiles.com
 0.0.0.0 ! imgoutlet.com / imgdew.com / imgclick.net / imgtrex.com / imgtown.net / ironimg.net | imgkings.com
 0.0.0.0 @@||imgadult.com/advertisement.js
 0.0.0.0 @@||imgrock.co^$image,third-party
 0.0.0.0 @@||imgtaxi.com/advertisement.js
 0.0.0.0 @@||imgwallet.com/advertisement.js
-0.0.0.0 |http://$image,script,third-party,xmlhttprequest,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdrive.net|imgkings.com|imgmaid.net|imgmaze.com|imgnemo.com|imgoutlet.com|imgrock.info|imgrock.net|imgstudio.org|imgtaxi.com|imgtown.net|imgtrex.com|imgview.net|ironimg.net
-0.0.0.0 |http://$image,third-party,domain=imgrock.info
-0.0.0.0 |https://$image,script,third-party,xmlhttprequest,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdrive.net|imgkings.com|imgmaid.net|imgmaze.com|imgnemo.com|imgoutlet.com|imgrock.info|imgrock.net|imgstudio.org|imgtaxi.com|imgtown.net|imgtrex.com|imgview.net|ironimg.net
+0.0.0.0 $image,script,third-party,xmlhttprequest,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdrive.net|imgkings.com|imgmaid.net|imgmaze.com|imgnemo.com|imgoutlet.com|imgrock.info|imgrock.net|imgstudio.org|imgtaxi.com|imgtown.net|imgtrex.com|imgview.net|ironimg.net
+0.0.0.0 $image,third-party,domain=imgrock.info
+0.0.0.0 $image,script,third-party,xmlhttprequest,domain=damimage.com|dimtus.com|imagedecode.com|imageteam.org|imgadult.com|imgclick.net|imgdew.com|imgdrive.net|imgkings.com|imgmaid.net|imgmaze.com|imgnemo.com|imgoutlet.com|imgrock.info|imgrock.net|imgstudio.org|imgtaxi.com|imgtown.net|imgtrex.com|imgview.net|ironimg.net
 0.0.0.0 ||imgadult.com^$subdocument
 0.0.0.0 ||imgtaxi.com^$subdocument
 0.0.0.0 ||imgwallet.com^$subdocument
 0.0.0.0 ! filedot.xyz
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=filedot.xyz
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=filedot.xyz
+0.0.0.0 $script,third-party,xmlhttprequest,domain=filedot.xyz
+0.0.0.0 $script,third-party,xmlhttprequest,domain=filedot.xyz
 0.0.0.0 ! batmanstream.com
 0.0.0.0 |ws://$other,third-party,domain=batmanstream.com
 0.0.0.0 ! rlslog.net
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=rlslog.net
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=rlslog.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=rlslog.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=rlslog.net
 0.0.0.0 ! torrenteo.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=torrenteo.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=torrenteo.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=torrenteo.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=torrenteo.com
 0.0.0.0 ! embed.nowvideo.sx / animeflv.net
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=embed.nowvideo.sx
 0.0.0.0 @@||zerocdn.to/dash/$third-party,xmlhttprequest,domain=nowvideo.sx
-0.0.0.0 |http://$image,script,third-party,xmlhttprequest,domain=embed.nowvideo.sx
-0.0.0.0 |https://$image,script,third-party,xmlhttprequest,domain=embed.nowvideo.sx
+0.0.0.0 $image,script,third-party,xmlhttprequest,domain=embed.nowvideo.sx
+0.0.0.0 $image,script,third-party,xmlhttprequest,domain=embed.nowvideo.sx
 0.0.0.0 ! imgcandy.net
-0.0.0.0 |http://$image,script,third-party,xmlhttprequest,domain=imgcandy.net
-0.0.0.0 |https://$image,script,third-party,xmlhttprequest,domain=imgcandy.net
+0.0.0.0 $image,script,third-party,xmlhttprequest,domain=imgcandy.net
+0.0.0.0 $image,script,third-party,xmlhttprequest,domain=imgcandy.net
 0.0.0.0 ||imgcandy.net/fad/$script
 0.0.0.0 ! mediafire.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=mediafire.com
@@ -34039,30 +34033,30 @@
 0.0.0.0 @@||solvemedia.com^$script,domain=mediafire.com
 0.0.0.0 @@||translate.google.com^$script,domain=mediafire.com
 0.0.0.0 @@||translate.googleapis.com^$script,domain=mediafire.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=mediafire.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=mediafire.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=mediafire.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=mediafire.com
 0.0.0.0 ! thevideo.me
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=thevideo.me
 0.0.0.0 @@||connect.facebook.net^$script,domain=thevideo.me
 0.0.0.0 @@||tawk.to^$script,xmlhttprequest,domain=thevideo.me
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=thevideo.me
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=thevideo.me
+0.0.0.0 $script,third-party,xmlhttprequest,domain=thevideo.me
+0.0.0.0 $script,third-party,xmlhttprequest,domain=thevideo.me
 0.0.0.0 ! geektv
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=geektv.ma
 0.0.0.0 @@||connect.facebook.net^$script,domain=geektv.ma
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=geektv.ma
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=geektv.ma
+0.0.0.0 $script,third-party,xmlhttprequest,domain=geektv.ma
+0.0.0.0 $script,third-party,xmlhttprequest,domain=geektv.ma
 0.0.0.0 ! 4shared.com
 0.0.0.0 @@||apis.google.com/js/plusone.js$script,domain=4shared.com
 0.0.0.0 @@||connect.facebook.net^$script,domain=4shared.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=4shared.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=4shared.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=4shared.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=4shared.com
 0.0.0.0 |ws://$domain=4shared.com
 0.0.0.0 ! tvmuse.com
 0.0.0.0 @@||apis.google.com^$script,third-party,domain=tvmuse.com
 0.0.0.0 @@||s.tvmuze.eu^$script,third-party,domain=tvmuse.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=tvmuse.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=tvmuse.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=tvmuse.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=tvmuse.com
 0.0.0.0 ! streamplay
 0.0.0.0 .xyz/$popup,domain=streamplay.to
 0.0.0.0 @@||streamplay.to/js/bootstrap.min.js|$script,domain=streamplay.to
@@ -34074,13 +34068,13 @@
 0.0.0.0 @@||streamplay.to/player*/jwplayer.js?$script,domain=streamplay.to
 0.0.0.0 @@||streamplay.to/player*/jwpsrv.js|$script,domain=streamplay.to
 0.0.0.0 @@||streamplay.to/player*/lightsout.js|$script,domain=streamplay.to
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=streamplay.to
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=streamplay.to
+0.0.0.0 $script,third-party,xmlhttprequest,domain=streamplay.to
+0.0.0.0 $script,third-party,xmlhttprequest,domain=streamplay.to
 0.0.0.0 ||streamplay.to^$script,domain=streamplay.to
 0.0.0.0 ! powvideo.net
 0.0.0.0 @@||ajax.googleapis.com^$script,third-party,domain=powvideo.net
-0.0.0.0 |http://$script,subdocument,third-party,domain=powvideo.net
-0.0.0.0 |https://$script,subdocument,third-party,domain=powvideo.net
+0.0.0.0 $script,subdocument,third-party,domain=powvideo.net
+0.0.0.0 $script,subdocument,third-party,domain=powvideo.net
 0.0.0.0 ! animmex
 0.0.0.0 @@|https://$image,script,third-party,domain=4553t5pugtt1qslvsnmpc0tpfz5fo.xyz
 0.0.0.0 @@|https://*/mgid/$script,domain=animmex.club|animmex.co|animmex.co.uk|animmex.com|animmex.info|animmex.net|animmex.online|animmex.org|animmex.press|animmex.site|animmex.space|animmex.tech|animmex.website|animmex.xyz
@@ -34090,52 +34084,52 @@
 0.0.0.0 @@||bannertrack.net^$script,domain=animmex.club|animmex.co|animmex.co.uk|animmex.com|animmex.info|animmex.net|animmex.online|animmex.org|animmex.press|animmex.site|animmex.space|animmex.tech|animmex.website|animmex.xyz
 0.0.0.0 @@||disqus.com^$script,domain=animmex.club|animmex.co|animmex.co.uk|animmex.com|animmex.info|animmex.net|animmex.online|animmex.org|animmex.press|animmex.site|animmex.space|animmex.tech|animmex.website|animmex.xyz
 0.0.0.0 @@||disquscdn.com^$script,domain=animmex.club|animmex.co|animmex.co.uk|animmex.com|animmex.info|animmex.net|animmex.online|animmex.org|animmex.press|animmex.site|animmex.space|animmex.tech|animmex.website|animmex.xyz
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=animmex.club|animmex.co|animmex.co.uk|animmex.com|animmex.info|animmex.net|animmex.online|animmex.org|animmex.press|animmex.site|animmex.space|animmex.tech|animmex.website|animmex.xyz
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=animmex.club|animmex.co|animmex.co.uk|animmex.com|animmex.info|animmex.net|animmex.online|animmex.org|animmex.press|animmex.site|animmex.space|animmex.tech|animmex.website|animmex.xyz
+0.0.0.0 $script,third-party,xmlhttprequest,domain=animmex.club|animmex.co|animmex.co.uk|animmex.com|animmex.info|animmex.net|animmex.online|animmex.org|animmex.press|animmex.site|animmex.space|animmex.tech|animmex.website|animmex.xyz
+0.0.0.0 $script,third-party,xmlhttprequest,domain=animmex.club|animmex.co|animmex.co.uk|animmex.com|animmex.info|animmex.net|animmex.online|animmex.org|animmex.press|animmex.site|animmex.space|animmex.tech|animmex.website|animmex.xyz
 0.0.0.0 ! cinenews.be/en/
 0.0.0.0 @@||ajax.googleapis.com^$script,third-party,domain=cinenews.be
 0.0.0.0 @@||connect.facebook.net^$script,third-party,domain=cinenews.be
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=cinenews.be
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=cinenews.be
+0.0.0.0 $script,third-party,xmlhttprequest,domain=cinenews.be
+0.0.0.0 $script,third-party,xmlhttprequest,domain=cinenews.be
 0.0.0.0 ! img.yt
-0.0.0.0 |http://$script,subdocument,third-party,xmlhttprequest,domain=img.yt
-0.0.0.0 |https://$script,subdocument,third-party,xmlhttprequest,domain=img.yt
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=img.yt
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=img.yt
 0.0.0.0 ! uplod.it
 0.0.0.0 @@||code.jquery.com^$script,third-party,domain=uplod.it
 0.0.0.0 @@||connect.facebook.net^$script,third-party,domain=uplod.it
 0.0.0.0 @@||netdna.bootstrapcdn.com^$script,third-party,domain=uplod.it
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=uplod.it
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=uplod.it
+0.0.0.0 $script,third-party,xmlhttprequest,domain=uplod.it
+0.0.0.0 $script,third-party,xmlhttprequest,domain=uplod.it
 0.0.0.0 ! movpod.in
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=movpod.in
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=movpod.in
+0.0.0.0 $script,third-party,xmlhttprequest,domain=movpod.in
+0.0.0.0 $script,third-party,xmlhttprequest,domain=movpod.in
 0.0.0.0 ! daclips.in
 0.0.0.0 @@||ajax.googleapis.com^$script,third-party,domain=daclips.in
 0.0.0.0 @@||trandsey.info/popunder.gif$image,domain=daclips.in
-0.0.0.0 |http://$script,subdocument,third-party,xmlhttprequest,domain=daclips.in
-0.0.0.0 |https://$script,subdocument,third-party,xmlhttprequest,domain=daclips.in
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=daclips.in
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=daclips.in
 0.0.0.0 ! tinypic
 0.0.0.0 @@||addthis.com/static/$subdocument,domain=tinypic.com
 0.0.0.0 @@||api.solvemedia.com^$domain=tinypic.com
-0.0.0.0 |http://$image,third-party,domain=tinypic.com
-0.0.0.0 |http://$subdocument,third-party,xmlhttprequest,domain=tinypic.com
-0.0.0.0 |https://$image,third-party,domain=tinypic.com
+0.0.0.0 $image,third-party,domain=tinypic.com
+0.0.0.0 $subdocument,third-party,xmlhttprequest,domain=tinypic.com
+0.0.0.0 $image,third-party,domain=tinypic.com
 0.0.0.0 ! vidspot.net
 0.0.0.0 @@||jwpsrv.com/library/$script,domain=vidspot.net
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=vidspot.net
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=vidspot.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vidspot.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vidspot.net
 0.0.0.0 ! vidbull.com
 0.0.0.0 @@||disqus.com^$script,xmlhttprequest,domain=vidbull.com
 0.0.0.0 @@||jsc.mgid.com^$script,domain=vidbull.com
 0.0.0.0 @@||lp.longtailvideo.com^$script,domain=vidbull.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=vidbull.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=vidbull.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vidbull.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=vidbull.com
 0.0.0.0 ! streamcloud.eu
 0.0.0.0 @@||ajax.googleapis.com^$script,third-party,domain=streamcloud.eu
 0.0.0.0 @@||hoortols.org^$image,domain=streamcloud.eu
 0.0.0.0 @@||streamcloud.eu^*/jwpsrv.js$domain=streamcloud.eu
-0.0.0.0 |http://$image,script,third-party,domain=streamcloud.eu
-0.0.0.0 |https://$image,script,third-party,domain=streamcloud.eu
+0.0.0.0 $image,script,third-party,domain=streamcloud.eu
+0.0.0.0 $image,script,third-party,domain=streamcloud.eu
 0.0.0.0 ! openload/oload/streamango
 0.0.0.0 /assets/js/license.$domain=oload.tv|openload.co|streamango.com
 0.0.0.0 /assets/js/script.$domain=oload.tv|openload.co|streamango.com
@@ -34167,57 +34161,57 @@
 0.0.0.0 ! opensubtitles.org
 0.0.0.0 @@||opensubtitles.org/cdn-cgi/nexp/dok3v=*/cloudflare/rocket.js$domain=opensubtitles.org
 0.0.0.0 @@||static.opensubtitles.org/libs/js/$script,domain=opensubtitles.org
-0.0.0.0 |http://$script,subdocument,third-party,xmlhttprequest,domain=opensubtitles.org
-0.0.0.0 |https://$script,subdocument,third-party,xmlhttprequest,domain=opensubtitles.org
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=opensubtitles.org
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=opensubtitles.org
 0.0.0.0 ||opensubtitles.org^*.js|$script,domain=opensubtitles.org
 0.0.0.0 ! uplea.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=uplea.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=uplea.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=uplea.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=uplea.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=uplea.com
 0.0.0.0 ! thefreethoughtproject.com
 0.0.0.0 @@||freethoughtllc.netdna-cdn.com/wp-content/uploads/2014/03/submit-link.png|$image,domain=thefreethoughtproject.com
 0.0.0.0 @@||p.po.st/p?$image,domain=thefreethoughtproject.com
 0.0.0.0 @@||pagely.netdna-cdn.com/wp-content/uploads/$image,domain=thegatewaypundit.com
-0.0.0.0 |http://$image,third-party,domain=thefreethoughtproject.com
-0.0.0.0 |https://$image,third-party,domain=thefreethoughtproject.com
+0.0.0.0 $image,third-party,domain=thefreethoughtproject.com
+0.0.0.0 $image,third-party,domain=thefreethoughtproject.com
 0.0.0.0 ! amvtv.net
 0.0.0.0 @@||allmyvideos.net/jquery.cookie.js$script,domain=amvtv.net
 0.0.0.0 @@||connect.facebook.net^$third-party,domain=amvtv.net
 0.0.0.0 @@||jwpsrv.com/library/$script,domain=amvtv.net
 0.0.0.0 @@||p.jwpcdn.com^$xmlhttprequest,domain=amvtv.net
 0.0.0.0 @@||ucdn.allmyvideos.net^$script,domain=amvtv.net
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=amvtv.net
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=amvtv.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=amvtv.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=amvtv.net
 0.0.0.0 ||allmyvideos.net^$~third-party,xmlhttprequest
 0.0.0.0 ! couchtuner.city
 0.0.0.0 @@||disqus.com^$script,third-party,domain=couch-tuner.ag|couch-tuner.at|couch-tuner.me|couchtuner.ag|couchtuner.ch|couchtuner.city|couchtuner.us|couchtuner2.to
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=couch-tuner.ag|couch-tuner.at|couch-tuner.me|couchtuner.ag|couchtuner.ch|couchtuner.city|couchtuner.us|couchtuner2.to
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=couch-tuner.ag|couch-tuner.at|couch-tuner.me|couchtuner.ag|couchtuner.ch|couchtuner.city|couchtuner.us|couchtuner2.to
+0.0.0.0 $script,third-party,xmlhttprequest,domain=couch-tuner.ag|couch-tuner.at|couch-tuner.me|couchtuner.ag|couchtuner.ch|couchtuner.city|couchtuner.us|couchtuner2.to
+0.0.0.0 $script,third-party,xmlhttprequest,domain=couch-tuner.ag|couch-tuner.at|couch-tuner.me|couchtuner.ag|couchtuner.ch|couchtuner.city|couchtuner.us|couchtuner2.to
 0.0.0.0 ! uptobox.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=uptobox.com|uptostream.com
 0.0.0.0 @@||platform.twitter.com/widgets.js$domain=uptobox.com|uptostream.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=uptobox.com|uptostream.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=uptobox.com|uptostream.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=uptobox.com|uptostream.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=uptobox.com|uptostream.com
 0.0.0.0 ! userscloud.com
 0.0.0.0 @@||d3edizycpjjo07.cloudfront.net/assets/library/jquery/jquery.min.js$script,domain=userscloud.com
 0.0.0.0 @@||d3edizycpjjo07.cloudfront.net/xupload.js$script,domain=userscloud.com
 0.0.0.0 @@||widget.uservoice.com^$script,domain=userscloud.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=userscloud.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=userscloud.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=userscloud.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=userscloud.com
 0.0.0.0 ! uploadrocket.net
 0.0.0.0 @@||api.solvemedia.com^$script,third-party,domain=uploadrocket.net
-0.0.0.0 |http://$script,subdocument,third-party,xmlhttprequest,domain=uploadrocket.net
-0.0.0.0 |https://$script,subdocument,third-party,xmlhttprequest,domain=uploadrocket.net
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=uploadrocket.net
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=uploadrocket.net
 0.0.0.0 ! revclouds.com
 0.0.0.0 @@||connect.facebook.net^$script,domain=revclouds.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=revclouds.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=revclouds.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=revclouds.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=revclouds.com
 0.0.0.0 ! wstream.video
 0.0.0.0 @@||cloudflare.com/ajax/libs/$script,domain=wstream.video
 0.0.0.0 @@||rivcash.com/it/webmaster/show_banner.js$script,domain=wstream.video
 0.0.0.0 @@||rivcash.com/webmaster/banners/$subdocument,domain=wstream.video
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=wstream.video
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=wstream.video
+0.0.0.0 $script,third-party,xmlhttprequest,domain=wstream.video
+0.0.0.0 $script,third-party,xmlhttprequest,domain=wstream.video
 0.0.0.0 ! gorillavid.in
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=gorillavid.in
 0.0.0.0 @@||gorillavid.in/?$xmlhttprequest
@@ -34225,46 +34219,46 @@
 0.0.0.0 @@||gorillavid.in/xupload.js
 0.0.0.0 @@||gorillavid.in^*/jsSelect.js
 0.0.0.0 @@||gorillavid.in^*/jwplayer.js
-0.0.0.0 |http://$script,xmlhttprequest,domain=gorillavid.in
-0.0.0.0 |https://$popup,third-party,domain=gorillavid.in
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=gorillavid.in
+0.0.0.0 $script,xmlhttprequest,domain=gorillavid.in
+0.0.0.0 $popup,third-party,domain=gorillavid.in
+0.0.0.0 $script,third-party,xmlhttprequest,domain=gorillavid.in
 0.0.0.0 ! fastpic
-0.0.0.0 |http://$script,stylesheet,third-party,domain=fastpic.ru
-0.0.0.0 |https://$script,stylesheet,third-party,domain=fastpic.ru
+0.0.0.0 $script,stylesheet,third-party,domain=fastpic.ru
+0.0.0.0 $script,stylesheet,third-party,domain=fastpic.ru
 0.0.0.0 |ws://$other,third-party,domain=fastpic.ru
 0.0.0.0 ! monova
 0.0.0.0 @@||gstatic.com^$script,third-party,domain=monova.org
 0.0.0.0 @@||monova.org/js/main.js?v=$script
-0.0.0.0 |http://$image,script,subdocument,xmlhttprequest,domain=monova.org
-0.0.0.0 |https://$image,script,subdocument,xmlhttprequest,domain=monova.org
+0.0.0.0 $image,script,subdocument,xmlhttprequest,domain=monova.org
+0.0.0.0 $image,script,subdocument,xmlhttprequest,domain=monova.org
 0.0.0.0 ! torrentz
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=torrents.de|torrentz.ch|torrentz.com|torrentz.eu|torrentz.in|torrentz.li|torrentz.me|torrentz.ph
 0.0.0.0 @@||gstatic.com^$script,domain=torrents.de|torrentz.ch|torrentz.com|torrentz.eu|torrentz.in|torrentz.li|torrentz.me|torrentz.ph
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=torrents.de|torrentz.ch|torrentz.com|torrentz.eu|torrentz.in|torrentz.li|torrentz.me|torrentz.ph
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=torrents.de|torrentz.ch|torrentz.com|torrentz.eu|torrentz.in|torrentz.li|torrentz.me|torrentz.ph
+0.0.0.0 $script,third-party,xmlhttprequest,domain=torrents.de|torrentz.ch|torrentz.com|torrentz.eu|torrentz.in|torrentz.li|torrentz.me|torrentz.ph
+0.0.0.0 $script,third-party,xmlhttprequest,domain=torrents.de|torrentz.ch|torrentz.com|torrentz.eu|torrentz.in|torrentz.li|torrentz.me|torrentz.ph
 0.0.0.0 ! 1337x.to
 0.0.0.0 @@||code.jquery.com^$script,domain=1337x.to
 0.0.0.0 @@||sweetcaptcha.com^$script,domain=1337x.to
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=1337x.to
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=1337x.to
+0.0.0.0 $script,third-party,xmlhttprequest,domain=1337x.to
+0.0.0.0 $script,third-party,xmlhttprequest,domain=1337x.to
 0.0.0.0 ! watchseries
 0.0.0.0 @@||connect.facebook.net^$script,domain=mywatchseries.to|onwatchseries.to|watch-series.to|watchseries.li
 0.0.0.0 @@||maxcdn.bootstrapcdn.com^$script,domain=mywatchseries.to|onwatchseries.to|watch-series.to|watchseries.li
 0.0.0.0 @@||platform.twitter.com^$script,domain=mywatchseries.to|onwatchseries.to|watch-series.to|watchseries.li
-0.0.0.0 |http://$other,script,stylesheet,third-party,xmlhttprequest,domain=mywatchseries.to|onwatchseries.to|watch-series.to|watchseries.li
-0.0.0.0 |https://$other,script,stylesheet,third-party,xmlhttprequest,domain=mywatchseries.to|onwatchseries.to|watch-series.to|watchseries.li
+0.0.0.0 $other,script,stylesheet,third-party,xmlhttprequest,domain=mywatchseries.to|onwatchseries.to|watch-series.to|watchseries.li
+0.0.0.0 $other,script,stylesheet,third-party,xmlhttprequest,domain=mywatchseries.to|onwatchseries.to|watch-series.to|watchseries.li
 0.0.0.0 ! briskfile.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=briskfile.com
 0.0.0.0 @@||connect.facebook.net^$script,domain=briskfile.com
 0.0.0.0 @@||netdna.bootstrapcdn.com^$script,domain=briskfile.com
 0.0.0.0 @@||platform.twitter.com^$script,domain=briskfile.com
 0.0.0.0 @@||yahooapis.com^$script,domain=briskfile.com
-0.0.0.0 |http://$script,third-party,domain=briskfile.com
-0.0.0.0 |https://$script,third-party,domain=briskfile.com
+0.0.0.0 $script,third-party,domain=briskfile.com
+0.0.0.0 $script,third-party,domain=briskfile.com
 0.0.0.0 ! vid.ag
 0.0.0.0 @@||jwpsrv.com/library/$third-party,domain=vid.ag
-0.0.0.0 |http://$script,third-party,domain=vid.ag
-0.0.0.0 |https://$script,third-party,domain=vid.ag
+0.0.0.0 $script,third-party,domain=vid.ag
+0.0.0.0 $script,third-party,domain=vid.ag
 0.0.0.0 ! flashx.tv
 0.0.0.0 @@||fastcontentdelivery.com^$script,domain=flashx.tv
 0.0.0.0 @@||flash-x.tv/js/showad$script
@@ -34275,13 +34269,13 @@
 0.0.0.0 @@||flashx.tv/js/xfs.js
 0.0.0.0 @@||flashx.tv/js/xupload.js
 0.0.0.0 @@||flashx.tv/player6/jwplayer.js
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=flash-x.tv|flashsx.tv|flashx.me|flashx.run|flashx.tv|flashx1.tv|flashxx.tv
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=flash-x.tv|flashsx.tv|flashx.me|flashx.run|flashx.tv|flashx1.tv|flashxx.tv
+0.0.0.0 $script,third-party,xmlhttprequest,domain=flash-x.tv|flashsx.tv|flashx.me|flashx.run|flashx.tv|flashx1.tv|flashxx.tv
+0.0.0.0 $script,third-party,xmlhttprequest,domain=flash-x.tv|flashsx.tv|flashx.me|flashx.run|flashx.tv|flashx1.tv|flashxx.tv
 0.0.0.0 ! streamin.to
 0.0.0.0 @@||code.jquery.com^$script,domain=api.streamin.to
 0.0.0.0 @@||plugins.longtailvideo.com^$script,domain=streamin.to
-0.0.0.0 |http://$script,third-party,domain=streamin.to
-0.0.0.0 |https://$script,third-party,domain=streamin.to
+0.0.0.0 $script,third-party,domain=streamin.to
+0.0.0.0 $script,third-party,domain=streamin.to
 0.0.0.0 ! youwatch.org/exashare.com
 0.0.0.0 @@/embed-*.html?$subdocument,domain=exashare.com|youwatch.org
 0.0.0.0 @@||ajax.googleapis.com/ajax/libs/$script,domain=youwatch.org
@@ -34289,8 +34283,8 @@
 0.0.0.0 @@||exashare.com/js/$script
 0.0.0.0 @@||exashare.com/player$script
 0.0.0.0 @@||plugins.longtailvideo.com^$script,domain=youwatch.org
-0.0.0.0 |http://$script,subdocument,third-party,domain=exashare.com|tikamika.info|twer.info|youwatch.org
-0.0.0.0 |https://$script,subdocument,third-party,domain=exashare.com|tikamika.info|twer.info|youwatch.org
+0.0.0.0 $script,subdocument,third-party,domain=exashare.com|tikamika.info|twer.info|youwatch.org
+0.0.0.0 $script,subdocument,third-party,domain=exashare.com|tikamika.info|twer.info|youwatch.org
 0.0.0.0 ! promptfile.com
 0.0.0.0 @@||addthis.com/url/shares.json$domain=promptfile.com
 0.0.0.0 @@||ajax.googleapis.com/ajax/libs/$script,domain=promptfile.com
@@ -34299,8 +34293,8 @@
 0.0.0.0 @@||platform.twitter.com/widgets.js$domain=promptfile.com
 0.0.0.0 @@||s7.addthis.com^$script,domain=promptfile.com
 0.0.0.0 @@||yahooapis.com^$script,domain=promptfile.com
-0.0.0.0 |http://$script,third-party,domain=promptfile.com
-0.0.0.0 |https://$script,third-party,domain=promptfile.com
+0.0.0.0 $script,third-party,domain=promptfile.com
+0.0.0.0 $script,third-party,domain=promptfile.com
 0.0.0.0 ! filmovizija
 0.0.0.0 @@||api.pinterest.com^$script,domain=filmovizija.ws
 0.0.0.0 @@||facebook.com^$script,domain=filmovizija.ws
@@ -34309,15 +34303,15 @@
 0.0.0.0 @@||share.yandex.ru^$script,domain=filmovizija.ws
 0.0.0.0 @@||twitter.com^$script,domain=filmovizija.ws
 0.0.0.0 @@||vk.com/share.php?$script,domain=filmovizija.ws
-0.0.0.0 |http://$script,third-party,domain=filmovizija.ws
-0.0.0.0 |https://$script,third-party,domain=filmovizija.ws
+0.0.0.0 $script,third-party,domain=filmovizija.ws
+0.0.0.0 $script,third-party,domain=filmovizija.ws
 0.0.0.0 ! primewire (and various mirrors)
 0.0.0.0 @@||ajax.googleapis.com/ajax/libs/jquery/$domain=1channel.biz|letmewatchthis.pl|letmewatchthis.video|primewire.ag|primewire.is|primewire.to|primewire.unblockall.xyz|snowysmile.com
 0.0.0.0 @@||image.tmdb.org^$image,domain=1channel.biz|letmewatchthis.pl|letmewatchthis.video|primewire.ag|primewire.in|primewire.is|primewire.to|primewire.unblockall.xyz|snowysmile.com
 0.0.0.0 @@||platform.twitter.com^$script,domain=1channel.biz|letmewatchthis.pl|letmewatchthis.video|primewire.ag|primewire.in|primewire.is|primewire.to|primewire.unblockall.xyz|snowysmile.com
 0.0.0.0 @@||s7.addthis.com^$script,third-party,domain=1channel.biz|letmewatchthis.pl|letmewatchthis.video|primewire.ag|primewire.in|primewire.is|primewire.to|primewire.unblockall.xyz|snowysmile.com
-0.0.0.0 |http://$image,script,third-party,xmlhttprequest,domain=1channel.biz|letmewatchthis.pl|letmewatchthis.video|primewire.ag|primewire.in|primewire.is|primewire.to|primewire.unblockall.xyz|snowysmile.com
-0.0.0.0 |https://$image,script,third-party,xmlhttprequest,domain=1channel.biz|letmewatchthis.pl|letmewatchthis.video|primewire.ag|primewire.in|primewire.is|primewire.to|primewire.unblockall.xyz|snowysmile.com
+0.0.0.0 $image,script,third-party,xmlhttprequest,domain=1channel.biz|letmewatchthis.pl|letmewatchthis.video|primewire.ag|primewire.in|primewire.is|primewire.to|primewire.unblockall.xyz|snowysmile.com
+0.0.0.0 $image,script,third-party,xmlhttprequest,domain=1channel.biz|letmewatchthis.pl|letmewatchthis.video|primewire.ag|primewire.in|primewire.is|primewire.to|primewire.unblockall.xyz|snowysmile.com
 0.0.0.0 ! photobucket.com
 0.0.0.0 @@||amazonaws.com^$script,domain=photobucket.com
 0.0.0.0 @@||aviary.com^$image,script,domain=photobucket.com
@@ -34331,13 +34325,13 @@
 0.0.0.0 @@||pic*.pbsrc.com/common/$image,domain=photobucket.com
 0.0.0.0 @@||print.io^$domain=photobucket.com
 0.0.0.0 @@||sharethis.com/button/$script,domain=photobucket.com
-0.0.0.0 |http://$script,third-party,domain=photobucket.com
-0.0.0.0 |https://$script,third-party,domain=photobucket.com
+0.0.0.0 $script,third-party,domain=photobucket.com
+0.0.0.0 $script,third-party,domain=photobucket.com
 0.0.0.0 ! speedplay
 0.0.0.0 @@||content.jwplatform.com/libraries/$script,domain=jatttv.pw|speedplay.pw|speedplay.site|speedplay.us|speedplay1.pw|speedplay1.site|speedplay2.pw|speedplay2.site|speedplay3.pw|speedplayx.site|speedplayy.site
 0.0.0.0 @@||speedplay.us/js/$script,domain=jatttv.pw|speedplay.pw|speedplay.site|speedplay.us|speedplay1.pw|speedplay1.site|speedplay2.pw|speedplay2.site|speedplay3.pw|speedplayx.site|speedplayy.site
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=jatttv.pw|speedplay.pw|speedplay.site|speedplay.us|speedplay1.pw|speedplay1.site|speedplay2.pw|speedplay2.site|speedplay3.pw|speedplayx.site|speedplayy.site
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=jatttv.pw|speedplay.pw|speedplay.site|speedplay.us|speedplay1.pw|speedplay1.site|speedplay2.pw|speedplay2.site|speedplay3.pw|speedplayx.site|speedplayy.site
+0.0.0.0 $script,third-party,xmlhttprequest,domain=jatttv.pw|speedplay.pw|speedplay.site|speedplay.us|speedplay1.pw|speedplay1.site|speedplay2.pw|speedplay2.site|speedplay3.pw|speedplayx.site|speedplayy.site
+0.0.0.0 $script,third-party,xmlhttprequest,domain=jatttv.pw|speedplay.pw|speedplay.site|speedplay.us|speedplay1.pw|speedplay1.site|speedplay2.pw|speedplay2.site|speedplay3.pw|speedplayx.site|speedplayy.site
 0.0.0.0 ! speedtest.net
 0.0.0.0 @@/download?nocache=$xmlhttprequest,domain=speedtest.net
 0.0.0.0 @@/hello?nocache=$xmlhttprequest,domain=speedtest.net
@@ -34373,8 +34367,8 @@
 0.0.0.0 @@||speedtest.zendesk.com^$script,domain=speedtest.net
 0.0.0.0 @@||widget.uservoice.com^$script,domain=speedtest.net
 0.0.0.0 @@||zdassets.com^$script,domain=speedtest.net
-0.0.0.0 |http://$script,xmlhttprequest,domain=speedtest.net
-0.0.0.0 |https://$script,xmlhttprequest,domain=speedtest.net
+0.0.0.0 $script,xmlhttprequest,domain=speedtest.net
+0.0.0.0 $script,xmlhttprequest,domain=speedtest.net
 0.0.0.0 ! Washingtontimes
 0.0.0.0 @@||twt-static.washtimes.com/js/base_global.$script,domain=washingtontimes.com
 0.0.0.0 @@||twt-static.washtimes.com/js/disqus.js$script,domain=washingtontimes.com
@@ -34382,7 +34376,7 @@
 0.0.0.0 ! linkshrink.net
 0.0.0.0 @@||c1.popads.net/pop.js$domain=linkshrink.net
 0.0.0.0 @@||thankyouforadvertising.com^$script,domain=linkshrink.net
-0.0.0.0 |http://$script,subdocument,third-party,xmlhttprequest,domain=linkshrink.net
+0.0.0.0 $script,subdocument,third-party,xmlhttprequest,domain=linkshrink.net
 0.0.0.0 ! Filenuke/sharesix
 0.0.0.0 /\.filenuke\.com/.*[a-zA-Z0-9]{4}/$script
 0.0.0.0 /\.sharesix\.com/.*[a-zA-Z0-9]{4}/$script
@@ -34392,13 +34386,13 @@
 0.0.0.0 ! vodlocker.com
 0.0.0.0 @@||disqus.com^$domain=vodlocker.com
 0.0.0.0 @@||jwpsrv.com^$script,domain=vodlocker.com
-0.0.0.0 |http://$script,third-party,domain=vodlocker.com
+0.0.0.0 $script,third-party,domain=vodlocker.com
 0.0.0.0 ! zippyshare.com
-0.0.0.0 |http://$script,stylesheet,third-party,xmlhttprequest,domain=zippyshare.com
+0.0.0.0 $script,stylesheet,third-party,xmlhttprequest,domain=zippyshare.com
 0.0.0.0 ! vidzi.tv
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=vidzi.tv
 0.0.0.0 @@||zopim.com^$script,domain=vidzi.tv
-0.0.0.0 |http://$script,third-party,domain=vidzi.tv
+0.0.0.0 $script,third-party,domain=vidzi.tv
 0.0.0.0 ||ww1.vidzi.tv^*.js|$domain=vidzi.tv
 0.0.0.0 ! TPB
 0.0.0.0 @@||thepiratebay.org/static/js/details.js
@@ -34406,8 +34400,8 @@
 0.0.0.0 @@||thepiratebay.org/static/js/scriptaculous.js
 0.0.0.0 @@||thepiratebay.org/static/js/tpb.js
 0.0.0.0 javascript:$popup,domain=thepiratebay.org
-0.0.0.0 |http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=thepiratebay.org
-0.0.0.0 |https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=thepiratebay.org
+0.0.0.0 $image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=thepiratebay.org
+0.0.0.0 $image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=thepiratebay.org
 0.0.0.0 ||thepiratebay.org^$script,subdocument,domain=thepiratebay.org
 0.0.0.0 ! watchseries-online.nl
 0.0.0.0 @@||watchseries-online.nl/app/wp-includes/js/$script,domain=watchseries-online.nl
@@ -34584,11 +34578,11 @@
 0.0.0.0 @@||youtube.com/player_api$script,third-party,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredomtherapy.com|breaking911.com|breathecast.com|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|youthhealthmag.com
 0.0.0.0 @@||ytimg.com/yts/jsbin/$script,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.com|boredomtherapy.com|breaking911.com|breathecast.com|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reverbpress.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|techconsumer.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|youthhealthmag.com
 0.0.0.0 @@||zemanta.com^$image,third-party,domain=bulletsfirst.net
-0.0.0.0 |http://$image,third-party,domain=100percentfedup.com|allthingsvegas.comgopocalypse.org|beforeitsnews.com|legalinsurrection.com|newser.com|quirlycues.com|thegatewaypundit.com|viralnova.com|wakingtimes.com|wnd.com|xtribune.com
-0.0.0.0 |http://$script,third-party,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|beforeitsnews.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.combreaking911.com|boredomtherapy.com|breathecast.com|bugout.news|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|cheatsheet.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|moneyversed.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|rantlifestyle.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|supercheats.com|techconsumer.com|technobuffalo.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|wnd.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|youthhealthmag.com
-0.0.0.0 |http://$third-party,xmlhttprequest,domain=alfonzorachel.combugout.news|beforeitsnews.com|boredomtherapy.com|clashdaily.com|conservativeintel.com|conservativetribune.com|dccrimestories.com|eaglerising.com|freedomdaily.com|godfatherpolitics.com|headcramp.com|healthstatus.com|hngn.com|honesttopaws.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|kdramastars.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|libertyalliance.com|libertyunyielding.com|mentalflare.com|musictimes.com|natureworldnews.com|newser.com|parentherald.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|realtytoday.com|theblacksphere.net|thefreethoughtproject.com|themattwalshblog.com|therealside.com|universityherald.com|usherald.com|wakingtimes.com|westernjournalism.com|wnd.com|youthhealthmag.com
-0.0.0.0 |https://$script,third-party,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|beforeitsnews.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.combreaking911.com|boredomtherapy.com|breathecast.com|bugout.news|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|cheatsheet.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|moneyversed.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|rantlifestyle.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|supercheats.com|techconsumer.com|technobuffalo.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|wnd.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|youthhealthmag.com
-0.0.0.0 |https://$third-party,xmlhttprequest,domain=boredomtherapy.com|bugout.news|clashdaily.com|conservativeintel.com|dccrimestories.com|eaglerising.com|godfatherpolitics.com|healthstatus.com|honesttopaws.com|instigatornews.com|lastresistance.com|legalinsurrection.com|libertyalliance.com|mentalflare.com|natureworldnews.com|newser.com|patriotupdate.com|pitgrit.com|thefreethoughtproject.com|therealside.com|usherald.com|westernjournalism.com|wnd.com
+0.0.0.0 $image,third-party,domain=100percentfedup.com|allthingsvegas.comgopocalypse.org|beforeitsnews.com|legalinsurrection.com|newser.com|quirlycues.com|thegatewaypundit.com|viralnova.com|wakingtimes.com|wnd.com|xtribune.com
+0.0.0.0 $script,third-party,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|beforeitsnews.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.combreaking911.com|boredomtherapy.com|breathecast.com|bugout.news|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|cheatsheet.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|moneyversed.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|rantlifestyle.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|supercheats.com|techconsumer.com|technobuffalo.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|wakingtimes.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|wnd.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|youthhealthmag.com
+0.0.0.0 $third-party,xmlhttprequest,domain=alfonzorachel.combugout.news|beforeitsnews.com|boredomtherapy.com|clashdaily.com|conservativeintel.com|conservativetribune.com|dccrimestories.com|eaglerising.com|freedomdaily.com|godfatherpolitics.com|headcramp.com|healthstatus.com|hngn.com|honesttopaws.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|kdramastars.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|libertyalliance.com|libertyunyielding.com|mentalflare.com|musictimes.com|natureworldnews.com|newser.com|parentherald.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|realtytoday.com|theblacksphere.net|thefreethoughtproject.com|themattwalshblog.com|therealside.com|universityherald.com|usherald.com|wakingtimes.com|westernjournalism.com|wnd.com|youthhealthmag.com
+0.0.0.0 $script,third-party,domain=100percentfedup.com|activistpost.com|addictinginfo.com|alfonzorachel.com|allenbwest.com|allenwestrepublic.com|allthingsvegas.com|americansublime.com|askmefast.com|auntyacid.com|barbwire.com|beforeitsnews.com|bestfunnyjokes4u.com|bighealthreport.com|bipartisan.report|bipartisanreport.combreaking911.com|boredomtherapy.com|breathecast.com|bugout.news|bulletsfirst.net|buzzlamp.com|celebrity-gossip.net|cheatsheet.com|clashdaily.com|classicalite.com|collapse.news|comicallyincorrect.com|conservativebyte.com|conservativeintel.com|conservativetribune.com|conservativevideos.com|constitution.com|coviral.com|cowboybyte.com|craigjames.com|creepybasement.com|crossmap.com|cyberwar.news|dailyfeed.co.uk|dailyheadlines.net|dailyhealthpost.com|dailysurge.com|damnlol.com|dccrimestories.com|deneenborelli.com|digitaljournal.com|eaglerising.com|earnthenecklace.com|enstarz.com|evil.news|faithit.com|fitnessconnoisseur.com|foreverymom.com|freedom.news|freedomdaily.com|freedomforce.com|freedomoutpost.com|genfringe.com|girlsjustwannahaveguns.com|glitch.news|godfatherpolitics.com|gopocalypse.org|gosocial.co|groopspeak.com|guardianlv.com|guns.news|gymflow100.com|hallels.com|hautereport.com|headcramp.com|healthstatus.com|hellou.co.uk|hispolitica.com|hngn.com|honesttopaws.com|hypable.com|ifyouonlynews.com|infowars.com|instigatornews.com|janmorganmedia.com|jobsnhire.com|joeforamerica.com|juicerhead.com|justdiy.com|kdramastars.com|keepandbear.com|kpopstarz.com|lastresistance.com|latinpost.com|legalinsurrection.com|liberty.news|libertyalliance.com|libertyunyielding.com|lidblog.com|medicine.news|mentalflare.com|millionpictures.co|minutemennews.com|moneyversed.com|musictimes.com|myscienceacademy.org|natural.news|naturalblaze.com|naturalnews.com|naturalsociety.com|natureworldnews.com|newser.com|newseveryday.com|newsthump.com|oddee.com|opednews.com|parentherald.com|patriotoutdoornews.com|patriottribune.com|patriotupdate.com|pickthebrain.com|pitgrit.com|politicaloutcast.com|politichicks.com|practicallyviral.com|profitconfidential.com|quirlycues.com|rantlifestyle.com|realfarmacy.com|realmomsrealreviews.com|realtytoday.com|redhotchacha.com|redmaryland.com|returnofkings.com|reviveusa.com|rightwingnews.com|robotics.news|shark-tank.com|shedthoselbs.com|skrillionaire.com|slender.news|sonsoflibertymedia.com|spectator.org|sportsmole.co.uk|stevedeace.com|stupid.news|supercheats.com|techconsumer.com|technobuffalo.com|techtimes.com|theblacksphere.net|theboredmind.com|thecountrycaller.com|thefreethoughtproject.com|thegatewaypundit.com|thelastlineofdefense.org|thelibertarianrepublic.com|themattwalshblog.com|thepoke.co.uk|therealside.com|theviralmob.com|tinypic.com|tosavealife.com|traileraddict.com|truththeory.com|twisted.news|universityherald.com|usherald.com|valuewalk.com|vampirediaries.com|vcpost.com|victoriajackson.com|videogamesblogger.com|viralnova.com|viralthread.com|visiontoamerica.com|westernjournalism.com|whatzbuzzing.com|winningdemocrats.com|wnd.com|woundedamericanwarrior.com|xtribune.com|youngcons.com|youthhealthmag.com
+0.0.0.0 $third-party,xmlhttprequest,domain=boredomtherapy.com|bugout.news|clashdaily.com|conservativeintel.com|dccrimestories.com|eaglerising.com|godfatherpolitics.com|healthstatus.com|honesttopaws.com|instigatornews.com|lastresistance.com|legalinsurrection.com|libertyalliance.com|mentalflare.com|natureworldnews.com|newser.com|patriotupdate.com|pitgrit.com|thefreethoughtproject.com|therealside.com|usherald.com|westernjournalism.com|wnd.com
 0.0.0.0 ||a.thefreethoughtproject.com^
 0.0.0.0 ||activistpost.com/wp-content/*/abiturl$image,~third-party
 0.0.0.0 ||supercheats.com/js/yavli.js
@@ -34599,7 +34593,7 @@
 0.0.0.0 ||static.crowdscience.com/max-*.js?callback=crowdScienceCallback$domain=reuters.com
 0.0.0.0 ! Anti-Adblock
 0.0.0.0 .com/lib/f=$third-party,xmlhttprequest,domain=sporcle.com
-0.0.0.0 |http://*=*&$third-party,xmlhttprequest,domain=sporcle.com
+0.0.0.0 *=*&$third-party,xmlhttprequest,domain=sporcle.com
 0.0.0.0 ||ajax.googleapis.com/ajax/libs/jquery/$script,domain=darkcomet-rat.com|vipbox.nu
 0.0.0.0 ||amazonaws.com^$script,domain=dsero.com|ginormousbargains.com|korean-candy.com|misheel.net|politicususa.com|techydoor.com|theawesomer.com|trutower.com|unfair.co
 0.0.0.0 ||aolcdn.com^*/source-point-plugins/$domain=huffingtonpost.co.uk
@@ -34887,19 +34881,19 @@
 0.0.0.0 /json^$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
 0.0.0.0 |blob:$script,domain=pornhub.com|xhamster.com|youporn.com
 0.0.0.0 |http:$third-party,xmlhttprequest,domain=camwhores.tv
-0.0.0.0 |http://$image,media,script,third-party,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
-0.0.0.0 |http://$image,script,third-party,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
-0.0.0.0 |http://$image,xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
-0.0.0.0 |http://$object,domain=pornhub.com|redtube.com|youporn.com
-0.0.0.0 |http://$object-subrequest,third-party,domain=redtube.com|youporn.com
-0.0.0.0 |http://$script,third-party,domain=duckmovies.net|have69.net|i-gay.org|playpornx.net|pornhub-com.appspot.com|t-51.com|watchxxxfree.com|whorehd.net
-0.0.0.0 |http://$third-party,xmlhttprequest,domain=ceporn.net|duckmovies.net
-0.0.0.0 |http://$xmlhttprequest,domain=pornbeu.com|watchjavonline.com
-0.0.0.0 |https://$image,media,script,third-party,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
-0.0.0.0 |https://$image,xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
-0.0.0.0 |https://$object,domain=pornhub.com|redtube.com|youporn.com
-0.0.0.0 |https://$script,third-party,domain=duckmovies.net|have69.net|i-gay.org|playpornx.net|t-51.com|watchxxxfree.com|whorehd.net
-0.0.0.0 |https://$third-party,xmlhttprequest,domain=ceporn.net|duckmovies.net
+0.0.0.0 $image,media,script,third-party,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
+0.0.0.0 $image,script,third-party,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
+0.0.0.0 $image,xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
+0.0.0.0 $object,domain=pornhub.com|redtube.com|youporn.com
+0.0.0.0 $object-subrequest,third-party,domain=redtube.com|youporn.com
+0.0.0.0 $script,third-party,domain=duckmovies.net|have69.net|i-gay.org|playpornx.net|pornhub-com.appspot.com|t-51.com|watchxxxfree.com|whorehd.net
+0.0.0.0 $third-party,xmlhttprequest,domain=ceporn.net|duckmovies.net
+0.0.0.0 $xmlhttprequest,domain=pornbeu.com|watchjavonline.com
+0.0.0.0 $image,media,script,third-party,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
+0.0.0.0 $image,xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
+0.0.0.0 $object,domain=pornhub.com|redtube.com|youporn.com
+0.0.0.0 $script,third-party,domain=duckmovies.net|have69.net|i-gay.org|playpornx.net|t-51.com|watchxxxfree.com|whorehd.net
+0.0.0.0 $third-party,xmlhttprequest,domain=ceporn.net|duckmovies.net
 0.0.0.0 |ws://$other,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
 0.0.0.0 ||109.201.146.142^$domain=xxxbunker.com
 0.0.0.0 ||213.174.140.38/bftv/js/msn-
@@ -35892,40 +35886,40 @@
 0.0.0.0 ! zone-anime.net
 0.0.0.0 @@||connect.facebook.net^$script,domain=zone-anime.net
 0.0.0.0 @@||disqus.com^$script,domain=zone-anime.net
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=zone-anime.net
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=zone-anime.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=zone-anime.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=zone-anime.net
 0.0.0.0 ! xmoviesforyou.com
 0.0.0.0 @@||datoporn.com^$script,domain=29443kmq.video
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=29443kmq.video|xmoviesforyou.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=29443kmq.video|xmoviesforyou.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=29443kmq.video|xmoviesforyou.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=29443kmq.video|xmoviesforyou.com
 0.0.0.0 ! rule34hentai.net
 0.0.0.0 @@||rule34hentai.net/data/cache/$script
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=rule34hentai.net
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=rule34hentai.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=rule34hentai.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=rule34hentai.net
 0.0.0.0 ||rule34hentai.net^$script,~third-party
 0.0.0.0 ! txxx.com
 0.0.0.0 @@||ahcdn.com^$xmlhttprequest,domain=txxx.com
 0.0.0.0 @@||ajax.googleapis.com^$domain=txxx.com
 0.0.0.0 @@||tubecup.org^$xmlhttprequest,domain=txxx.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=txxx.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=txxx.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=txxx.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=txxx.com
 0.0.0.0 ! urlgalleries.net
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=urlgalleries.net
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=urlgalleries.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=urlgalleries.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=urlgalleries.net
 0.0.0.0 ! sextube.com
 0.0.0.0 @@||static.sextube.phncdn.com^$script,domain=sextube.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=sextube.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=sextube.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=sextube.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=sextube.com
 0.0.0.0 ! milfzr.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=milfzr.com
 0.0.0.0 @@||apis.google.com^$script,domain=milfzr.com
 0.0.0.0 @@||connect.facebook.net^$script,domain=milfzr.com
 0.0.0.0 @@||jwpcdn.com^$xmlhttprequest,domain=milfzr.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=milfzr.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=milfzr.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=milfzr.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=milfzr.com
 0.0.0.0 ! sexix.net
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=sexix.net
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=sexix.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=sexix.net
+0.0.0.0 $script,third-party,xmlhttprequest,domain=sexix.net
 0.0.0.0 ! anyporn
 0.0.0.0 @@||anyporn.com/captcha/comments/?$image
 0.0.0.0 @@||anyporn.com/player/$script
@@ -35950,18 +35944,18 @@
 0.0.0.0 @@||imagefap.com/photo/*/?gid=$xmlhttprequest
 0.0.0.0 @@||imagefap.com/ubr_file_upload.js$script
 0.0.0.0 @@||moviefap.com/js/swfobject.js$script
-0.0.0.0 |http://$script,xmlhttprequest,domain=imagefap.com
-0.0.0.0 |https://$script,xmlhttprequest,domain=imagefap.com
+0.0.0.0 $script,xmlhttprequest,domain=imagefap.com
+0.0.0.0 $script,xmlhttprequest,domain=imagefap.com
 0.0.0.0 ! hotpornfile.org
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=hotpornfile.org
 0.0.0.0 @@||code.jquery.com^$script,domain=hotpornfile.org
-0.0.0.0 |http://$script,third-party,domain=hotpornfile.org
-0.0.0.0 |https://$script,third-party,domain=hotpornfile.org
+0.0.0.0 $script,third-party,domain=hotpornfile.org
+0.0.0.0 $script,third-party,domain=hotpornfile.org
 0.0.0.0 ! gaybeeg.info
 0.0.0.0 @@||netdna-storage.com^$xmlhttprequest,domain=gaybeeg.info
 0.0.0.0 @@||translate.google.com^$script,domain=gaybeeg.info
 0.0.0.0 @@||wp.com/wp-content/js/$script,domain=gaybeeg.info
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=gaybeeg.info
+0.0.0.0 $script,third-party,xmlhttprequest,domain=gaybeeg.info
 0.0.0.0 ! motherless.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=motherless.com
 0.0.0.0 @@||motherless.com/register/$xmlhttprequest
@@ -35984,57 +35978,57 @@
 0.0.0.0 @@||motherless.com/scripts/sprintf.min.js
 0.0.0.0 @@||motherless.com/scripts/store.min.js
 0.0.0.0 @@||motherless.com/scripts/swfobject.js
-0.0.0.0 |http://$script,domain=motherless.com
-0.0.0.0 |http://$third-party,xmlhttprequest,domain=motherless.com
-0.0.0.0 |https://$script,domain=motherless.com
-0.0.0.0 |https://$third-party,xmlhttprequest,domain=motherless.com
+0.0.0.0 $script,domain=motherless.com
+0.0.0.0 $third-party,xmlhttprequest,domain=motherless.com
+0.0.0.0 $script,domain=motherless.com
+0.0.0.0 $third-party,xmlhttprequest,domain=motherless.com
 0.0.0.0 ! taxidrivermovie.com
 0.0.0.0 @@||taxidrivermovie.com/style/core-min.js$script,~third-party
-0.0.0.0 |http://$script,~third-party,xmlhttprequest,domain=taxidrivermovie.com
-0.0.0.0 |https://$script,~third-party,xmlhttprequest,domain=taxidrivermovie.com
+0.0.0.0 $script,~third-party,xmlhttprequest,domain=taxidrivermovie.com
+0.0.0.0 $script,~third-party,xmlhttprequest,domain=taxidrivermovie.com
 0.0.0.0 ! xhamster.com
 0.0.0.0 @@||xhcdn.com^$script,domain=xhamster.com
 0.0.0.0 @@||xhcdn.com^*/shader/$xmlhttprequest,domain=xhamster.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=xhamster.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=xhamster.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=xhamster.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=xhamster.com
 0.0.0.0 ! hdzog.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=hdzog.com
 0.0.0.0 @@||hdzog.com/key=$~third-party,xmlhttprequest
 0.0.0.0 @@||hdzog.com/player/timelines.php?$~third-party,xmlhttprequest
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=hdzog.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=hdzog.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=hdzog.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=hdzog.com
 0.0.0.0 ||hdzog.com/njs/$script
 0.0.0.0 ||hdzog.com^$~third-party,xmlhttprequest
 0.0.0.0 ! xvideos.com
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=xvideos.com
 0.0.0.0 @@||llnwd.net^$third-party,xmlhttprequest,domain=xvideos.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=xvideos.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=xvideos.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=xvideos.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=xvideos.com
 0.0.0.0 ||xvideos.com/pics-error/$~third-party,xmlhttprequest
 0.0.0.0 ||xvideos.com/|$~third-party,xmlhttprequest
 0.0.0.0 ||xvideos.com^*/en.json$~third-party,xmlhttprequest
 0.0.0.0 ! pornxs.com
 0.0.0.0 @@||pornxs.com/ajax.php?$xmlhttprequest
 0.0.0.0 @@||sprites.pornxs.com^$xmlhttprequest
-0.0.0.0 |http://$xmlhttprequest,domain=pornxs.com
-0.0.0.0 |https://$xmlhttprequest,domain=pornxs.com
+0.0.0.0 $xmlhttprequest,domain=pornxs.com
+0.0.0.0 $xmlhttprequest,domain=pornxs.com
 0.0.0.0 ! liebelib.com
 0.0.0.0 @@||ajax.googleapis.com^$script,third-party,domain=liebelib.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=liebelib.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=liebelib.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=liebelib.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=liebelib.com
 0.0.0.0 ! daredteens.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=daredteens.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=daredteens.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=daredteens.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=daredteens.com
 0.0.0.0 ! amateurdumper.com
 0.0.0.0 @@||ajax.googleapis.com^$script,third-party,domain=amateurdumper.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=amateurdumper.com|myxvids.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=amateurdumper.com|myxvids.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=amateurdumper.com|myxvids.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=amateurdumper.com|myxvids.com
 0.0.0.0 ! dreamamateurs.com
-0.0.0.0 |http://$script,third-party,xmlhttprequest,domain=dreamamateurs.com
-0.0.0.0 |https://$script,third-party,xmlhttprequest,domain=dreamamateurs.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=dreamamateurs.com
+0.0.0.0 $script,third-party,xmlhttprequest,domain=dreamamateurs.com
 0.0.0.0 ! Yourporn.sexy
 0.0.0.0 @@||ajax.googleapis.com^$script,domain=yourporn.sexy
-0.0.0.0 |https://$script,subdocument,third-party,domain=yourporn.sexy
+0.0.0.0 $script,subdocument,third-party,domain=yourporn.sexy
 0.0.0.0 ! websocket ads (Adblock Plus beta)
 0.0.0.0 $websocket,domain=24video.cc|24video.in|24video.me|24video.sex|24video.xxx|pornhub.com|redtube.com|redtube.com.br|russian-porn.me|tube8.com|tube8.es|tube8.fr|xhamster.com|xtube.com|xvideos.com|youporn.com|youporngay.com
 0.0.0.0 ! Vintageeroticaforum
@@ -36057,11 +36051,11 @@
 0.0.0.0 @@||vintage-erotica-forum.com/clientscript/vbulletin_read_marker.js?$script
 0.0.0.0 @@||vintage-erotica-forum.com/clientscript/vbulletin_textedit.js?$script
 0.0.0.0 @@||yui.yahooapis.com^$script,third-party,domain=vintage-erotica-forum.com
-0.0.0.0 |http://$script,domain=vintage-erotica-forum.com
+0.0.0.0 $script,domain=vintage-erotica-forum.com
 0.0.0.0 ! *** easylist:easylist_adult/adult_specific_block_popup.txt ***
 0.0.0.0 ^utm_medium=pops^$popup,domain=ratedporntube.com|sextuberate.com
-0.0.0.0 |http://*?*=$popup,third-party,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
-0.0.0.0 |http://*?*^id^$popup,third-party,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
+0.0.0.0 *?*=$popup,third-party,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
+0.0.0.0 *?*^id^$popup,third-party,domain=extremetube.com|pornhub.com|redtube.com|spankwire.com|tube8.com|youporn.com|youporngay.com
 0.0.0.0 ||ad.userporn.com^$popup
 0.0.0.0 ||bitchcrawler.com/?$popup
 0.0.0.0 ||delivery.porn.com^$popup
@@ -47122,7 +47116,6 @@
 0.0.0.0 search.aol.com##ul[content="SLMS"]
 0.0.0.0 facebook.com##ul[id^="typeahead_list_"] > ._20e._6_k._55y_
 0.0.0.0 elizium.nu##ul[style="padding: 0; width: 100%; margin: 0; list-style: none;"]
-0.0.0.0 !
 0.0.0.0 geekzone.co.nz,nydailynews.com##body > span + span + span + span + span[id][class] + span[-abp-properties='base64']
 0.0.0.0 geekzone.co.nz,nydailynews.com##body > span + span + span + span + span[id][class] + span[-abp-properties='data:']
 0.0.0.0 ! uponit

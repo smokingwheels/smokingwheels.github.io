@@ -1,0 +1,476 @@
+Just started low speed crawl 25 ppm depth 5 with My Raspberry Pi-Hole blocklist
+I have 3 days left on yourkit app.
+I have my source if you need it for line numbers.
+
+Stacks at 2017-10-21 02:39:36 PM. Uptime is 2h 15m 17s 300ms.
+
+job_pool-1-thread-166 State: BLOCKED CPU usage on sample: 9ms
+net.yacy.crawler.HostBalancer.push(Request, CrawlProfile, RobotsTxt) HostBalancer.java:292
+net.yacy.crawler.data.NoticedURL.push(NoticedURL$StackType, Request, CrawlProfile, RobotsTxt) NoticedURL.java:253
+net.yacy.crawler.CrawlStacker.stackCrawl(Request) CrawlStacker.java:440
+net.yacy.crawler.CrawlStacker.job(Request) CrawlStacker.java:218
+sun.reflect.GeneratedMethodAccessor6.invoke(Object, Object[])
+sun.reflect.DelegatingMethodAccessorImpl.invoke(Object, Object[]) DelegatingMethodAccessorImpl.java:43
+java.lang.reflect.Method.invoke(Object, Object[]) Method.java:498
+net.yacy.kelondro.workflow.InstantBlockingThread.job(WorkflowJob) InstantBlockingThread.java:102
+net.yacy.kelondro.workflow.AbstractBlockingThread.run() AbstractBlockingThread.java:102
+java.util.concurrent.Executors$RunnableAdapter.call() Executors.java:511
+java.util.concurrent.FutureTask.run() FutureTask.java:266
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor$Worker) ThreadPoolExecutor.java:1149
+java.util.concurrent.ThreadPoolExecutor$Worker.run() ThreadPoolExecutor.java:624
+java.lang.Thread.run() Thread.java:748
+
+
+Stacks at 2017-10-21 02:39:36 PM. Uptime is 2h 15m 17s 300ms.
+
+job_pool-1-thread-188 State: BLOCKED CPU usage on sample: 4ms
+net.yacy.crawler.HostBalancer.push(Request, CrawlProfile, RobotsTxt) HostBalancer.java:292
+net.yacy.crawler.data.NoticedURL.push(NoticedURL$StackType, Request, CrawlProfile, RobotsTxt) NoticedURL.java:253
+net.yacy.crawler.CrawlStacker.stackCrawl(Request) CrawlStacker.java:440
+net.yacy.crawler.CrawlStacker.job(Request) CrawlStacker.java:218
+sun.reflect.GeneratedMethodAccessor6.invoke(Object, Object[])
+sun.reflect.DelegatingMethodAccessorImpl.invoke(Object, Object[]) DelegatingMethodAccessorImpl.java:43
+java.lang.reflect.Method.invoke(Object, Object[]) Method.java:498
+net.yacy.kelondro.workflow.InstantBlockingThread.job(WorkflowJob) InstantBlockingThread.java:102
+net.yacy.kelondro.workflow.AbstractBlockingThread.run() AbstractBlockingThread.java:102
+java.util.concurrent.Executors$RunnableAdapter.call() Executors.java:511
+java.util.concurrent.FutureTask.run() FutureTask.java:266
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor$Worker) ThreadPoolExecutor.java:1149
+java.util.concurrent.ThreadPoolExecutor$Worker.run() ThreadPoolExecutor.java:624
+java.lang.Thread.run() Thread.java:748
+
+Potential deadlock: frozen threads found
+
+It seems that the following threads have not changed their stack for more than 10 seconds.
+These threads are possibly (but not necessarily!) in a deadlock or hung.
+
+BusyThread CrawlQueues.coreCrawlJob <--- Frozen for at least 14s
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:344
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:426
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+Upped crawl to 100 ppm on site.
+Stacks at 2017-10-21 02:45:09 PM. Uptime is 2h 20m 49s 500ms.
+
+job_pool-1-thread-189 State: BLOCKED CPU usage on sample: 28ms
+net.yacy.crawler.HostBalancer.push(Request, CrawlProfile, RobotsTxt) HostBalancer.java:291
+net.yacy.crawler.data.NoticedURL.push(NoticedURL$StackType, Request, CrawlProfile, RobotsTxt) NoticedURL.java:253
+net.yacy.crawler.CrawlStacker.stackCrawl(Request) CrawlStacker.java:440
+net.yacy.crawler.CrawlStacker.job(Request) CrawlStacker.java:218
+sun.reflect.GeneratedMethodAccessor6.invoke(Object, Object[])
+sun.reflect.DelegatingMethodAccessorImpl.invoke(Object, Object[]) DelegatingMethodAccessorImpl.java:43
+java.lang.reflect.Method.invoke(Object, Object[]) Method.java:498
+net.yacy.kelondro.workflow.InstantBlockingThread.job(WorkflowJob) InstantBlockingThread.java:102
+net.yacy.kelondro.workflow.AbstractBlockingThread.run() AbstractBlockingThread.java:102
+java.util.concurrent.Executors$RunnableAdapter.call() Executors.java:511
+java.util.concurrent.FutureTask.run() FutureTask.java:266
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor$Worker) ThreadPoolExecutor.java:1149
+java.util.concurrent.ThreadPoolExecutor$Worker.run() ThreadPoolExecutor.java:624
+java.lang.Thread.run() Thread.java:748
+
+
+Stacks at 2017-10-21 02:45:09 PM. Uptime is 2h 20m 49s 500ms.
+
+job_pool-1-thread-166 State: BLOCKED CPU usage on sample: 24ms
+net.yacy.crawler.HostBalancer.push(Request, CrawlProfile, RobotsTxt) HostBalancer.java:291
+net.yacy.crawler.data.NoticedURL.push(NoticedURL$StackType, Request, CrawlProfile, RobotsTxt) NoticedURL.java:253
+net.yacy.crawler.CrawlStacker.stackCrawl(Request) CrawlStacker.java:440
+net.yacy.crawler.CrawlStacker.job(Request) CrawlStacker.java:218
+sun.reflect.GeneratedMethodAccessor6.invoke(Object, Object[])
+sun.reflect.DelegatingMethodAccessorImpl.invoke(Object, Object[]) DelegatingMethodAccessorImpl.java:43
+java.lang.reflect.Method.invoke(Object, Object[]) Method.java:498
+net.yacy.kelondro.workflow.InstantBlockingThread.job(WorkflowJob) InstantBlockingThread.java:102
+net.yacy.kelondro.workflow.AbstractBlockingThread.run() AbstractBlockingThread.java:102
+java.util.concurrent.Executors$RunnableAdapter.call() Executors.java:511
+java.util.concurrent.FutureTask.run() FutureTask.java:266
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor$Worker) ThreadPoolExecutor.java:1149
+java.util.concurrent.ThreadPoolExecutor$Worker.run() ThreadPoolExecutor.java:624
+java.lang.Thread.run() Thread.java:748
+
+Stacks at 2017-10-21 02:45:09 PM. Uptime is 2h 20m 49s 500ms.
+
+job_pool-1-thread-187 State: BLOCKED CPU usage on sample: 26ms
+net.yacy.crawler.HostBalancer.push(Request, CrawlProfile, RobotsTxt) HostBalancer.java:291
+net.yacy.crawler.data.NoticedURL.push(NoticedURL$StackType, Request, CrawlProfile, RobotsTxt) NoticedURL.java:253
+net.yacy.crawler.CrawlStacker.stackCrawl(Request) CrawlStacker.java:440
+net.yacy.crawler.CrawlStacker.job(Request) CrawlStacker.java:218
+sun.reflect.GeneratedMethodAccessor6.invoke(Object, Object[])
+sun.reflect.DelegatingMethodAccessorImpl.invoke(Object, Object[]) DelegatingMethodAccessorImpl.java:43
+java.lang.reflect.Method.invoke(Object, Object[]) Method.java:498
+net.yacy.kelondro.workflow.InstantBlockingThread.job(WorkflowJob) InstantBlockingThread.java:102
+net.yacy.kelondro.workflow.AbstractBlockingThread.run() AbstractBlockingThread.java:102
+java.util.concurrent.Executors$RunnableAdapter.call() Executors.java:511
+java.util.concurrent.FutureTask.run() FutureTask.java:266
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor$Worker) ThreadPoolExecutor.java:1149
+java.util.concurrent.ThreadPoolExecutor$Worker.run() ThreadPoolExecutor.java:624
+java.lang.Thread.run() Thread.java:748
+
+
+Stacks at 2017-10-21 02:45:51 PM. Uptime is 2h 21m 31s 500ms.
+
+job_pool-1-thread-189 State: WAITING CPU usage on sample: 4ms
+sun.misc.Unsafe.park(boolean, long) Unsafe.java (native)
+java.util.concurrent.locks.LockSupport.park(Object) LockSupport.java:175
+java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await() AbstractQueuedSynchronizer.java:2039
+java.util.concurrent.LinkedBlockingQueue.take() LinkedBlockingQueue.java:442
+net.yacy.kelondro.workflow.WorkflowProcessor.take() WorkflowProcessor.java:226
+net.yacy.kelondro.workflow.AbstractBlockingThread.run() AbstractBlockingThread.java:97
+java.util.concurrent.Executors$RunnableAdapter.call() Executors.java:511
+java.util.concurrent.FutureTask.run() FutureTask.java:266
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor$Worker) ThreadPoolExecutor.java:1149
+java.util.concurrent.ThreadPoolExecutor$Worker.run() ThreadPoolExecutor.java:624
+java.lang.Thread.run() Thread.java:748
+Stacks at 2017-10-21 02:47:03 PM. Uptime is 2h 22m 43s 600ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 1ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+Stacks at 2017-10-21 02:47:25 PM. Uptime is 2h 23m 5s 600ms.
+
+job_pool-1-thread-188 State: BLOCKED CPU usage on sample: 22ms
+net.yacy.crawler.HostBalancer.push(Request, CrawlProfile, RobotsTxt) HostBalancer.java:291
+net.yacy.crawler.data.NoticedURL.push(NoticedURL$StackType, Request, CrawlProfile, RobotsTxt) NoticedURL.java:253
+net.yacy.crawler.CrawlStacker.stackCrawl(Request) CrawlStacker.java:440
+net.yacy.crawler.CrawlStacker.job(Request) CrawlStacker.java:218
+sun.reflect.GeneratedMethodAccessor6.invoke(Object, Object[])
+sun.reflect.DelegatingMethodAccessorImpl.invoke(Object, Object[]) DelegatingMethodAccessorImpl.java:43
+java.lang.reflect.Method.invoke(Object, Object[]) Method.java:498
+net.yacy.kelondro.workflow.InstantBlockingThread.job(WorkflowJob) InstantBlockingThread.java:102
+net.yacy.kelondro.workflow.AbstractBlockingThread.run() AbstractBlockingThread.java:102
+java.util.concurrent.Executors$RunnableAdapter.call() Executors.java:511
+java.util.concurrent.FutureTask.run() FutureTask.java:266
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor$Worker) ThreadPoolExecutor.java:1149
+java.util.concurrent.ThreadPoolExecutor$Worker.run() ThreadPoolExecutor.java:624
+java.lang.Thread.run() Thread.java:748
+
+Stacks at 2017-10-21 02:48:34 PM. Uptime is 2h 24m 14s 400ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 0ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+Stacks at 2017-10-21 02:49:57 PM. Uptime is 2h 25m 37s 600ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 3ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+Upped to 200 PPM
+Stacks at 2017-10-21 02:54:23 PM. Uptime is 2h 30m 3s 400ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 2ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+
+Stacks at 2017-10-21 02:54:58 PM. Uptime is 2h 30m 39s 300ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 7ms
+net.yacy.kelondro.index.BufferedObjectIndex.size() BufferedObjectIndex.java:284
+net.yacy.crawler.HostQueue.size() HostQueue.java:391
+net.yacy.crawler.HostBalancer.size() HostBalancer.java:258
+net.yacy.crawler.data.NoticedURL.stackSize(NoticedURL$StackType) NoticedURL.java:231
+net.yacy.crawler.data.CrawlQueues.coreCrawlJobSize() CrawlQueues.java:371
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:376
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+Stacks at 2017-10-21 02:55:15 PM. Uptime is 2h 30m 55s 600ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 5ms
+net.yacy.kelondro.index.BufferedObjectIndex.size() BufferedObjectIndex.java:284
+net.yacy.crawler.HostQueue.size() HostQueue.java:391
+net.yacy.crawler.HostBalancer.size() HostBalancer.java:258
+net.yacy.crawler.data.NoticedURL.stackSize(NoticedURL$StackType) NoticedURL.java:231
+net.yacy.crawler.data.CrawlQueues.coreCrawlJobSize() CrawlQueues.java:371
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:376
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+
+Stacks at 2017-10-21 02:55:31 PM. Uptime is 2h 31m 11s 500ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 2ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+
+Stacks at 2017-10-21 02:55:56 PM. Uptime is 2h 31m 36s 600ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 8ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+
+Stacks at 2017-10-21 02:55:57 PM. Uptime is 2h 31m 37s 600ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 0ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+
+Stacks at 2017-10-21 02:56:09 PM. Uptime is 2h 31m 49s 700ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 9ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+
+Stacks at 2017-10-21 02:56:10 PM. Uptime is 2h 31m 50s 600ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 0ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+upped to 500 PPM running about 250
+
+Stacks at 2017-10-21 02:58:00 PM. Uptime is 2h 33m 40s 800ms.
+
+job_pool-1-thread-189 State: BLOCKED CPU usage on sample: 2ms
+net.yacy.crawler.HostBalancer.push(Request, CrawlProfile, RobotsTxt) HostBalancer.java:291
+net.yacy.crawler.data.NoticedURL.push(NoticedURL$StackType, Request, CrawlProfile, RobotsTxt) NoticedURL.java:253
+net.yacy.crawler.CrawlStacker.stackCrawl(Request) CrawlStacker.java:440
+net.yacy.crawler.CrawlStacker.job(Request) CrawlStacker.java:218
+sun.reflect.GeneratedMethodAccessor6.invoke(Object, Object[])
+sun.reflect.DelegatingMethodAccessorImpl.invoke(Object, Object[]) DelegatingMethodAccessorImpl.java:43
+java.lang.reflect.Method.invoke(Object, Object[]) Method.java:498
+net.yacy.kelondro.workflow.InstantBlockingThread.job(WorkflowJob) InstantBlockingThread.java:102
+net.yacy.kelondro.workflow.AbstractBlockingThread.run() AbstractBlockingThread.java:102
+java.util.concurrent.Executors$RunnableAdapter.call() Executors.java:511
+java.util.concurrent.FutureTask.run() FutureTask.java:266
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor$Worker) ThreadPoolExecutor.java:1149
+java.util.concurrent.ThreadPoolExecutor$Worker.run() ThreadPoolExecutor.java:624
+java.lang.Thread.run() Thread.java:748
+
+Stacks at 2017-10-21 02:58:00 PM. Uptime is 2h 33m 40s 800ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 17ms
+net.yacy.kelondro.index.BufferedObjectIndex.size() BufferedObjectIndex.java:284
+net.yacy.crawler.HostQueue.size() HostQueue.java:391
+net.yacy.crawler.HostBalancer.size() HostBalancer.java:258
+net.yacy.crawler.data.NoticedURL.stackSize(NoticedURL$StackType) NoticedURL.java:231
+net.yacy.crawler.data.CrawlQueues.coreCrawlJobSize() CrawlQueues.java:371
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:376
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+Stacks at 2017-10-21 02:58:45 PM. Uptime is 2h 34m 25s 700ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 5ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+Stacks at 2017-10-21 02:59:04 PM. Uptime is 2h 34m 44s 800ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 11ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+
+Stacks at 2017-10-21 02:59:29 PM. Uptime is 2h 35m 9s 800ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 13ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+changed limit 1000 PPM running ~300
+
+6 in a row
+Stacks at 2017-10-21 03:00:46 PM. Uptime is 2h 36m 26s 400ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 25ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+
+6000 PPM doing 25
+Stacks at 2017-10-21 03:03:23 PM. Uptime is 2h 39m 4s 0ms.
+
+BusyThread CrawlQueues.coreCrawlJob [DAEMON] State: BLOCKED CPU usage on sample: 3ms
+net.yacy.crawler.robots.RobotsTxt.getEntry(String, ClientIdentification$Agent, boolean) RobotsTxt.java:203
+net.yacy.crawler.robots.RobotsTxt.getEntry(MultiProtocolURL, ClientIdentification$Agent) RobotsTxt.java:172
+net.yacy.crawler.data.Latency.waitingRobots(MultiProtocolURL, RobotsTxt, ClientIdentification$Agent) Latency.java:146
+net.yacy.crawler.data.Latency.waitingRemaining(DigestURL, RobotsTxt, ClientIdentification$Agent) Latency.java:203
+net.yacy.crawler.data.Latency.getDomainSleepTime(RobotsTxt, CrawlProfile, DigestURL) Latency.java:250
+net.yacy.crawler.HostQueue.pop(boolean, CrawlSwitchboard, RobotsTxt) HostQueue.java:448
+net.yacy.crawler.HostBalancer.pop(boolean, CrawlSwitchboard, RobotsTxt) HostBalancer.java:439
+net.yacy.crawler.data.NoticedURL.pop(Balancer, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:390
+net.yacy.crawler.data.NoticedURL.pop(NoticedURL$StackType, boolean, CrawlSwitchboard, RobotsTxt) NoticedURL.java:347
+net.yacy.crawler.data.CrawlQueues.coreCrawlJob() CrawlQueues.java:408
+net.yacy.search.Switchboard$9.jobImpl() Switchboard.java:1069
+net.yacy.kelondro.workflow.InstantBusyThread.job() InstantBusyThread.java:266
+net.yacy.kelondro.workflow.AbstractBusyThread.run() AbstractBusyThread.java:373
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

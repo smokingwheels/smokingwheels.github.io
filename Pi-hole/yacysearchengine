@@ -293,6 +293,27 @@
 0.0.0.0 hongkong.locanto.hk
 0.0.0.0 www.commerce.wa.gov.au
 0.0.0.0 liupanshui.locanto.cn
+0.0.0.0 blahblahbah
+0.0.0.0 forwarded blog.geocaching.com
+0.0.0.0 www.geocaching.com
+0.0.0.0 breconbeacons.wordpress.com
+0.0.0.0 www.ftfgeocacher.com
+0.0.0.0 whitelisted-url.com'
+0.0.0.0 electron.atom.io'
+0.0.0.0 example.com'
+0.0.0.0 bitbucket.org'
+0.0.0.0 google.com'
+0.0.0.0 oracle.com@developer.us2.oraclecloud.com'
+0.0.0.0 myfriend.site.com';
+0.0.0.0 nocontent204.com'
+0.0.0.0 repo.example.com'
+0.0.0.0 cdn.keywest.life'
+0.0.0.0 maven.google.com'
+0.0.0.0 www.sample.com'
+0.0.0.0 github.com'
+0.0.0.0 api.github.com'
+0.0.0.0 brproject.com'
+0.0.0.0 xxx.domain.com'
 0.0.0.0 
 0.0.0.0 @@1gr.cz/*videoplayer.js*
 0.0.0.0 @@1gr.cz/js/galerie/2011.js

@@ -5,7 +5,7 @@ Source for 2nd list has problems.
 I will have to look into this problem for creators and authors.
 
 
-There is 23 files in the 2nd list I still have errors about 0.07% in to the log file.
+There is 23 files in the 2nd lists I still have errors about 0.07% in to the log file.
 
 
 Use at own Risk it does slow things down.
@@ -35,6 +35,9 @@ https://smokingwheels.github.io/Pi-hole/21nov17
 https://smokingwheels.github.io/Pi-hole/22nov17
 https://smokingwheels.github.io/Pi-hole/23nov17
 
-
+The Program for my Pihole log extractor.
+https://smokingwheels.github.io/Pi-hole/qb64/piholelogext.bas
+The blocklist.
+https://smokingwheels.github.io/Pi-hole/fromlog
 
 

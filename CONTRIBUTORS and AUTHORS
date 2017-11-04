@@ -27,5 +27,1893 @@ Copyright (c) 2016 Fan Yang
 https://github.com/missdeer/blocklist
 There are many others. I have some sort of encoding problem with a file its no longer UTF-8.
 
+I may have used some of these lists.
+Its some sort of a list the results of linux "head" command. 
+
+
+
+
+# hpHosts - GRM only
+#
+# The following are hosts in the hpHosts database with the GRM classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	10xcdn.com
+#MHB73
+127.0.0.1		localhost
+255.255.255.255 broadcasthost
+::1				localhost
+
+:: admob.biz
+:: admob.co.kr
+:: admob.co.nz
+:: admob.co.uk
+:: admob.com
+# KADhosts
+# Website: https://azet12.github.io/KAD/
+# Repository: https://github.com/azet12/KADhosts
+# Based on: https://github.com/azet12/KAD
+# Check the repository for license information. / Sprawdz repozytiorium po informacje o licencji.
+
+# Version: H2017102801
+
+# (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+# (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
+### Extra rules for @StevenBlack 's hosts project 
+### https://github.com/FadeMind/hosts.extras
+### SPAM sites based on http://www.hostsfile.org/hosts.html content.
+
+0.0.0.0 100.1qingdao.com
+0.0.0.0 100lend.in.net
+0.0.0.0 7minuteworkout.com
+0.0.0.0 www.7minuteworkout.com
+0.0.0.0 addshoppers.com
+0.0.0.0 www.addshoppers.com
+# Personal Blacklist by WaLLy3K
+# Licencing: http://www.wtfpl.net
+
+# Anything added to this list has been manually verified
+# and is not a part of any other list found at https://wally3k.github.io
+# Whitelisting: Contact me via any means found at https://firebog.net
+
+# Ads
+quantummetric.com # Cydia/Bigboss
+cydia.saurik.com.cdngc.net # Cydia/Bigboss
+001web.net
+005mall.com
+0dese-mi.com
+0j9.ru
+0l6.ru
+0o3lsk3g.biz
+0p7.ru
+0s7.ru
+0s8.ru
+0w7.ru
+# Last updated : 2017-10-01
+127.0.0.1        localhost
+127.0.0.1	 0.r.msn.com
+127.0.0.1	 0.start.bz
+127.0.0.1	 000dom.revenuedirect.com
+127.0.0.1	 000info.com
+127.0.0.1	 005.free-counter.co.uk
+127.0.0.1	 006.free-counter.co.uk
+127.0.0.1	 007.free-counter.co.uk
+127.0.0.1	 008.free-counter.co.uk
+#
+#   DShield.org Suspicious Domain List
+#    (c) 2017 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Low.txt
+#
+#   comments: info@dshield.org
+#    updated: Tue Oct 31 04:07:03 2017 UTC
+#   
+0-0-0-0-0-0-0-0-0-0-0-0-0-15-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+0-0-0-0-0-0-0-0-0-0-0-0-0-23-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+0000love.net
+000cas.info
+001husiaxajiji.biz
+001jijoppudkaso.net
+001linker.net;1
+002uh.com
+0n-line.tv
+1-99seo.com
+1-free-share-buttons.com
+100dollars-seo.com
+100searchengines.com
+12masterov.com
+1pamm.ru
+1webmaster.ml
+24x7-server-support.site
+2your.site
+#
+# DATE:     Samedi    2017-01-28
+#
+# hhhobbit gnat securemecca.com
+# This hosts file is available here:
+#
+#    http://www.hostsfile.org/hosts.html
+#    http://www.securemecca.com/hosts.html
+#	( zip format only for main packages )
+#	( also 7z format for auto downloaders )
+# This hosts file is brought to you by Dan Pollock and can be found at
+# http://someonewhocares.org/hosts/zero/
+# You are free to copy and distribute this file for non-commercial uses,
+# as long the original URL and attribution is included. 
+# 
+# See below for acknowledgements.
+
+# Please forward any additions, corrections or comments by email to
+# hosts@someonewhocares.org
+
+gta5gratuit.com
+telechargerdes.com
+gaming-blog.com
+thehackfacebook.com
+rarshare.com
+planetside2-hacks.com
+celebritygag.com
+cheatmp.com 
+freexblcode.com 
+secrethotgames.com 
+
+#version=201710302128
+#url=https://github.com/vokins/yhosts
+@direct/1os
+#ios
+255.255.255.255	broadcasthost
+::1             localhost
+#common
+127.0.0.1 localhost
+#android
+# This MVPS HOSTS file is a free download from:            #
+# http://winhelp2002.mvps.org/hosts.htm                    #
+#                                                          #
+# Notes: The Operating System does not read the "#" symbol #
+# or anything after the # symbol on the same line          #
+#                                                          #
+# This *must* be the first line: 127.0.0.1     localhost   #
+#                                                          #
+#**********************************************************#
+# -------------- Updated: September-15-2017 -------------- #
+#####################################################################
+# The Hosts File Project http://hostsfile.mine.nu
+# Global Advert Servers Blocklist - Personal Edition
+#####################################################################
+# Release 2012-05-07
+# Servers Verified as up and running 2012-05-07 (by dns resolving)
+# Updated sorted and maintained by Andrew Short (sh0rtie)
+# Contact: wduk10@hotmail.com
+#####################################################################
+# A big thank you to all contributers (too many to mention)
+0.r.msn.com
+005.free-counter.co.uk
+006.free-counter.co.uk
+007.free-counter.co.uk
+008.free-counter.co.uk
+00fun.com
+011707160008.c.mystat-in.net
+0427d7.se
+0532a9.r.axf8.net
+05tz2e9.com
+# AdAway default blocklist
+# Blocking mobile ad providers and some analytics providers
+# 
+# Contribute:
+# Create an issue at https://github.com/AdAway/AdAway/issues
+#
+# Changelog:
+# 2016-07-18 Now hosted on GitHub + Cloudflare
+# 2014-05-18 Now with a valid SSL certificate available at https://adaway.org/hosts.txt
+# 2013-03-29 Integrated some hosts from
+007-gateway.com
+04dn8g4f.space
+0emn.com
+0fmm.com
+0icep80f.com
+0pixl.com
+0xwxmj21r75kka.com
+101m3.com
+103092804.com
+10fbb07a4b0.se
+# Ad filter list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+101com.com
+101order.com
+123found.com
+140proof.com
+180hits.de
+180searchassistant.com
+# hpHosts - Ad and Tracking servers only
+#
+# The following are hosts in the hpHosts database with the ATS classification ONLY.
+# This file will NOT protect you against malicious domains
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# AD SERVERS START HERE
+#
+007-gateway.com
+04dn8g4f.space
+0emn.com
+0fmm.com
+0icep80f.com
+0pixl.com
+0xwxmj21r75kka.com
+101m3.com
+103092804.com
+10fbb07a4b0.se
+### Extra rules for @StevenBlack 's hosts project 
+### https://github.com/FadeMind/hosts.extras
+### SpotifyAds
+
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 gads.pubmatic.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+# 0.0.0.0 spclient.wg.spotify.com # GH-270 
+0.0.0.0 www.googletagservices.com
+### Extra rules for @StevenBlack 's hosts project 
+### https://github.com/FadeMind/hosts.extras
+### UncheckyAds
+
+0.0.0.0 cdn.appround.biz
+0.0.0.0 cdn.bigspeedpro.com
+0.0.0.0 cdn.bispd.com
+0.0.0.0 cdn.bisrv.com
+0.0.0.0 cdn.download.sweetpacks.com
+0.0.0.0 cdn.guttastatdk.us
+localhost
+001.hitgraph.jp
+002.hitgraph.jp
+005.free-counter.co.uk
+005.free-counters.co.uk
+006.free-adult-counters.x-xtra.com
+006.free-counter.co.uk
+007.free-counter.co.uk
+008.free-counter.co.uk
+008.free-counters.co.uk
+0emm.com
+0tracker.com
+1-cl0ud.com
+100im.info
+103bees.com
+105app.com
+11nux.com
+123count.com
+168logger.com
+1freecounter.com
+0nlinemeds.com
+1-2-money.com
+103092804.com
+1st-fuss.com
+247adsnetwork.com
+247media.com
+247realmedia.com
+2mdn.net
+360yield.com
+3stepads.com
+#NoTrack Blocklist updated 11 Oct 2017
+#LatestVersion 0.8.6
+1-cl0ud.com #Lead Forensics
+1-creative-1.com #Lead Forensics
+103bees.com #Tracker Unknown
+105app.com #Tracker Unknown
+10cms.com #Amplience
+123-tracker.com #Lead Forensics
+123count.com #SpidersWatchp
+161media.com #161 Media
+### Extra rules for @StevenBlack 's hosts project 
+### https://github.com/FadeMind/hosts.extras
+### 2o7Net tracking sites based on http://www.hostsfile.org/hosts.html content.
+### http://www.makeuseof.com/tag/that-mysterious-2o7-net-tracking-cookie-all-you-need-to-know/
+### https://en.wikipedia.org/wiki/Omniture
+
+0.0.0.0 102.112.207.net
+0.0.0.0 102.112.2o7.net
+0.0.0.0 102.122.2o7.net
+0.0.0.0 10xhellometro.112.2o7.net
+127.0.0.1 ac3.msn.com
+127.0.0.1 choice.microsoft.com
+127.0.0.1 choice.microsoft.com.nsatc.net
+127.0.0.1 compatexchange.cloudapp.net
+127.0.0.1 corp.sts.microsoft.com
+127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
+127.0.0.1 cs1.wpc.v0cdn.net
+127.0.0.1 diagnostics.support.microsoft.com
+127.0.0.1 feedback.search.microsoft.com
+127.0.0.1 feedback.windows.com
+0.0.0.0 freelancer.co.id
+0.0.0.0 teamexpress.com
+0.0.0.0 pokerstars.de
+0.0.0.0 linksprotection.com
+0.0.0.0 rsvp.com.au
+0.0.0.0 graficalocal.com
+0.0.0.0 freelancer.co.za
+0.0.0.0 vendasblackberry.com.br
+0.0.0.0 twinspires.com
+0.0.0.0 centrebet.com
+0.0.0.0 rootech.ir
+0.0.0.0 bangaltech.blogspot.com
+0.0.0.0 webconversiononline.com
+0.0.0.0 shakeyourtentacles.com
+0.0.0.0 coolchura.blogspot.com
+0.0.0.0 newsiranian.ir
+0.0.0.0 yaspsd.ir
+0.0.0.0 danchimviet.info
+0.0.0.0 hdmoviesfun.in
+0.0.0.0 52blackberry.com
+# Samsung SmartTV domains (Will block "Smart" aspects of device)
+# https://umbrella.cisco.com/blog/2015/06/02/samsungs-chatty-smarttvs/
+# https://www.reddit.com/r/pihole/comments/5eirvy/from_the_smart_tv_thread_in_rtechnology/damgggq/
+# http://pastebin.com/pU7HV1Gr
+Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+abtauthprd.samsungcloudsolution.com
+acr0.samsungcloudsolution.com
+ad.samsungadhub.com
+amauthprd.samsungcloudsolution.com
+api-hub.samsungyosemite.com
+localhost
+0--foodwarez.da.ru
+0-0-0-0-0-0proxy.tserv.se
+0-0-0.6te.net
+0-29.com
+000.ueuo.com
+00005ik.rcomhost.com
+0001proxy.notlong.com
+0002yr2.wcomhost.com
+000aproxy.on-4.com
+Malvertising list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+bolo100.com
+marco-behrendt.de
+jah.skateparkvr.com
+fm120.cn
+bestyandex.com
+auctionbowling.com
+amazon.co.uk.security-check.ga
+autosegurancabrasil.com
+christianmensfellowshipsoftball.org
+dadossolicitado-antendimento.sad879.mobi
+hitnrun.com.my
+houmani-lb.com
+maruthorvattomsrianjaneyatemple.org
+paypalsecure-2016.sucurecode524154241.arita.ac.tz
+tei.portal.crockerandwestridge.com
+tonyyeo.com
+# hpHosts - EXP only
+#
+# The following are hosts in the hpHosts database with the EXP classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	092-khb747bjg324yu2093.jiolopokolopo.in
+# hpHosts - EMD only
+#
+# The following are hosts in the hpHosts database with the EMD classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	-sso.anbtr.com
+# hpHosts - PSH only
+#
+# The following are hosts in the hpHosts database with the PSH classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	-icloudi.com
+#This is a list of long-lived, "immortal", malware domains
+wittyvideos.com
+woo-gie.com
+3dpsys.com
+thedeadpit.com
+0001.2waky.com
+0452jhw.com
+123-jewelry-store.com
+123.8w8w8w.com.cn
+beta.spb0.ru
+#               MalwareDomainList.com Hosts List           #
+#   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
+#         Last updated: Thu, 26 Oct 17 13:51:30 +0000      #
+
+
+127.0.0.1  localhost
+127.0.0.1  0koryu0.easter.ne.jp
+127.0.0.1  109-204-26-16.netconnexion.managedbroadband.co.uk
+127.0.0.1  1866809.securefastserver.com
+127.0.0.1  2amsports.com
+advanbusiness.com
+aoldaily.com
+aolon1ine.com
+applesoftupdate.com
+arrowservice.net
+attnpower.com
+aunewsonline.com
+avvmail.com
+bigdepression.net
+bigish.net
+001wen.com
+025zd.com
+0551fs.com
+0571jjw.com
+07353.com
+0743j.com
+0769sms.com
+0820.com
+08819.com
+1010fz.com
+0-168.com
+0-29.com
+0-2u.com
+0-days.net
+0006uwjftw0ag.com
+000dfcc96tkpc.com
+000h2x147.com
+000info.com
+000qzyount2fv.com
+000sylt0u81ml.com
+#NoTrack Malicious Site list updated 20 Jun 2017
+1kdailyprofit.biz #Scam
+1kdailyprofit.co #Scam
+#A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A
+abcd7777.com #Chinese Scammer
+abcdnf.com #Chinese Scammer
+adfuture.cn #Chinese Android Data Collection 
+adsunflower.com #Chinese Android Data Collection 
+advmob.cn #Chinese Android Data Collection 
+akamoihd.net #Ad Injector
+000info.com
+001y.com
+0070.zzux.com
+008i.com
+008k.com
+008.net
+00.devoid.us
+00fun.com
+00hq.com
+00info.com
+### Extra rules for @StevenBlack 's hosts project 
+### https://github.com/FadeMind/hosts.extras
+### Risk: malware, adware and tracking sites based on http://www.hostsfile.org/hosts.html content.
+
+0.0.0.0 0.r.msn.com
+0.0.0.0 050003.voodoo.com
+0.0.0.0 050005.voodoo.com
+0.0.0.0 0iecfobt.com
+0.0.0.0 0koryu0.easter.ne.jp
+0.0.0.0 1.googlenews.xorg.pl
+##############################################################################
+# abuse.ch ZeuS domain blocklist                                             #
+#                                                                            #
+# For questions please refer to https://zeustracker.abuse.ch/blocklist.php   #
+##############################################################################
+
+039b1ee.netsolhost.com
+03a6b7a.netsolhost.com
+03a6f57.netsolhost.com
+03bbec4.netsolhost.com
+# Personal Blacklist by WaLLy3K
+# Licencing: http://www.wtfpl.net
+
+# Anything added to this list has been manually verified
+# and is not a part of any other list found at https://wally3k.github.io
+# Whitelisting: Contact me via any means found at https://firebog.net
+
+# Ads
+quantummetric.com # Cydia/Bigboss
+cydia.saurik.com.cdngc.net # Cydia/Bigboss
+event-img.qwapi.com
+adserver-live.yoc.mobi
+admax.nexage.com
+mm.admob.com
+iphone-services.apple.com
+iphonesubmissions.apple.com
+ads2.greystripe.com
+adsx.greystripe.com
+c.greystripe.com
+a.medialytics.com
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via Github
+#
+# Date: October 28 2017
+# Number of unique domains: 42,743
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+#
+# ===============================================================
+amazon.co.uk.security-check.ga
+autosegurancabrasil.com
+christianmensfellowshipsoftball.org
+dadossolicitado-antendimento.sad879.mobi
+hitnrun.com.my
+houmani-lb.com
+maruthorvattomsrianjaneyatemple.org
+paypalsecure-2016.sucurecode524154241.arita.ac.tz
+tei.portal.crockerandwestridge.com
+tonyyeo.com
+# Last updated : 2017-10-01
+127.0.0.1        localhost
+127.0.0.1	 0.r.msn.com
+127.0.0.1	 0.start.bz
+127.0.0.1	 000dom.revenuedirect.com
+127.0.0.1	 000info.com
+127.0.0.1	 005.free-counter.co.uk
+127.0.0.1	 006.free-counter.co.uk
+127.0.0.1	 007.free-counter.co.uk
+127.0.0.1	 008.free-counter.co.uk
+##############################################################################
+# abuse.ch ZeuS domain blocklist                                             #
+#                                                                            #
+# For questions please refer to https://zeustracker.abuse.ch/blocklist.php   #
+##############################################################################
+
+039b1ee.netsolhost.com
+03a6b7a.netsolhost.com
+03a6f57.netsolhost.com
+03bbec4.netsolhost.com
+# Basic tracking list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+adjust.io
+airbrake.io
+appboy.com
+appsflyer.com
+apsalar.com
+bango.combango.org
+# Ad filter list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+101com.com
+101order.com
+123found.com
+140proof.com
+180hits.de
+180searchassistant.com
+# AdAway default blocklist
+# Blocking mobile ad providers and some analytics providers
+# 
+# Contribute:
+# Create an issue at https://github.com/AdAway/AdAway/issues
+#
+# Changelog:
+# 2016-07-18 Now hosted on GitHub + Cloudflare
+# 2014-05-18 Now with a valid SSL certificate available at https://adaway.org/hosts.txt
+# 2013-03-29 Integrated some hosts from
+### Extra rules for @StevenBlack 's hosts project 
+### https://github.com/FadeMind/hosts.extras
+### SpotifyAds
+
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 gads.pubmatic.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+# 0.0.0.0 spclient.wg.spotify.com # GH-270 
+0.0.0.0 www.googletagservices.com
+007-gateway.com
+04dn8g4f.space
+0emn.com
+0fmm.com
+0icep80f.com
+0pixl.com
+0xwxmj21r75kka.com
+101m3.com
+103092804.com
+10fbb07a4b0.se
+007-gateway.com
+04dn8g4f.space
+0emn.com
+0fmm.com
+0icep80f.com
+0pixl.com
+0xwxmj21r75kka.com
+101m3.com
+103092804.com
+10fbb07a4b0.se
+### Extra rules for @StevenBlack 's hosts project 
+### https://github.com/FadeMind/hosts.extras
+### UncheckyAds
+
+0.0.0.0 cdn.appround.biz
+0.0.0.0 cdn.bigspeedpro.com
+0.0.0.0 cdn.bispd.com
+0.0.0.0 cdn.bisrv.com
+0.0.0.0 cdn.download.sweetpacks.com
+0.0.0.0 cdn.guttastatdk.us
+# This hosts file is brought to you by Dan Pollock and can be found at
+# http://someonewhocares.org/hosts/zero/
+# You are free to copy and distribute this file for non-commercial uses,
+# as long the original URL and attribution is included. 
+# 
+# See below for acknowledgements.
+
+# Please forward any additions, corrections or comments by email to
+# hosts@someonewhocares.org
+
+# hpHosts - GRM only
+#
+# The following are hosts in the hpHosts database with the GRM classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	10xcdn.com
+#MHB73
+127.0.0.1		localhost
+255.255.255.255 broadcasthost
+::1				localhost
+
+:: admob.biz
+:: admob.co.kr
+:: admob.co.nz
+:: admob.co.uk
+:: admob.com
+# KADhosts
+# Website: https://azet12.github.io/KAD/
+# Repository: https://github.com/azet12/KADhosts
+# Based on: https://github.com/azet12/KAD
+# Check the repository for license information. / Sprawdz repozytiorium po informacje o licencji.
+
+# Version: H2017102801
+
+# (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+# (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
+### Extra rules for @StevenBlack 's hosts project 
+### https://github.com/FadeMind/hosts.extras
+### SPAM sites based on http://www.hostsfile.org/hosts.html content.
+
+0.0.0.0 100.1qingdao.com
+0.0.0.0 100lend.in.net
+0.0.0.0 7minuteworkout.com
+0.0.0.0 www.7minuteworkout.com
+0.0.0.0 addshoppers.com
+0.0.0.0 www.addshoppers.com
+# Personal Blacklist by WaLLy3K
+# Licencing: http://www.wtfpl.net
+
+# Anything added to this list has been manually verified
+# and is not a part of any other list found at https://wally3k.github.io
+# Whitelisting: Contact me via any means found at https://firebog.net
+
+# Ads
+quantummetric.com # Cydia/Bigboss
+cydia.saurik.com.cdngc.net # Cydia/Bigboss
+001web.net
+005mall.com
+0dese-mi.com
+0j9.ru
+0l6.ru
+0o3lsk3g.biz
+0p7.ru
+0s7.ru
+0s8.ru
+0w7.ru
+# Last updated : 2017-10-01
+127.0.0.1        localhost
+127.0.0.1	 0.r.msn.com
+127.0.0.1	 0.start.bz
+127.0.0.1	 000dom.revenuedirect.com
+127.0.0.1	 000info.com
+127.0.0.1	 005.free-counter.co.uk
+127.0.0.1	 006.free-counter.co.uk
+127.0.0.1	 007.free-counter.co.uk
+127.0.0.1	 008.free-counter.co.uk
+#
+#   DShield.org Suspicious Domain List
+#    (c) 2017 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Low.txt
+#
+#   comments: info@dshield.org
+#    updated: Tue Oct 31 04:07:03 2017 UTC
+#   
+0-0-0-0-0-0-0-0-0-0-0-0-0-15-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+0-0-0-0-0-0-0-0-0-0-0-0-0-23-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+0000love.net
+000cas.info
+001husiaxajiji.biz
+001jijoppudkaso.net
+001linker.net;1
+002uh.com
+0n-line.tv
+1-99seo.com
+1-free-share-buttons.com
+100dollars-seo.com
+100searchengines.com
+12masterov.com
+1pamm.ru
+1webmaster.ml
+24x7-server-support.site
+2your.site
+#
+# DATE:     Samedi    2017-01-28
+#
+# hhhobbit gnat securemecca.com
+# This hosts file is available here:
+#
+#    http://www.hostsfile.org/hosts.html
+#    http://www.securemecca.com/hosts.html
+#	( zip format only for main packages )
+#	( also 7z format for auto downloaders )
+# This hosts file is brought to you by Dan Pollock and can be found at
+# http://someonewhocares.org/hosts/zero/
+# You are free to copy and distribute this file for non-commercial uses,
+# as long the original URL and attribution is included. 
+# 
+# See below for acknowledgements.
+
+# Please forward any additions, corrections or comments by email to
+# hosts@someonewhocares.org
+
+gta5gratuit.com
+telechargerdes.com
+gaming-blog.com
+thehackfacebook.com
+rarshare.com
+planetside2-hacks.com
+celebritygag.com
+cheatmp.com 
+freexblcode.com 
+secrethotgames.com 
+
+#version=201710302128
+#url=https://github.com/vokins/yhosts
+@direct/1os
+#ios
+255.255.255.255	broadcasthost
+::1             localhost
+#common
+127.0.0.1 localhost
+#android
+# This MVPS HOSTS file is a free download from:            #
+# http://winhelp2002.mvps.org/hosts.htm                    #
+#                                                          #
+# Notes: The Operating System does not read the "#" symbol #
+# or anything after the # symbol on the same line          #
+#                                                          #
+# This *must* be the first line: 127.0.0.1     localhost   #
+#                                                          #
+#**********************************************************#
+# -------------- Updated: September-15-2017 -------------- #
+#####################################################################
+# The Hosts File Project http://hostsfile.mine.nu
+# Global Advert Servers Blocklist - Personal Edition
+#####################################################################
+# Release 2012-05-07
+# Servers Verified as up and running 2012-05-07 (by dns resolving)
+# Updated sorted and maintained by Andrew Short (sh0rtie)
+# Contact: wduk10@hotmail.com
+#####################################################################
+# A big thank you to all contributers (too many to mention)
+0.r.msn.com
+005.free-counter.co.uk
+006.free-counter.co.uk
+007.free-counter.co.uk
+008.free-counter.co.uk
+00fun.com
+011707160008.c.mystat-in.net
+0427d7.se
+0532a9.r.axf8.net
+05tz2e9.com
+localhost
+0--foodwarez.da.ru
+0-0-0-0-0-0proxy.tserv.se
+0-0-0.6te.net
+0-29.com
+000.ueuo.com
+00005ik.rcomhost.com
+0001proxy.notlong.com
+0002yr2.wcomhost.com
+000aproxy.on-4.com
+Malvertising list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+bolo100.com
+marco-behrendt.de
+jah.skateparkvr.com
+fm120.cn
+bestyandex.com
+auctionbowling.com
+amazon.co.uk.security-check.ga
+autosegurancabrasil.com
+christianmensfellowshipsoftball.org
+dadossolicitado-antendimento.sad879.mobi
+hitnrun.com.my
+houmani-lb.com
+maruthorvattomsrianjaneyatemple.org
+paypalsecure-2016.sucurecode524154241.arita.ac.tz
+tei.portal.crockerandwestridge.com
+tonyyeo.com
+# hpHosts - EXP only
+#
+# The following are hosts in the hpHosts database with the EXP classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	092-khb747bjg324yu2093.jiolopokolopo.in
+# hpHosts - EMD only
+#
+# The following are hosts in the hpHosts database with the EMD classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	-sso.anbtr.com
+# hpHosts - PSH only
+#
+# The following are hosts in the hpHosts database with the PSH classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	-icloudi.com
+#This is a list of long-lived, "immortal", malware domains
+wittyvideos.com
+woo-gie.com
+3dpsys.com
+thedeadpit.com
+0001.2waky.com
+0452jhw.com
+123-jewelry-store.com
+123.8w8w8w.com.cn
+beta.spb0.ru
+#               MalwareDomainList.com Hosts List           #
+#   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
+#         Last updated: Thu, 26 Oct 17 13:51:30 +0000      #
+
+
+127.0.0.1  localhost
+127.0.0.1  0koryu0.easter.ne.jp
+127.0.0.1  109-204-26-16.netconnexion.managedbroadband.co.uk
+127.0.0.1  1866809.securefastserver.com
+127.0.0.1  2amsports.com
+advanbusiness.com
+aoldaily.com
+aolon1ine.com
+applesoftupdate.com
+arrowservice.net
+attnpower.com
+aunewsonline.com
+avvmail.com
+bigdepression.net
+bigish.net
+001wen.com
+025zd.com
+0551fs.com
+0571jjw.com
+07353.com
+0743j.com
+0769sms.com
+0820.com
+08819.com
+1010fz.com
+0-168.com
+0-29.com
+0-2u.com
+0-days.net
+0006uwjftw0ag.com
+000dfcc96tkpc.com
+000h2x147.com
+000info.com
+000qzyount2fv.com
+000sylt0u81ml.com
+#NoTrack Malicious Site list updated 20 Jun 2017
+1kdailyprofit.biz #Scam
+1kdailyprofit.co #Scam
+#A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A
+abcd7777.com #Chinese Scammer
+abcdnf.com #Chinese Scammer
+adfuture.cn #Chinese Android Data Collection 
+adsunflower.com #Chinese Android Data Collection 
+advmob.cn #Chinese Android Data Collection 
+akamoihd.net #Ad Injector
+000info.com
+001y.com
+0070.zzux.com
+008i.com
+008k.com
+008.net
+00.devoid.us
+00fun.com
+00hq.com
+00info.com
+### Extra rules for @StevenBlack 's hosts project 
+### https://github.com/FadeMind/hosts.extras
+### Risk: malware, adware and tracking sites based on http://www.hostsfile.org/hosts.html content.
+
+0.0.0.0 0.r.msn.com
+0.0.0.0 050003.voodoo.com
+0.0.0.0 050005.voodoo.com
+0.0.0.0 0iecfobt.com
+0.0.0.0 0koryu0.easter.ne.jp
+0.0.0.0 1.googlenews.xorg.pl
+##############################################################################
+# abuse.ch ZeuS domain blocklist                                             #
+#                                                                            #
+# For questions please refer to https://zeustracker.abuse.ch/blocklist.php   #
+##############################################################################
+
+039b1ee.netsolhost.com
+03a6b7a.netsolhost.com
+03a6f57.netsolhost.com
+03bbec4.netsolhost.com
+localhost
+001.hitgraph.jp
+002.hitgraph.jp
+005.free-counter.co.uk
+005.free-counters.co.uk
+006.free-adult-counters.x-xtra.com
+006.free-counter.co.uk
+007.free-counter.co.uk
+008.free-counter.co.uk
+008.free-counters.co.uk
+0emm.com
+0tracker.com
+1-cl0ud.com
+100im.info
+103bees.com
+105app.com
+11nux.com
+123count.com
+168logger.com
+1freecounter.com
+0nlinemeds.com
+1-2-money.com
+103092804.com
+1st-fuss.com
+247adsnetwork.com
+247media.com
+247realmedia.com
+2mdn.net
+360yield.com
+3stepads.com
+#NoTrack Blocklist updated 11 Oct 2017
+#LatestVersion 0.8.6
+1-cl0ud.com #Lead Forensics
+1-creative-1.com #Lead Forensics
+103bees.com #Tracker Unknown
+105app.com #Tracker Unknown
+10cms.com #Amplience
+123-tracker.com #Lead Forensics
+123count.com #SpidersWatchp
+161media.com #161 Media
+### Extra rules for @StevenBlack 's hosts project 
+### https://github.com/FadeMind/hosts.extras
+### 2o7Net tracking sites based on http://www.hostsfile.org/hosts.html content.
+### http://www.makeuseof.com/tag/that-mysterious-2o7-net-tracking-cookie-all-you-need-to-know/
+### https://en.wikipedia.org/wiki/Omniture
+
+0.0.0.0 102.112.207.net
+0.0.0.0 102.112.2o7.net
+0.0.0.0 102.122.2o7.net
+0.0.0.0 10xhellometro.112.2o7.net
+127.0.0.1 ac3.msn.com
+127.0.0.1 choice.microsoft.com
+127.0.0.1 choice.microsoft.com.nsatc.net
+127.0.0.1 compatexchange.cloudapp.net
+127.0.0.1 corp.sts.microsoft.com
+127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
+127.0.0.1 cs1.wpc.v0cdn.net
+127.0.0.1 diagnostics.support.microsoft.com
+127.0.0.1 feedback.search.microsoft.com
+127.0.0.1 feedback.windows.com
+0.0.0.0 freelancer.co.id
+0.0.0.0 teamexpress.com
+0.0.0.0 pokerstars.de
+0.0.0.0 linksprotection.com
+0.0.0.0 rsvp.com.au
+0.0.0.0 graficalocal.com
+0.0.0.0 freelancer.co.za
+0.0.0.0 vendasblackberry.com.br
+0.0.0.0 twinspires.com
+0.0.0.0 centrebet.com
+0.0.0.0 rootech.ir
+0.0.0.0 bangaltech.blogspot.com
+0.0.0.0 webconversiononline.com
+0.0.0.0 shakeyourtentacles.com
+0.0.0.0 coolchura.blogspot.com
+0.0.0.0 newsiranian.ir
+0.0.0.0 yaspsd.ir
+0.0.0.0 danchimviet.info
+0.0.0.0 hdmoviesfun.in
+0.0.0.0 52blackberry.com
+0.0.0.0 expedia.com.hk
+0.0.0.0 expedia.co.in
+0.0.0.0 expedia.no
+0.0.0.0 lamedicinaprepaga.com.ar
+0.0.0.0 win-tipps-tweaks.de
+0.0.0.0 vostelechargements.com
+0.0.0.0 premiumapk.net
+0.0.0.0 vayajeta.com
+0.0.0.0 onevalefan.co.uk
+0.0.0.0 lastminute.com.au
+0.0.0.0 livingthenourishedlife.com
+0.0.0.0 shanty-2-chic.com
+0.0.0.0 dietnavi.com
+0.0.0.0 lifeline.de
+0.0.0.0 sc-s.com
+0.0.0.0 paginagospel.com.br
+0.0.0.0 webhostingtalk.lk
+0.0.0.0 prodieta.ro
+0.0.0.0 aa.com.ve
+0.0.0.0 datapremiery.pl
+# Samsung SmartTV domains (Will block "Smart" aspects of device)
+# https://umbrella.cisco.com/blog/2015/06/02/samsungs-chatty-smarttvs/
+# https://www.reddit.com/r/pihole/comments/5eirvy/from_the_smart_tv_thread_in_rtechnology/damgggq/
+# http://pastebin.com/pU7HV1Gr
+Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+abtauthprd.samsungcloudsolution.com
+acr0.samsungcloudsolution.com
+ad.samsungadhub.com
+amauthprd.samsungcloudsolution.com
+api-hub.samsungyosemite.com
+--little--princess--.tumblr.com
+-allporn-.tumblr.com
+-becca-anal-.tumblr.com
+-celestial-beings-.tumblr.com
+-cocks.tumblr.com
+-dirtylittleslut.tumblr.com
+-johnnymo.tumblr.com
+-pc-load-letter-.tumblr.com
+-porn-dvd-clips-.blogspot.ae
+-porn-dvd-clips-.blogspot.al
+pornhub.com
+livejasmin.com
+xvideos.com
+xhamster.com
+bongacams.com
+txxx.com
+porn555.com
+xnxx.com
+chaturbate.com
+upornia.com
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via Github
+#
+# Date: October 28 2017
+# Number of unique domains: 42,743
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+#
+# ===============================================================
+amazon.co.uk.security-check.ga
+autosegurancabrasil.com
+christianmensfellowshipsoftball.org
+dadossolicitado-antendimento.sad879.mobi
+hitnrun.com.my
+houmani-lb.com
+maruthorvattomsrianjaneyatemple.org
+paypalsecure-2016.sucurecode524154241.arita.ac.tz
+tei.portal.crockerandwestridge.com
+tonyyeo.com
+# Last updated : 2017-10-01
+127.0.0.1        localhost
+127.0.0.1	 0.r.msn.com
+127.0.0.1	 0.start.bz
+127.0.0.1	 000dom.revenuedirect.com
+127.0.0.1	 000info.com
+127.0.0.1	 005.free-counter.co.uk
+127.0.0.1	 006.free-counter.co.uk
+127.0.0.1	 007.free-counter.co.uk
+127.0.0.1	 008.free-counter.co.uk
+##############################################################################
+# abuse.ch ZeuS domain blocklist                                             #
+#                                                                            #
+# For questions please refer to https://zeustracker.abuse.ch/blocklist.php   #
+##############################################################################
+
+039b1ee.netsolhost.com
+03a6b7a.netsolhost.com
+03a6f57.netsolhost.com
+03bbec4.netsolhost.com
+# Basic tracking list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+adjust.io
+airbrake.io
+appboy.com
+appsflyer.com
+apsalar.com
+bango.combango.org
+# Ad filter list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+101com.com
+101order.com
+123found.com
+140proof.com
+180hits.de
+180searchassistant.com
+# hpHosts - Ad and Tracking servers only
+#
+# The following are hosts in the hpHosts database with the ATS classification ONLY.
+# This file will NOT protect you against malicious domains
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# AD SERVERS START HERE
+#
+# This hosts file is brought to you by Dan Pollock and can be found at
+# http://someonewhocares.org/hosts/
+# You are free to copy and distribute this file for non-commercial uses,
+# as long the original URL and attribution is included. 
+# 
+# See below for acknowledgements.
+
+# Please forward any additions, corrections or comments by email to
+# hosts@someonewhocares.org
+
+# This hosts file is brought to you by Dan Pollock and can be found at
+# http://someonewhocares.org/hosts/zero/
+# You are free to copy and distribute this file for non-commercial uses,
+# as long the original URL and attribution is included. 
+# 
+# See below for acknowledgements.
+
+# Please forward any additions, corrections or comments by email to
+# hosts@someonewhocares.org
+
+# Last updated : 2017-10-01
+127.0.0.1        localhost
+127.0.0.1	 0.r.msn.com
+127.0.0.1	 0.start.bz
+127.0.0.1	 000dom.revenuedirect.com
+127.0.0.1	 000info.com
+127.0.0.1	 005.free-counter.co.uk
+127.0.0.1	 006.free-counter.co.uk
+127.0.0.1	 007.free-counter.co.uk
+127.0.0.1	 008.free-counter.co.uk
+007-gateway.com
+04dn8g4f.space
+0emn.com
+0fmm.com
+0icep80f.com
+0pixl.com
+0xwxmj21r75kka.com
+101m3.com
+103092804.com
+10fbb07a4b0.se
+001web.net
+005mall.com
+0dese-mi.com
+0j9.ru
+0l6.ru
+0o3lsk3g.biz
+0p7.ru
+0s7.ru
+0s8.ru
+0w7.ru
+007-gateway.com
+04dn8g4f.space
+0emn.com
+0fmm.com
+0icep80f.com
+0pixl.com
+0xwxmj21r75kka.com
+101m3.com
+103092804.com
+10fbb07a4b0.se
+# Samsung SmartTV domains (Will block "Smart" aspects of device)
+# https://umbrella.cisco.com/blog/2015/06/02/samsungs-chatty-smarttvs/
+# https://www.reddit.com/r/pihole/comments/5eirvy/from_the_smart_tv_thread_in_rtechnology/damgggq/
+# http://pastebin.com/pU7HV1Gr
+Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+abtauthprd.samsungcloudsolution.com
+acr0.samsungcloudsolution.com
+ad.samsungadhub.com
+amauthprd.samsungcloudsolution.com
+api-hub.samsungyosemite.com
+0.r.bat.bing.com
+0.r.msn.com
+0.start.bz
+000dom.revenuedirect.com
+000info.com
+000webhost.com
+005.free-counter.co.uk
+005.free-counters.co.uk
+006.free-adult-counters.x-xtra.com
+006.free-counter.co.uk
+0-0-0-0-0-0-0-0-0-0-0-0-0-15-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+0-0-0-0-0-0-0-0-0-0-0-0-0-23-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
+0000love.net
+000cas.info
+001husiaxajiji.biz
+001jijoppudkaso.net
+001linker.net;1
+002uh.com
+# Domain badlist generated on October 31, 2017, 2:10 pm
+# Site count: 252
+
+09cd.co.kr
+114oldest.com
+18dd.net
+18xn.com
+1a-teensbilder.de
+2000tours.com
+318x.com
+# AdAway default blocklist
+# Blocking mobile ad providers and some analytics providers
+# 
+# Contribute:
+# Create an issue at https://github.com/AdAway/AdAway/issues
+#
+# Changelog:
+# 2016-07-18 Now hosted on GitHub + Cloudflare
+# 2014-05-18 Now with a valid SSL certificate available at https://adaway.org/hosts.txt
+# 2013-03-29 Integrated some hosts from
+! Checksum: 5ehrkQknk8lAEnZHIr3aLw
+! Title: Simplified domain names filter
+! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
+! Version: 1.0.2.69
+! TimeUpdated: 2017-10-31T18:01:32.458+04:00
+! Expires: 2 days (update frequency)
+!
+!
+! Title: Simplified domain names filter
+! Homepage: https://github.com/AdguardTeam/AdguardDNS
+advanbusiness.com
+aoldaily.com
+aolon1ine.com
+applesoftupdate.com
+arrowservice.net
+attnpower.com
+aunewsonline.com
+avvmail.com
+bigdepression.net
+bigish.net
+# ytimg.com > Youtube Probleme. Selbst entscheiden.
+# gstatic.com > GoogleMaps Probleme. Selbst entscheiden.
+1rx.io
+2mdn.net
+360yield.com
+3gl.net
+3lift.com
+71i.de
+a4.bing.com
+abtasty.com
+[Blocklist]
+! Title: kowabit.de - blocklist of death
+! Version: 13062017
+! Last Modified: 13 Jun 2017 00:00 UTC
+! Expires: 1 days
+! Licence: Public Domain
+! Homepage: https://blocklist.kowabit.de/list.txt
+! --------------------------------
+! Hier bitte selbst entscheiden:
+! gstatic.com
+# hpHosts - Ad and Tracking servers only
+#
+# The following are hosts in the hpHosts database with the ATS classification ONLY.
+# This file will NOT protect you against malicious domains
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# AD SERVERS START HERE
+#
+# hpHosts last updated on:		09/09/2017
+# hpHosts last verified by Steven Burn:	01/09/2017
+#
+# IMPORTANT:	Rename this file to "HOSTS" (no .txt extension)
+#
+# Support:	http://mysteryfcm.co.uk/?mode=contact
+#		http://forum.hosts-file.net
+#
+# Download:	http://hosts-file.net/?s=Download
+# Mirrors:	http://hosts-file.net/?s=Help#dlmirrors
+# hpHosts last updated on:		09/09/2017
+# hpHosts last verified by Steven Burn:	01/09/2017
+#
+# IMPORTANT:	Rename this file to "HOSTS" (no .txt extension)
+#
+# Support:	http://mysteryfcm.co.uk/?mode=contact
+#		http://forum.hosts-file.net
+#
+# Download:	http://hosts-file.net/?s=Download
+# Mirrors:	http://hosts-file.net/?s=Help#dlmirrors
+# hpHosts - EMD only
+#
+# The following are hosts in the hpHosts database with the EMD classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	-sso.anbtr.com
+# hpHosts - EXP only
+#
+# The following are hosts in the hpHosts database with the EXP classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	092-khb747bjg324yu2093.jiolopokolopo.in
+# hpHosts - FSA only
+#
+# The following are hosts in the hpHosts database with the FSA classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	0-0-----------------------------------------------------------0.com
+# hpHosts - GRM only
+#
+# The following are hosts in the hpHosts database with the GRM classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	10xcdn.com
+# hpHosts - HFS only
+#
+# The following are hosts in the hpHosts database with the HFS classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	1000taxi.com
+# hpHosts - HJK only
+#
+# The following are hosts in the hpHosts database with the HJK classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	05p.com
+# hosts-Partial.txt
+#
+# The following hosts were added to hpHosts AFTER the last full release.
+#
+#Last partial update: 10/31/2017 11:04:55 PM
+#Last FULL hpHosts update: 20179916378
+#DEBUG INFO:
+#	DB: 2017311023455
+#	File: 201709916378
+#	First: 2693400 (10/15/2017 7:41:45 PM)
+# hpHosts - MMT only
+#
+# The following are hosts in the hpHosts database with the MMT classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	015f91no4b2we39--6j8hgjpuq.hop.clickbank.net
+# hpHosts - PHA only
+#
+# The following are hosts in the hpHosts database with the PHA classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	0002393684.newaidpurchase.ru
+# hpHosts - PSH only
+#
+# The following are hosts in the hpHosts database with the PSH classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	-icloudi.com
+# hpHosts - PUP only
+#
+# The following are hosts in the hpHosts database with the PUP classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	0000wwchrome.ru
+# hpHosts - WRZ only
+#
+# The following are hosts in the hpHosts database with the WRZ classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	0daycn.net
+#
+#   DShield.org Suspicious Domain List
+#    (c) 2017 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://www.dshield.org/feeds/suspiciousdomains_High.txt
+#
+#   comments: info@dshield.org
+#    updated: Tue Oct 31 04:07:03 2017 UTC
+#   
+#
+#   DShield.org Suspicious Domain List
+#    (c) 2017 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Low.txt
+#
+#   comments: info@dshield.org
+#    updated: Tue Oct 31 04:07:03 2017 UTC
+#   
+#
+#   DShield.org Suspicious Domain List
+#    (c) 2017 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Medium.txt
+#
+#   comments: info@dshield.org
+#    updated: Tue Oct 31 04:07:03 2017 UTC
+#   
+http://dfd-3432342342.life/?h=NDU=
+http://databaze.rs/adisn/china/05dfcb57936c857f56cb45de54cbe35f?login=abuse@nepri.com.cn&.verify?service=mail&data:text/html;charset=utf-8;base64,PGh0bWw+DQo8c3R5bGU+IGJvZHkgeyBtYXJnaW46IDA7IG92ZXJmbG93OiBoaWRkZW47IH0gPC9zdHlsZT4NCiAgPGlmcmFt
+http://facebook.com-help-103937812649483.center/appeal/user-information-incorrect.html
+http://sentrix.wltechnology.com/wp-includes/customers/index/confirm.php?cmd=login_submit&id=3a9e8e262fa3b0e591b89d9ad5101b083a9e8e262fa3b0e591b89d9ad5101b08&session=3a9e8e262fa3b0e591b89d9ad5101b083a9e8e262fa3b0e591b89d9ad5101b08
+http://sentrix.wltechnology.com/wp-includes/customers/index/info.php?cmd=login_submit&id=34a92b3c69a575164ea059bb4093d41c34a92b3c69a575164ea059bb4093d41c&session=34a92b3c69a575164ea059bb4093d41c34a92b3c69a575164ea059bb4093d41c
+http://amgratefullord.000webhostapp.com/Martins/Y1.html
+http://jicaralenlinea.com/cba/netbank/logon/sec.php
+http://jicaralenlinea.com/cba/netbank/logon/logincode.php
+http://jicaralenlinea.com/cba/netbank/logon/sec.php
+http://jicaralenlinea.com/cba/netbank/logon/process.php
+<html>
+
+<head>
+<meta name="author" value="Peter Lowe; pgl@yoyo.org">
+<meta name="description" value="Ad server hostnames for blocking ads (format: hosts -- in hosts file format)">
+<meta name="keywords" value="ad blocking, blocking ads, ad servers, ads, banners, hosts file, privacy">
+
+<link rel=alternate type="application/rss+xml" title="Ad server hostnames for blocking ads (format: hosts -- in hosts file format) (RSS - last 50 added)" href="rss/1.0/adservers.rss">
+
+<title>
+gta5gratuit.com
+telechargerdes.com
+gaming-blog.com
+thehackfacebook.com
+rarshare.com
+planetside2-hacks.com
+celebritygag.com
+cheatmp.com 
+freexblcode.com 
+secrethotgames.com 
+[Adblock Plus 2.0]
+! Expires:        14 days
+! Last modified:  2017-10-26T11:11:00.000Z+00:00 UTC
+! Version:        20171026111100000
+! Title:          HOSTS AdBlock - Protect Your SmartPhone
+! Rules:          513161
+! Homepage:       http://hosts.eladkarako.com/
+! Author:         http://hosts.eladkarako.com/humans.txt
+! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
+! Download:       https://raw.githubusercontent.com/eladkarako/hosts.eladkarako.com/master/build/hosts_adblock.txt
+################################[UPDATE]#################################
+# Source: https://github.com/notracking/hosts-blocklists
+# Last update: Wed Nov 1 01:10:58 CET 2017
+# Number of unique domains: 69494
+#################################[INFO]##################################
+# Blocks ads, fake sites, shock sites, malware hosts and trackers
+# Removed verified false calls and added a large set of custom entries
+# This hostfiles aim is not to break any useful websites
+# Submit a issue on Github in case of any false or missing hosts
+################################[INSTALL]################################
+################################[UPDATE]#################################
+# Source: https://github.com/notracking/hosts-blocklists
+# Last update: Wed Nov 1 01:10:58 CET 2017
+# Number of unique hostnames: 35266
+#################################[INFO]##################################
+# Blocks ads, fake sites, shock sites, malware hosts and trackers
+# Removed verified false calls and added a large set of custom entries
+# This hostfiles aim is not to break any useful websites
+# Submit a issue on Github in case of any false or missing hosts
+################################[INSTALL]################################
+0n-line.tv
+1-99seo.com
+1-free-share-buttons.com
+100dollars-seo.com
+100searchengines.com
+12masterov.com
+1pamm.ru
+1webmaster.ml
+24x7-server-support.site
+2your.site
+#NoTrack Blocklist updated 11 Oct 2017
+#LatestVersion 0.8.6
+1-cl0ud.com #Lead Forensics
+1-creative-1.com #Lead Forensics
+103bees.com #Tracker Unknown
+105app.com #Tracker Unknown
+10cms.com #Amplience
+123-tracker.com #Lead Forensics
+123count.com #SpidersWatchp
+161media.com #161 Media
+# YousList
+#
+# Homepage: https://github.com/yous/YousList
+# License: https://github.com/yous/YousList#license
+
+127.0.0.1 localhost
+::1 localhost
+
+0.0.0.0 a.wyzmob.com
+0.0.0.0 a1.dp25.kr
+#MHB73
+127.0.0.1		localhost
+255.255.255.255 broadcasthost
+::1				localhost
+
+:: admob.biz
+:: admob.co.kr
+:: admob.co.nz
+:: admob.co.uk
+:: admob.com
+# Ad filter list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+101com.com
+101order.com
+123found.com
+140proof.com
+180hits.de
+180searchassistant.com
+Malvertising list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+bolo100.com
+marco-behrendt.de
+jah.skateparkvr.com
+fm120.cn
+bestyandex.com
+auctionbowling.com
+Malware list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+bolo100.com
+marco-behrendt.de
+jah.skateparkvr.com
+fm120.cn
+bestyandex.com
+auctionbowling.com
+# Basic tracking list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+adjust.io
+airbrake.io
+appboy.com
+appsflyer.com
+apsalar.com
+bango.combango.org
+0.r.bat.bing.com
+0.r.msn.com
+0.start.bz
+000dom.revenuedirect.com
+000info.com
+000webhost.com
+track.adform.net
+tracking.m6r.eu
+ads.tipico.com
+tipico.com
+##############################################################################
+# abuse.ch ZeuS domain blocklist                                             #
+#                                                                            #
+# For questions please refer to https://zeustracker.abuse.ch/blocklist.php   #
+##############################################################################
+
+039b1ee.netsolhost.com
+03a6b7a.netsolhost.com
+03a6f57.netsolhost.com
+03bbec4.netsolhost.com
+##############################################################################
+# abuse.ch ZeuS IP blocklist                                                 #
+#                                                                            #
+# For questions please refer to https://zeustracker.abuse.ch/blocklist.php   #
+##############################################################################
+
+101.200.81.187
+103.19.89.118
+103.230.84.239
+103.26.128.84
+############################################################################
+# abuse.ch ZeuS domain blocklist "BadDomains" (excluding hijacked sites)   #
+#                                                                          #
+# For questions please refer to https://zeustracker.abuse.ch/blocklist.php #
+############################################################################
+
+afobal.cl
+alvoportas.com.br
+atmape.ru
+bestdove.in.ua
+! Title: BarbBlock
+! Homepage: https://ssl.bblck.me/
+! Redirect: https://ssl.bblck.me/blacklists/ublock-origin.txt
+! Blocks requests to sites which have used legal threats to remove themselves from other blacklists.
+! ============== Site group 1 ==============
+! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/1
+! Takedown URL: https://github.com/github/dmca/blob/master/2017/2017-08-02-LevenLabs.md
+||functionalclam.com^
+! ============== Site group 2 ==============
+! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/21
+! Title: BarbBlock
+! Homepage: https://ssl.bblck.me/
+! Redirect: https://ssl.bblck.me/blacklists/ublock-origin.txt
+! Blocks requests to sites which have used legal threats to remove themselves from other blacklists.
+! ============== Site group 1 ==============
+! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/1
+! Takedown URL: https://github.com/github/dmca/blob/master/2017/2017-08-02-LevenLabs.md
+||functionalclam.com^
+! ============== Site group 2 ==============
+! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/21
+#
+#   DShield.org Suspicious Domain List
+#    (c) 2017 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Low.txt
+#
+#   comments: info@dshield.org
+#    updated: Tue Oct 31 04:07:03 2017 UTC
+#   
+// This bind zone is intended to be included in a running dns server for a local net
+//
+// It will return a 127.0.0.1 for the domains listed as malware
+//
+//  Please visit www.malwaredomains.com for more information and to report
+//   mislabeled domains
+//
+//  Configure your DNS server to read the zones from the Boot file.
+// Remove these comments and append this file to your MS Boot file.
+//
+##	if you do not accept these terms, then do not use this information.
+##	for noncommercial use only. using this information indicates you agree to be bound by these terms.
+##	nextvalidation	domain	type	original_reference-why_it_was_listed
+##	notice	notice	duplication is not permitted  #=comment
+		amazon.co.uk.security-check.ga	phishing	openphish.com	20160527	20160108
+		autosegurancabrasil.com	phishing	openphish.com	20160527	20160108
+		christianmensfellowshipsoftball.org	phishing	openphish.com	20160527	20160108
+		dadossolicitado-antendimento.sad879.mobi	phishing	openphish.com	20160527	20160108
+		hitnrun.com.my	phishing	openphish.com	20160527	20160108
+		houmani-lb.com	phishing	openphish.com	20160527	20160108
+#This is a list of long-lived, "immortal", malware domains
+wittyvideos.com
+woo-gie.com
+3dpsys.com
+thedeadpit.com
+0001.2waky.com
+0452jhw.com
+123-jewelry-store.com
+123.8w8w8w.com.cn
+beta.spb0.ru
+#               MalwareDomainList.com Hosts List           #
+#   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
+#         Last updated: Thu, 26 Oct 17 13:51:30 +0000      #
+
+
+127.0.0.1  localhost
+127.0.0.1  0koryu0.easter.ne.jp
+127.0.0.1  109-204-26-16.netconnexion.managedbroadband.co.uk
+127.0.0.1  1866809.securefastserver.com
+127.0.0.1  2amsports.com
+##	if you do not accept these terms, then do not use this information.
+##	for noncommercial use only. using this information indicates you agree to be bound by these terms.
+##	nextvalidation	domain	type	original_reference-why_it_was_listed
+##	notice	notice	duplication is not permitted  #=comment
+		amazon.co.uk.security-check.ga	phishing	openphish.com	20160527	20160108
+		autosegurancabrasil.com	phishing	openphish.com	20160527	20160108
+		christianmensfellowshipsoftball.org	phishing	openphish.com	20160527	20160108
+		dadossolicitado-antendimento.sad879.mobi	phishing	openphish.com	20160527	20160108
+		hitnrun.com.my	phishing	openphish.com	20160527	20160108
+		houmani-lb.com	phishing	openphish.com	20160527	20160108
+event-img.qwapi.com
+adserver-live.yoc.mobi
+admax.nexage.com
+mm.admob.com
+iphone-services.apple.com
+iphonesubmissions.apple.com
+ads2.greystripe.com
+adsx.greystripe.com
+c.greystripe.com
+a.medialytics.com
+# Basic tracking list by Disconnect
+# License: GPLv3
+# Contact: support [at] disconnect.me
+
+adjust.io
+airbrake.io
+appboy.com
+appsflyer.com
+apsalar.com
+bango.combango.org
+0.r.bat.bing.com
+0.r.msn.com
+0.start.bz
+000dom.revenuedirect.com
+000info.com
+000webhost.com
+track.adform.net
+tracking.m6r.eu
+ads.tipico.com
+tipico.com
+##############################################################################
+# abuse.ch ZeuS domain blocklist                                             #
+#                                                                            #
+# For questions please refer to https://zeustracker.abuse.ch/blocklist.php   #
+##############################################################################
+
+039b1ee.netsolhost.com
+03a6b7a.netsolhost.com
+03a6f57.netsolhost.com
+03bbec4.netsolhost.com
+##############################################################################
+# abuse.ch ZeuS IP blocklist                                                 #
+#                                                                            #
+# For questions please refer to https://zeustracker.abuse.ch/blocklist.php   #
+##############################################################################
+
+101.200.81.187
+103.19.89.118
+103.230.84.239
+103.26.128.84
+############################################################################
+# abuse.ch ZeuS domain blocklist "BadDomains" (excluding hijacked sites)   #
+#                                                                          #
+# For questions please refer to https://zeustracker.abuse.ch/blocklist.php #
+############################################################################
+
+afobal.cl
+alvoportas.com.br
+atmape.ru
+bestdove.in.ua
+! Title: BarbBlock
+! Homepage: https://ssl.bblck.me/
+! Redirect: https://ssl.bblck.me/blacklists/ublock-origin.txt
+! Blocks requests to sites which have used legal threats to remove themselves from other blacklists.
+! ============== Site group 1 ==============
+! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/1
+! Takedown URL: https://github.com/github/dmca/blob/master/2017/2017-08-02-LevenLabs.md
+||functionalclam.com^
+! ============== Site group 2 ==============
+! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/21
+! Title: BarbBlock
+! Homepage: https://ssl.bblck.me/
+! Redirect: https://ssl.bblck.me/blacklists/ublock-origin.txt
+! Blocks requests to sites which have used legal threats to remove themselves from other blacklists.
+! ============== Site group 1 ==============
+! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/1
+! Takedown URL: https://github.com/github/dmca/blob/master/2017/2017-08-02-LevenLabs.md
+||functionalclam.com^
+! ============== Site group 2 ==============
+! GitHub Issue: https://github.com/paulgb/BarbBlock/issues/21
+#
+#   DShield.org Suspicious Domain List
+#    (c) 2017 DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: http://www.dshield.org/feeds/suspiciousdomains_Low.txt
+#
+#   comments: info@dshield.org
+#    updated: Tue Oct 31 04:07:03 2017 UTC
+#   
+// This bind zone is intended to be included in a running dns server for a local net
+//
+// It will return a 127.0.0.1 for the domains listed as malware
+//
+//  Please visit www.malwaredomains.com for more information and to report
+//   mislabeled domains
+//
+//  Configure your DNS server to read the zones from the Boot file.
+// Remove these comments and append this file to your MS Boot file.
+//
+##	if you do not accept these terms, then do not use this information.
+##	for noncommercial use only. using this information indicates you agree to be bound by these terms.
+##	nextvalidation	domain	type	original_reference-why_it_was_listed
+##	notice	notice	duplication is not permitted  #=comment
+		amazon.co.uk.security-check.ga	phishing	openphish.com	20160527	20160108
+		autosegurancabrasil.com	phishing	openphish.com	20160527	20160108
+		christianmensfellowshipsoftball.org	phishing	openphish.com	20160527	20160108
+		dadossolicitado-antendimento.sad879.mobi	phishing	openphish.com	20160527	20160108
+		hitnrun.com.my	phishing	openphish.com	20160527	20160108
+		houmani-lb.com	phishing	openphish.com	20160527	20160108
+#This is a list of long-lived, "immortal", malware domains
+wittyvideos.com
+woo-gie.com
+3dpsys.com
+thedeadpit.com
+0001.2waky.com
+0452jhw.com
+123-jewelry-store.com
+123.8w8w8w.com.cn
+beta.spb0.ru
+#               MalwareDomainList.com Hosts List           #
+#   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
+#         Last updated: Thu, 26 Oct 17 13:51:30 +0000      #
+
+
+127.0.0.1  localhost
+127.0.0.1  0koryu0.easter.ne.jp
+127.0.0.1  109-204-26-16.netconnexion.managedbroadband.co.uk
+127.0.0.1  1866809.securefastserver.com
+127.0.0.1  2amsports.com
+##	if you do not accept these terms, then do not use this information.
+##	for noncommercial use only. using this information indicates you agree to be bound by these terms.
+##	nextvalidation	domain	type	original_reference-why_it_was_listed
+##	notice	notice	duplication is not permitted  #=comment
+		amazon.co.uk.security-check.ga	phishing	openphish.com	20160527	20160108
+		autosegurancabrasil.com	phishing	openphish.com	20160527	20160108
+		christianmensfellowshipsoftball.org	phishing	openphish.com	20160527	20160108
+		dadossolicitado-antendimento.sad879.mobi	phishing	openphish.com	20160527	20160108
+		hitnrun.com.my	phishing	openphish.com	20160527	20160108
+		houmani-lb.com	phishing	openphish.com	20160527	20160108
+event-img.qwapi.com
+adserver-live.yoc.mobi
+admax.nexage.com
+mm.admob.com
+iphone-services.apple.com
+iphonesubmissions.apple.com
+ads2.greystripe.com
+adsx.greystripe.com
+c.greystripe.com
+a.medialytics.com
+
+
 
 

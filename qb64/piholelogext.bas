@@ -9,13 +9,20 @@ REM /var/www/html
 REM
 REM In memory of Nicola Tesla  www.youtube.com/watch?v=jtewnD7LyEI
 REM
+REM 5 Nov 2017 added string .local to results
+REM
+REM Create a Bash file sort and uniq if fromlog becomes large.  eg crunchlog.sh
+REM
+REM sort fromlog > temp
+REM uniq temp > fromlog
+REM
 PRINT "Collect Log files from /var/log/  pihole.log is the one you want for the seperator part "
 PRINT
 TIMER ON
 ON TIMER(1) GOSUB health
 
 REM Change input to process older logs or different location
-OPEN "/home/john/Downloads/qb64/pi-hole/logs/pihole.log" FOR INPUT AS #1
+OPEN "/home/john/Downloads/qb64/pi-hole/logs/pihole.log.1" FOR INPUT AS #1
 
 OPEN "/home/john/Downloads/qb64/pi-hole/logs/query" FOR OUTPUT AS #2
 OPEN "/home/john/Downloads/qb64/pi-hole/logs/cached" FOR OUTPUT AS #3
@@ -181,6 +188,11 @@ DO WHILE NOT EOF(2)
             PRINT #1, "0.0.0.0 " + a$
             b = b + 1
         END IF
+        IF RIGHT$(a$, 6) = ".local" THEN
+            PRINT #1, "0.0.0.0 " + a$
+            b = b + 1
+        END IF
+
         'IF MID$(a$, i, 1) = "" THEN
         'PRINT #2, "0.0.0.0 " + a$
         'b = b + 1

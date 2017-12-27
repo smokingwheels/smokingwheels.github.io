@@ -31,6 +31,8 @@
 0.0.0.0 0vertired.tumblr.com.local
 0.0.0.0 1015.com.local
 0.0.0.0 101604130004005.bqy.pub.local
+0.0.0.0 10.20.1.128'
+0.0.0.0 10.20.1.128'.local
 0.0.0.0 1-08am.tumblr.com.local
 0.0.0.0 109cinemas.net.local
 0.0.0.0 10.rpp.pe.local
@@ -672,6 +674,8 @@
 0.0.0.0 ads.advance.net.local
 0.0.0.0 adschizoclown.tumblr.com.local
 0.0.0.0 ads.naftemporiki.xn--gr-o2t.local
+0.0.0.0 ads.nexage.com",
+0.0.0.0 ads.nexage.com",.local
 0.0.0.0 ads.oregonlive.com.local
 0.0.0.0 ads.pubmatic.com.local
 0.0.0.0 adssettings.google.com.local
@@ -4641,6 +4645,8 @@
 0.0.0.0 daisy-k9.tumblr.com.local
 0.0.0.0 daisy-pvnk.tumblr.com.local
 0.0.0.0 dajbych.net.local
+0.0.0.0 daker.me">daker.me<
+0.0.0.0 daker.me">daker.me<.local
 0.0.0.0 dalalr.tumblr.com.local
 0.0.0.0 dalegon.tumblr.com.local
 0.0.0.0 dallasphp.org.local
@@ -5409,6 +5415,8 @@
 0.0.0.0  douniacoesens.fr!
 0.0.0.0 down.chinaz.com.local
 0.0.0.0 downloadcenter.nikonimglib.com.local
+0.0.0.0 download.cnet.com"
+0.0.0.0 download.cnet.com".local
 0.0.0.0 download.comodo.com.local
 0.0.0.0 download.enet.com.cn.local
 0.0.0.0 download-installer.cdn.mozilla.net.local
@@ -7276,6 +7284,7 @@
 0.0.0.0 futureelec.saoic.com.local
 0.0.0.0 futureshocked294.tumblr.com.local
 0.0.0.0 fuwaprince.tumblr.com.local
+0.0.0.0 fu_zhou.auto.ifeng.com
 0.0.0.0 f-vck3dup.tumblr.com.local
 0.0.0.0 fvckkluv.tumblr.com.local
 0.0.0.0 fvckpvssy.tumblr.com.local
@@ -8636,6 +8645,8 @@
 0.0.0.0  =http 
 0.0.0.0  =http
 0.0.0.0  +http
+0.0.0.0 httpbin.org'
+0.0.0.0 httpbin.org'.local
 0.0.0.0  %{http_host} 
 0.0.0.0 http_host} 
 0.0.0.0  %{http_host}$1 
@@ -8653,16 +8664,24 @@
 0.0.0.0 (https.local
 0.0.0.0 https.local
 0.0.0.0  _http._tcp.archive.canonical.com
+0.0.0.0 _http._tcp.archive.canonical.com
 0.0.0.0 ] _http._tcp.archive.canonical.com
 0.0.0.0  _http._tcp.archive.getdeb.net
+0.0.0.0 _http._tcp.archive.getdeb.net
 0.0.0.0 ] _http._tcp.archive.getdeb.net
 0.0.0.0  _http._tcp.archive.ubuntu.com
+0.0.0.0 _http._tcp.archive.ubuntu.com
 0.0.0.0 ] _http._tcp.archive.ubuntu.com
 0.0.0.0 _http._tcp.au.archive.ubuntu.com 
+0.0.0.0 _http._tcp.dl.google.com
 0.0.0.0 ] _http._tcp.dl.google.com
 0.0.0.0  _http._tcp.ppa.launchpad.net
+0.0.0.0 _http._tcp.ppa.launchpad.net
 0.0.0.0 ] _http._tcp.ppa.launchpad.net
+0.0.0.0 _http._tcp.repository.spotify.com
+0.0.0.0 ] _http._tcp.repository.spotify.com
 0.0.0.0  _http._tcp.screenshots.getdeb.net
+0.0.0.0 _http._tcp.screenshots.getdeb.net
 0.0.0.0 ] _http._tcp.screenshots.getdeb.net
 0.0.0.0 _http._tcp.security.ubuntu.com 
 0.0.0.0 ht.wikipedia.org.local
@@ -10014,6 +10033,7 @@
 0.0.0.0 jp.fujitsu.com.local
 0.0.0.0 jp.kabumap.com.local
 0.0.0.0 jp.marinabaysands.com.local
+0.0.0.0 jpn_cpc.people.com.cn
 0.0.0.0 .jpost.com.local
 0.0.0.0 jpost.com.local
 0.0.0.0 jp.techcrunch.com.local
@@ -10067,6 +10087,8 @@
 0.0.0.0 junkohell.tumblr.com.local
 0.0.0.0 junkratscock.tumblr.com.local
 0.0.0.0 junmusic.com.local
+0.0.0.0 junsda_2013.b2b.hqps.com
+0.0.0.0 junsda_2013.b2b.hqps.com.local
 0.0.0.0 jun-thunder.tumblr.com.local
 0.0.0.0 juou.tumblr.com.local
 0.0.0.0 jupiter-is-missing.tumblr.com.local
@@ -10268,6 +10290,8 @@
 0.0.0.0 kenkit.tumblr.com.local
 0.0.0.0 kenndallscovergirl.tumblr.com.local
 0.0.0.0 kennel.local
+0.0.0.0 kennethreitz.org'
+0.0.0.0 kennethreitz.org'.local
 0.0.0.0 kennyblaine.tumblr.com.local
 0.0.0.0 kennyshrooms.tumblr.com.local
 0.0.0.0 kenpachirin.tumblr.com.local
@@ -12846,6 +12870,8 @@
 0.0.0.0 mynameisburntpoptart.tumblr.com.local
 0.0.0.0 mynameiskurisu.tumblr.com.local
 0.0.0.0 myn-are-rad.tumblr.com.local
+0.0.0.0 mynt.mirroredwhite.com">mynt<
+0.0.0.0 mynt.mirroredwhite.com">mynt<.local
 0.0.0.0 myorg.edweek.org.local
 0.0.0.0 m.youtube.com.local
 0.0.0.0 mypack.ncsu.edu.local
@@ -14686,6 +14712,8 @@
 0.0.0.0 p.adjust.com.local
 0.0.0.0 paduya.tumblr.com.local
 0.0.0.0 paganda.org.local
+0.0.0.0 page_1.html
+0.0.0.0 page_1.html.local
 0.0.0.0 page-panel.myshopify.com.local
 0.0.0.0 pages.arm.com.local
 0.0.0.0 pages.awscloud.com.local
@@ -16093,6 +16121,8 @@
 0.0.0.0 <reportservername>
 0.0.0.0 reppyswiftie.tumblr.com.local
 0.0.0.0 reprints.ygsgroup.com.local
+0.0.0.0 requestb.in'
+0.0.0.0 requestb.in'.local
 0.0.0.0 requiemdusk.tumblr.com.local
 0.0.0.0 requiemfordogs.tumblr.com.local
 0.0.0.0 ${req.url}`
@@ -17141,10 +17171,12 @@
 0.0.0.0 serpant-is-lord.tumblr.com.local
 0.0.0.0 serperoir.tumblr.com.local
 0.0.0.0 serreisen.abendblatt.de.local
+0.0.0.0 $server
 0.0.0.0 server.adtech.de.local
 0.0.0.0 server.com.local
 0.0.0.0 serverfault.com.local
 0.0.0.0 server_ip
+0.0.0.0 $server.local
 0.0.0.0 <servername>
 0.0.0.0  %{server_name} 
 0.0.0.0 server_name} 
@@ -17384,6 +17416,7 @@
 0.0.0.0 shuge.org.local
 0.0.0.0 shutupimvouge.tumblr.com.local
 0.0.0.0 shutyourfukkenfacevirginnerdlord.tumblr.com.local
+0.0.0.0 shyc_auto.dzsc.com
 0.0.0.0 shykidsrock.tumblr.com.local
 0.0.0.0 shy--little--artist.tumblr.com.local
 0.0.0.0 sianmanchris.tumblr.com.local
@@ -20111,6 +20144,8 @@
 0.0.0.0 ubooks.org.local
 0.0.0.0 ubuntubunbun.tumblr.com.local
 0.0.0.0 ubuntucommunity.s3-us-east-2.amazonaws.com.local
+0.0.0.0 ubuntu-manual.org">site
+0.0.0.0 ubuntu-manual.org">site.local
 0.0.0.0 ubuntu.pool.ntp.org.local
 0.0.0.0 ubygems.org'
 0.0.0.0 ubygems.org'.local
@@ -20362,6 +20397,8 @@
 0.0.0.0 unshrink.tumblr.com.local
 0.0.0.0 unsplash.com.local
 0.0.0.0 unsterilepiss.tumblr.com.local
+0.0.0.0 %%unsubscribelink%%
+0.0.0.0 %%unsubscribelink%%.local
 0.0.0.0 untappd.com.local
 0.0.0.0 untappd.comsearch.local
 0.0.0.0 untappd.comv.local
@@ -21229,6 +21266,7 @@
 0.0.0.0 waze.com.local
 0.0.0.0 wazeopedia.waze.com.local
 0.0.0.0 w.azzurra-marketing.com.local
+0.0.0.0 wb_01.biz.co188.com
 0.0.0.0 w.bailbondsinnyc.com.local
 0.0.0.0 w.bailii.org.local
 0.0.0.0 wbalance-aneka.oventorrillo.com.local
@@ -24434,6 +24472,7 @@
 0.0.0.0 w.twincitieslive.com.local
 0.0.0.0 w.twnic.net.xn--tw|titre=dtails-knb
 0.0.0.0 w.twomenandatruckcleveland.com.local
+0.0.0.0 wt_wuliugongsi.chinawutong.com
 0.0.0.0 w.tynt.com.local
 0.0.0.0 w.typography.com.local
 0.0.0.0 w.tzedek.org.au.local
@@ -26621,6 +26660,8 @@
 0.0.0.0 www.girlswithslingshots.com.local
 0.0.0.0 www.giro.com.local
 0.0.0.0 www.gitex.com.local
+0.0.0.0 www.github.com'
+0.0.0.0 www.github.com'.local
 0.0.0.0 www.gizmodo.com.au.local
 0.0.0.0 www.glaad.org.local
 0.0.0.0 www.gladstone.mo.us.local
@@ -29356,6 +29397,8 @@
 0.0.0.0 www.uaf.edu.local
 0.0.0.0 www.ubimo.com.local
 0.0.0.0 www.ubuntu.com.local
+0.0.0.0 www.ubuntu.com">ubuntu<
+0.0.0.0 www.ubuntu.com">ubuntu<.local
 0.0.0.0 www.ucl.ac.uk.local
 0.0.0.0 www.ucla.edu.local
 0.0.0.0 www.ucpa.org.local
@@ -29419,6 +29462,7 @@
 0.0.0.0 www.usenix.org.local
 0.0.0.0 www.usertesting.com.local
 0.0.0.0 www.usertrust.com,
+0.0.0.0 www.usertrust.com,o=the
 0.0.0.0 www.usinex.org.local
 0.0.0.0 www.usmagazine.com.local
 0.0.0.0 www.usnh.edu.local
@@ -29532,6 +29576,8 @@
 0.0.0.0 www.walmart.local
 0.0.0.0 www.wa.local
 0.0.0.0 www.wanderful.com.local
+0.0.0.0 www.wandoujia.com%3fqr=1
+0.0.0.0 www.wandoujia.com%3fqr=1.local
 0.0.0.0 www.wapikoni.ca.local
 0.0.0.0 wwww.archive.org.local
 0.0.0.0 www.warnerbros.com.local
@@ -29730,6 +29776,8 @@
 0.0.0.0 www.yellowmatter.com.local
 0.0.0.0 www.yellw.co.local
 0.0.0.0 www.yelp.com.local
+0.0.0.0 www.yesky.com${article.editorheadurl}
+0.0.0.0 www.yesky.com${article.editorheadurl}.local
 0.0.0.0 www.yi2.net.local
 0.0.0.0 www.yieldlab.de.local
 0.0.0.0 www.yimwhan.com.local
@@ -30189,6 +30237,7 @@
 0.0.0.0 yhol.mumayi.cn.local
 0.0.0.0 yhouseidea.tumblr.com.local
 0.0.0.0 yhqx.mumayi.cn.local
+0.0.0.0 yi_chun.auto.ifeng.com
 0.0.0.0 yiffxing.tumblr.com.local
 0.0.0.0 yimg.com.local
 0.0.0.0 yiminxiu.jrj.com.cn.local
@@ -30274,11 +30323,15 @@
 0.0.0.0 your-miss-right.tumblr.com.local
 0.0.0.0 yourneighborsexbestfriend.tumblr.com.local
 0.0.0.0 your_nexus_host
+0.0.0.0 $your-phone-ip
+0.0.0.0 $your-phone-ip.local
 0.0.0.0 yourplayersaidwhat.tumblr.com.local
 0.0.0.0 your-raifu-is-shit.tumblr.com.local
 0.0.0.0 your_server
 0.0.0.0 yourserveripaddress.local
 0.0.0.0 yoursimplec.tumblr.com.local
+0.0.0.0 your_storage.firebaseio.com'
+0.0.0.0 your_storage.firebaseio.com'.local
 0.0.0.0 yourstoryisnoteverover.tumblr.com.local
 0.0.0.0 your_url
 0.0.0.0 your.url.here"
@@ -30491,6 +30544,7 @@
 0.0.0.0 zuzuspetals1981.tumblr.com.local
 0.0.0.0 zwils.tumblr.com.local
 0.0.0.0 zwinglys.tumblr.com.local
+0.0.0.0 zwj_1198.dzsc.com
 0.0.0.0 zx.people.cn.local
 0.0.0.0 zxtx.mumayi.cn.local
 0.0.0.0 zyca.tumblr.com.local

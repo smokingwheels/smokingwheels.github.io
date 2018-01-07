@@ -10,6 +10,8 @@ https://smokingwheels.github.io/Pi-hole/searchengine :)
 https://smokingwheels.github.io/Pi-hole/searchengine1 :)
 https://smokingwheels.github.io/Pi-hole/searchengine2 :)
 https://smokingwheels.github.io/Pi-hole/yacysearchengine :)
+https://smokingwheels.github.io/Pi-hole/fromlog
+https://smokingwheels.github.io/Pi-hole/fromlogtosh
 
 
 https://smokingwheels.github.io/Pi-hole/0nov17
@@ -38,8 +40,7 @@ https://smokingwheels.github.io/Pi-hole/22nov17
 https://smokingwheels.github.io/Pi-hole/23nov17
 
 The Program for my Pihole log extractor.
-https://smokingwheels.github.io/Pi-hole/qb64/piholelogext.bas
-The blocklist.
-https://smokingwheels.github.io/Pi-hole/fromlog
+https://smokingwheels.github.io/qb64/piholelogext.bas
+
 
 

@@ -1,14 +1,16 @@
-Source for 1st list all.sh 
-Source for 2nd list has problems.
 *dos2unix: Binary symbol 0x02 found at line 1
 *dos2unix: Skipping binary file alllists.sh
 I will have to look into this problem for creators and authors.
 
-
-There is 23 files in the 2nd lists I still have errors about 0.07% in to the log file.
-
-
+Summary of Lists
 Use at own Risk it does slow things down.
+
+https://smokingwheels.github.io/Pi-hole/allhosts :)
+https://smokingwheels.github.io/Pi-hole/searchengine :)
+https://smokingwheels.github.io/Pi-hole/searchengine1 :)
+https://smokingwheels.github.io/Pi-hole/searchengine2 :)
+https://smokingwheels.github.io/Pi-hole/yacysearchengine :)
+
 
 https://smokingwheels.github.io/Pi-hole/0nov17
 https://smokingwheels.github.io/Pi-hole/1nov17

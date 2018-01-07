@@ -1,0 +1,13 @@
+Contact via https://twitter.com
+
+https://twitter.com/smokingwheels
+
+7-1-2018
+
+Added all of ZeroDot1's lists except IP address's
+Thanks to.
+https://zerodot1.github.io/CoinBlockerLists/
+
+Added a few to my Whitelist hence unlisted some domains.
+
+

@@ -1,5 +1,5 @@
 REM Windows 10 traffic saver for wifi hot spots
-REM
+REM You have to allow access to hosts file.
 REM
 REM
 REM

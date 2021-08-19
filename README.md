@@ -11,11 +11,11 @@ The list is rather long but is a supported list at this time.
 
 https://vault.dediserve.com/s/4sqKKMPkEFXsgzy/download
 
-3 attack unsupported list
+3 attack supported list
 
 https://vault.dediserve.com/s/noCYxiqNaXErGWW/download
 
-4 allhosts unsupported list
+4 allhosts supported list
 
 https://vault.dediserve.com/s/QGW9QpfS3S9ykHK/download
 

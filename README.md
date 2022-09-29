@@ -2,6 +2,26 @@
 
 Github file storage is too small per file.
 
+git clone https://github.com/smokingwheels/smokingwheels.github.io.git
+
+Lists updated 29 Sep 2022 now with a YaCy and Pihole blacklists to improve crawling.
+https://community.searchlab.eu/t/i-have-yacy-and-pihole-running-on-the-same-device-now-may-cure-the-problem-of-slow-crawling-after-a-while/1205
+
+I have a precompiled build for YaCy it installs on windows also runs on linux.
+git clone https://github.com/smokingwheels/YaCy.git
+ 
+To be entered to the YaCy peer blacklist page.
+https://smokingwheels.github.io/Pi-hole/yacy
+
+Allhosts has been cleaned up.
+https://smokingwheels.github.io/Pi-hole/allhosts
+
+Must be entered one by one to PiHoles domain Blacklist there Regex.
+https://smokingwheels.github.io/Pi-hole/yacypiholeregex
+
+The hosts file used on my computer.
+https://smokingwheels.github.io/Pi-hole/hosts
+
 1. My link for my file host.
 https://manage.dediserve.com/?affid=1144
 

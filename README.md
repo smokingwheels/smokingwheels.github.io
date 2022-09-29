@@ -22,6 +22,10 @@ https://smokingwheels.github.io/Pi-hole/yacypiholeregex
 The hosts file used on my computer.
 https://smokingwheels.github.io/Pi-hole/hosts
 
+My Site lists to crawl.
+https://smokingwheels.github.io/yacy/crawl/forums.txt
+
+
 1. My link for my file host.
 https://manage.dediserve.com/?affid=1144
 

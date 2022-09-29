@@ -1,0 +1,395 @@
+I 2022/09/29 12:13:20 Fulltext * indexing: Rs-Rl02cRWC4 https://forum.znyata.com/viewforum.php?f=33
+I 2022/09/29 12:13:20 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Rs-Rl02cRWC4 (1745275899886960640)]} 0 2
+I 2022/09/29 12:13:20 SWITCHBOARD * *Indexed 75 words in URL https://forum.znyata.com/viewforum.php?f=33 [Rs-Rl02cRWC4]
+	Description:  Архив форумов Форум фотографов.
+	MimeType: text/html | Charset: UTF-8 | Size: 636 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 0 ms
+I 2022/09/29 12:13:20 LOADER * cache hit/fresh for: https://gardenplansireland.com/
+I 2022/09/29 12:13:20 HostQueue * closing HostQueue, closing 1 depthStacks for host tv.winelibrary.com
+I 2022/09/29 12:13:20 LOADER * cache hit/stale for: https://tv.winelibrary.com/
+I 2022/09/29 12:13:20 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/security-forums.com-#3Hzn96.443 with 0 urls.
+I 2022/09/29 12:13:20 YACY * hello/server: responded remote senior peer 'loganjohndarylgraham' from [67.58.210.172], time_dnsResolve=0, time_backping=1376, method=reportedip=67.58.210.172, urls=6304366
+I 2022/09/29 12:13:20 LOADER * cache hit/stale for: https://informatik-forum.net/index.php?members-list/=
+I 2022/09/29 12:13:20 YACY * hello/server: responded remote peer 'loganjohndarylgraham' [67.58.210.172] in 1380 milliseconds
+I 2022/09/29 12:13:20 SWITCHBOARD * Not Condensed Resource 'https://www.dealighted.com/resized_images/44813649.png': indexing of media files not wanted by crawl profile
+I 2022/09/29 12:13:20 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[CKb8js1kf-Jw (-1745275899934146560)]} 0 0
+I 2022/09/29 12:13:20 LOADER * cache hit/stale for: https://iq69.com/filedata/fetch?filedataid=466
+I 2022/09/29 12:13:20 SWITCHBOARD * CRAWL: ADDED 54 LINKS FROM https://gardenplansireland.com/, STACKING TIME = 3, PARSING TIME = 49
+I 2022/09/29 12:13:20 LOADER * cache hit/stale for: https://www.kirupa.com/javascript/quickly_inserting_elements_dom.htm
+I 2022/09/29 12:13:20 SWITCHBOARD * Excluded 17 words in URL https://forums.afterdawn.com/forums/nintendo_gamecube-general_discussion/
+I 2022/09/29 12:13:20 LOADER * cache hit/stale for: https://forum.dbpoweramp.com/showthread.php?48895-Flac-1-4-0-Released=&goto=newpost
+I 2022/09/29 12:13:20 Fulltext * indexing: ppxnLII3O925 https://forums.afterdawn.com/forums/nintendo_gamecube-general_discussion/
+I 2022/09/29 12:13:20 LOADER * cache hit/stale for: https://richarddawkins.net/register/
+I 2022/09/29 12:13:20 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{deleteByQuery=(({!cache=false raw f=host_id_s}1kf-Jw)) AND failreason_s:[* TO *] (-1745275899937292288)} 0 44
+I 2022/09/29 12:13:20 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[ppxnLII3O925 (1745275899984478208)]} 0 4
+I 2022/09/29 12:13:20 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[CKb8js1kf-Jw (-1745275899989721088)]} 0 0
+I 2022/09/29 12:13:20 SWITCHBOARD * *Indexed 319 words in URL https://forums.afterdawn.com/forums/nintendo_gamecube-general_discussion/ [ppxnLII3O925]
+	Description:  Nintendo Gamecube - General discussion | AfterDawn Discussion Forums
+	MimeType: text/html | Charset: UTF-8 | Size: 4594 bytes | 
+	LinkStorageTime: 14 ms | indexStorageTime: 1 ms
+I 2022/09/29 12:13:20 HTCACHE * storing content of url https://www.blackberryforums.com/parts/img/g/kPUAAOSwrTVjF0hu/s-l225/CM4004016-Raspberry-Pi-4-Compute-Module-CM4-4GB-RA.jpg, 15732 bytes
+I 2022/09/29 12:13:20 LOADER * cache hit/stale for: https://www.booklookerforum.de/viewforum.php?f=21
+I 2022/09/29 12:13:20 HTCACHE * storing content of url https://discussions.vtiger.com/profile/cilap, 9628 bytes
+I 2022/09/29 12:13:20 HTCACHE * storing content of url https://www.politische-bildung-brandenburg.de/foerderung/weitere-foerdermoeglichkeiten, 48006 bytes
+I 2022/09/29 12:13:20 SWITCHBOARD * Not Condensed Resource 'https://discussions.vtiger.com/profile/cilap': denied by document-attached noindexing rule
+I 2022/09/29 12:13:20 REJECTED * https://discussions.vtiger.com/profile/cilap - denied by document-attached noindexing rule
+I 2022/09/29 12:13:20 HTCACHE * storing content of url https://www.flickr.com/help/forum/en-us, 168066 bytes
+I 2022/09/29 12:13:20 SWITCHBOARD * Not Condensed Resource 'https://www.blackberryforums.com/parts/img/g/kPUAAOSwrTVjF0hu/s-l225/CM4004016-Raspberry-Pi-4-Compute-Module-CM4-4GB-RA.jpg': indexing of media files not wanted by crawl profile
+I 2022/09/29 12:13:20 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL https://unicyclist.com/forums
+I 2022/09/29 12:13:20 LOADER * CRAWLER ..Redirecting request to: https://unicyclist.com/categories
+I 2022/09/29 12:13:20 REJECTED * https://unicyclist.com/forums - cannot load: load error - CRAWLER Redirect of URL=https://unicyclist.com/forums to https://unicyclist.com/categories placed on crawler queue for double-check
+I 2022/09/29 12:13:20 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[fEdMzswO9qc5 (1745275900113453056)]} 0 0
+I 2022/09/29 12:13:20 SWITCHBOARD * Excluded 1 words in URL https://gardenplansireland.com/
+I 2022/09/29 12:13:20 Fulltext * indexing: 68VQnsneO067 https://gardenplansireland.com/
+I 2022/09/29 12:13:20 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[68VQnsneO067 (1745275900130230272)]} 0 2
+I 2022/09/29 12:13:21 SWITCHBOARD * *Indexed 525 words in URL https://gardenplansireland.com/ [68VQnsneO067]
+	Description:  Slot Hacker Terbaru 2022
+	MimeType: text/html | Charset: ISO-8859-1 | Size: 9797 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 2 ms
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/farm8.staticflickr.com-#Ypwl15.443 with 0 urls.
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/combo.staticflickr.com-#AM_IH5.443 with 0 urls.
+I 2022/09/29 12:13:21 SWITCHBOARD * CRAWL: ADDED 124 LINKS FROM https://www.flickr.com/help/forum/en-us, STACKING TIME = 4, PARSING TIME = 20
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/farm6.staticflickr.com-#ZQIU15.443 with 0 urls.
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/geo.yahoo.com-#NpElU4.443 with 0 urls.
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/farm4.staticflickr.com-#LUtPk5.443 with 0 urls.
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/farm66.staticflickr.com-#VJI3C5.443 with 0 urls.
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/farm5.staticflickr.com-#8axuG5.443 with 0 urls.
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/flickrhelp.com-#yIusY5.443 with 0 urls.
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/farm3.staticflickr.com-#L8Z8h5.443 with 0 urls.
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/blog.flickr.net-#V7fnrw.443 with 0 urls.
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/flickr.tumblr.com-#gi_j2Y.80 with 0 urls.
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/blog.flickr.net-#M2fqVQ.80 with 0 urls.
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/status.flickr.net-#FJ2iIw.443 with 0 urls.
+I 2022/09/29 12:13:21 SWITCHBOARD * Excluded 4 words in URL https://www.politische-bildung-brandenburg.de/foerderung/weitere-foerdermoeglichkeiten
+I 2022/09/29 12:13:21 Fulltext * indexing: 2ej2MyTnD0ej https://www.politische-bildung-brandenburg.de/foerderung/weitere-foerdermoeglichkeiten
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[2ej2MyTnD0ej (1745275900172173312)]} 0 2
+I 2022/09/29 12:13:21 SWITCHBOARD * *Indexed 450 words in URL https://www.politische-bildung-brandenburg.de/foerderung/weitere-foerdermoeglichkeiten [2ej2MyTnD0ej]
+	Description:  Weitere Möglichkeiten zur Förderung von Projekten | Brandenburgische Landeszentrale für politische Bildung
+	MimeType: text/html | Charset: UTF-8 | Size: 6703 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 2 ms
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://www.allaboutjazz.com/musicians/conrad-herwig, 148582 bytes
+I 2022/09/29 12:13:21 SWITCHBOARD * Excluded 20 words in URL https://www.flickr.com/help/forum/en-us
+I 2022/09/29 12:13:21 Fulltext * indexing: qYwv3nVxX7Q4 https://www.flickr.com/help/forum/en-us
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[qYwv3nVxX7Q4 (1745275900180561920)]} 0 2
+I 2022/09/29 12:13:21 SWITCHBOARD * *Indexed 292 words in URL https://www.flickr.com/help/forum/en-us [qYwv3nVxX7Q4]
+	Description:  Flickr: The Help Forum
+	MimeType: text/html | Charset: UTF-8 | Size: 3485 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 1 ms
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://forum.configserver.com/, 28931 bytes
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://blackberryforums.com/, 111114 bytes
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://freewebsitetemplates.com/recent-activity/, 21539 bytes
+I 2022/09/29 12:13:21 LOADER * CRAWLER Redirection detected ('HTTP/1.1 302 Found') for URL http://daotao.dut.udn.vn/cb/
+I 2022/09/29 12:13:21 LOADER * CRAWLER ..Redirecting request to: http://cb.dut.udn.vn/
+I 2022/09/29 12:13:21 REJECTED * https://forums.zmanda.com/ - no response body (http return code = 403)
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://forums.mozillazine.org/viewforum.php?f=11, 36481 bytes
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://www.sitepoint.com/page-data/sq/d/3910932946.json, 578 bytes
+I 2022/09/29 12:13:21 LoaderDispatcher * waited 5000 ms for https://adblockplus.org/forum
+I 2022/09/29 12:13:21 LOADER * cache hit/fresh for: https://content.invisioncic.com/i283462/profile/photo-956.jpg
+I 2022/09/29 12:13:21 SWITCHBOARD * Not Condensed Resource 'https://content.invisioncic.com/i283462/profile/photo-956.jpg': indexing of media files not wanted by crawl profile
+I 2022/09/29 12:13:21 LOADER * cache hit/stale for: https://forum.ovh.com/forumdisplay.php/34-HOW-TO
+I 2022/09/29 12:13:21 LOADER * cache hit/stale for: http://www.online-literature.com/frost/
+I 2022/09/29 12:13:21 LOADER * cache hit/stale for: https://cellphoneforums.net/phone-database/carrierphones/Sprint_PCS.html
+I 2022/09/29 12:13:21 SWITCHBOARD * CRAWL: ADDED 42 LINKS FROM https://forum.configserver.com/, STACKING TIME = 1, PARSING TIME = 15
+I 2022/09/29 12:13:21 SWITCHBOARD * Excluded 16 words in URL https://freewebsitetemplates.com/recent-activity/
+I 2022/09/29 12:13:21 Fulltext * indexing: woxqds3aAM17 https://freewebsitetemplates.com/recent-activity/
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/blackberryforums.com-#meXuq6.443 with 0 urls.
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[woxqds3aAM17 (1745275900587409408)]} 0 1
+I 2022/09/29 12:13:21 SWITCHBOARD * *Indexed 109 words in URL https://freewebsitetemplates.com/recent-activity/ [woxqds3aAM17]
+	Description:  Recent Activity | Free Website Templates
+	MimeType: text/html | Charset: UTF-8 | Size: 1486 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 1 ms
+I 2022/09/29 12:13:21 SWITCHBOARD * Excluded 22 words in URL https://forum.configserver.com/
+I 2022/09/29 12:13:21 Fulltext * indexing: eyVe708zftF5 https://forum.configserver.com/
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[eyVe708zftF5 (1745275900594749440)]} 0 2
+I 2022/09/29 12:13:21 SWITCHBOARD * *Indexed 219 words in URL https://forum.configserver.com/ [eyVe708zftF5]
+	Description:  ConfigServer Community Forum - Index page
+	MimeType: text/html | Charset: UTF-8 | Size: 3664 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 1 ms
+I 2022/09/29 12:13:21 SWITCHBOARD * Excluded 27 words in URL https://www.allaboutjazz.com/musicians/conrad-herwig
+I 2022/09/29 12:13:21 Fulltext * indexing: 4FYtFxwibCq5 https://www.allaboutjazz.com/musicians/conrad-herwig
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[4FYtFxwibCq5 (1745275900692267008)]} 0 6
+I 2022/09/29 12:13:21 SWITCHBOARD * *Indexed 943 words in URL https://www.allaboutjazz.com/musicians/conrad-herwig [4FYtFxwibCq5]
+	Description:  Conrad Herwig musician - All About Jazz
+	MimeType: text/html | Charset: UTF-8 | Size: 16256 bytes | 
+	LinkStorageTime: 7 ms | indexStorageTime: 3 ms
+I 2022/09/29 12:13:21 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL https://teach-nology.com/robots.txt
+I 2022/09/29 12:13:21 LOADER * CRAWLER ..Redirecting request to: https://www.teach-nology.com/robots.txt
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://www.kirupa.com/javascript/quickly_inserting_elements_dom.htm, 74251 bytes
+I 2022/09/29 12:13:21 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL https://www.gardenweb.com/discussions/favorite
+I 2022/09/29 12:13:21 LOADER * CRAWLER ..Redirecting request to: https://www.houzz.com/discussions/garden-favorites
+I 2022/09/29 12:13:21 REJECTED * https://www.gardenweb.com/discussions/favorite - cannot load: load error - CRAWLER Redirect of URL=https://www.gardenweb.com/discussions/favorite to https://www.houzz.com/discussions/garden-favorites placed on crawler queue for double-check
+I 2022/09/29 12:13:21 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/CB.DUT.UDN.VN-#bRDpJY.80 with 0 urls.
+I 2022/09/29 12:13:21 REJECTED * http://daotao.dut.udn.vn/cb/ - cannot load: load error - CRAWLER Redirect of URL=http://daotao.dut.udn.vn/cb/ to http://cb.dut.udn.vn/ placed on crawler queue for double-check
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[_Tw0cpWMYBz5 (1745275900754132992)]} 0 0
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[ZKTMz11RHyeI (1745275900755181568)]} 0 0
+I 2022/09/29 12:13:21 SWITCHBOARD * Excluded 18 words in URL https://forums.mozillazine.org/viewforum.php?f=11
+I 2022/09/29 12:13:21 Fulltext * indexing: R7e5hOiq1OXx https://forums.mozillazine.org/viewforum.php?f=11
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[R7e5hOiq1OXx (1745275900822290432)]} 0 2
+I 2022/09/29 12:13:21 SWITCHBOARD * *Indexed 344 words in URL https://forums.mozillazine.org/viewforum.php?f=11 [R7e5hOiq1OXx]
+	Description:  MozillaZine Site Discussion • mozillaZine Forums
+	MimeType: text/html | Charset: UTF-8 | Size: 6326 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 2 ms
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[cuSeNboRFOl4 (-1745275900833824768)]} 0 0
+I 2022/09/29 12:13:21 SWITCHBOARD * Excluded 0 words in URL https://www.sitepoint.com/page-data/sq/d/3910932946.json
+I 2022/09/29 12:13:21 LOADER * cache hit/fresh for: https://www.movie-list.com/img/posters/big/pokemondetectivepikachu.jpg
+I 2022/09/29 12:13:21 Fulltext * indexing: jodGOKoWftN5 https://www.sitepoint.com/page-data/sq/d/3910932946.json
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[FpfIM02PqzFh (-1745275900835921920)]} 0 0
+I 2022/09/29 12:13:21 LOADER * cache hit/stale for: https://forums.onlinebookclub.org/viewforum.php?f=79
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://community.hannity.com/t/the-first-lawsuit-is-filed-against-joe-biden-s-illegal-student-loan-move/243077, 71039 bytes
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[jodGOKoWftN5 (1745275900839067648)]} 0 0
+I 2022/09/29 12:13:21 SWITCHBOARD * *Indexed 8 words in URL https://www.sitepoint.com/page-data/sq/d/3910932946.json [jodGOKoWftN5]
+	Description:  3910932946.json
+	MimeType: application/json | Charset: UTF-8 | Size: 48 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 0 ms
+I 2022/09/29 12:13:21 SWITCHBOARD * Not Condensed Resource 'https://www.movie-list.com/img/posters/big/pokemondetectivepikachu.jpg': indexing of media files not wanted by crawl profile
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://forum.rpg.net/index.php, 141753 bytes
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://www.axigen.com/new-features/, 23248 bytes
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{deleteByQuery=(({!cache=false raw f=host_id_s}2PqzFh)) AND failreason_s:[* TO *] (-1745275900841164800)} 0 56
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[FpfIM02PqzFh (-1745275900900933632)]} 0 0
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://forum.daemon-tools.cc/search?searchJSON=%7B%22tag%22%3A%5B%22tools%22%5D%7D, 22187 bytes
+I 2022/09/29 12:13:21 SWITCHBOARD * Excluded 31 words in URL https://www.kirupa.com/javascript/quickly_inserting_elements_dom.htm
+I 2022/09/29 12:13:21 Fulltext * indexing: b6MGYLgEukO4 https://www.kirupa.com/javascript/quickly_inserting_elements_dom.htm
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[b6MGYLgEukO4 (1745275900961751040)]} 0 5
+I 2022/09/29 12:13:21 SWITCHBOARD * *Indexed 741 words in URL https://www.kirupa.com/javascript/quickly_inserting_elements_dom.htm [b6MGYLgEukO4]
+	Description:  Quickly Adding Many Elements into the DOM
+	MimeType: text/html | Charset: ISO-8859-1 | Size: 17813 bytes | 
+	LinkStorageTime: 6 ms | indexStorageTime: 2 ms
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://www.thunderbird-mail.de/herunterladen/thunderbird-beta/, 48912 bytes
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://www.ilmeteo.it/portale/mappe-meteo-ensemble-europa, 159948 bytes
+I 2022/09/29 12:13:21 HTCACHE * storing content of url https://forums.debian.net/viewforum.php?f=20, 94534 bytes
+I 2022/09/29 12:13:21 LOADER * cache hit/fresh for: https://www.feedforall.com/podcasting-tutorial.htm
+I 2022/09/29 12:13:21 SWITCHBOARD * Not Condensed Resource 'https://forum.daemon-tools.cc/search?searchJSON=%7B%22tag%22%3A%5B%22tools%22%5D%7D': denied by document-attached noindexing rule
+I 2022/09/29 12:13:21 REJECTED * https://forum.daemon-tools.cc/search?searchJSON=%7B%22tag%22%3A%5B%22tools%22%5D%7D - denied by document-attached noindexing rule
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{deleteByQuery=(({!cache=false raw f=host_id_s}oRFOl4)) AND failreason_s:[* TO *] (-1745275901099114496)} 0 52
+I 2022/09/29 12:13:21 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[cuSeNboRFOl4 (-1745275901154689024)]} 0 0
+I 2022/09/29 12:13:21 SWITCHBOARD * Excluded 18 words in URL https://www.feedforall.com/podcasting-tutorial.htm
+I 2022/09/29 12:13:21 Fulltext * indexing: egXzBlryDyg5 https://www.feedforall.com/podcasting-tutorial.htm
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[egXzBlryDyg5 (1745275901178806272)]} 0 3
+I 2022/09/29 12:13:22 SWITCHBOARD * *Indexed 149 words in URL https://www.feedforall.com/podcasting-tutorial.htm [egXzBlryDyg5]
+	Description:  Podcasting Tutorial
+	MimeType: text/html | Charset: ISO-8859-1 | Size: 1799 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 1 ms
+I 2022/09/29 12:13:22 SWITCHBOARD * Excluded 22 words in URL https://www.axigen.com/new-features/
+I 2022/09/29 12:13:22 REJECTED * http://cb.dut.udn.vn/robots.txt - no response body (http return code = 404)
+I 2022/09/29 12:13:22 Fulltext * indexing: c8lEjlIE7Ho4 https://www.axigen.com/new-features/
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[c8lEjlIE7Ho4 (1745275901213409280)]} 0 2
+I 2022/09/29 12:13:22 SWITCHBOARD * *Indexed 290 words in URL https://www.axigen.com/new-features/ [c8lEjlIE7Ho4]
+	Description:  New Features in Axigen X3
+	MimeType: text/html | Charset: UTF-8 | Size: 4278 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 6 ms
+I 2022/09/29 12:13:22 SWITCHBOARD * Excluded 28 words in URL https://community.hannity.com/t/the-first-lawsuit-is-filed-against-joe-biden-s-illegal-student-loan-move/243077
+I 2022/09/29 12:13:22 SWITCHBOARD * CRAWL: ADDED 290 LINKS FROM https://forum.rpg.net/index.php, STACKING TIME = 31, PARSING TIME = 75
+I 2022/09/29 12:13:22 Fulltext * indexing: QJ9wKu_ILfy4 https://community.hannity.com/t/the-first-lawsuit-is-filed-against-joe-biden-s-illegal-student-loan-move/243077
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[QJ9wKu_ILfy4 (1745275901235429376)]} 0 8
+I 2022/09/29 12:13:22 SWITCHBOARD * *Indexed 432 words in URL https://community.hannity.com/t/the-first-lawsuit-is-filed-against-joe-biden-s-illegal-student-loan-move/243077 [QJ9wKu_ILfy4]
+	Description:  The First Lawsuit Is Filed against Joe Biden’s Illegal Student-Loan Move - Politics - Hannity Community
+	MimeType: text/html | Charset: UTF-8 | Size: 8132 bytes | 
+	LinkStorageTime: 9 ms | indexStorageTime: 4 ms
+I 2022/09/29 12:13:22 SWITCHBOARD * Excluded 20 words in URL https://www.thunderbird-mail.de/herunterladen/thunderbird-beta/
+I 2022/09/29 12:13:22 Fulltext * indexing: G92fzaA120Ii https://www.thunderbird-mail.de/herunterladen/thunderbird-beta/
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[G92fzaA120Ii (1745275901255352320)]} 0 2
+I 2022/09/29 12:13:22 SWITCHBOARD * *Indexed 314 words in URL https://www.thunderbird-mail.de/herunterladen/thunderbird-beta/ [G92fzaA120Ii]
+	Description:  Thunderbird Beta-Version herunterladen - Thunderbird Mail DE
+	MimeType: text/html | Charset: UTF-8 | Size: 3807 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 2 ms
+I 2022/09/29 12:13:22 HTCACHE * storing content of url https://www.roundcubeforum.net/, 37573 bytes
+I 2022/09/29 12:13:22 SWITCHBOARD * Excluded 3 words in URL https://www.ilmeteo.it/portale/mappe-meteo-ensemble-europa
+I 2022/09/29 12:13:22 Fulltext * indexing: JLWwW_BYQhZg https://www.ilmeteo.it/portale/mappe-meteo-ensemble-europa
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[JLWwW_BYQhZg (1745275901313024000)]} 0 8
+I 2022/09/29 12:13:22 SWITCHBOARD * *Indexed 336 words in URL https://www.ilmeteo.it/portale/mappe-meteo-ensemble-europa [JLWwW_BYQhZg]
+	Description:  Ensemble Europe » ILMETEO.it
+	MimeType: text/html | Charset: UTF-8 | Size: 5011 bytes | 
+	LinkStorageTime: 10 ms | indexStorageTime: 1 ms
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[mN-bVlo81Om5 (-1745275901322461184)]} 0 0
+I 2022/09/29 12:13:22 HTCACHE * storing content of url http://cauduongbkdn.dut.udn.vn/en/wp-content/uploads/2018/04/hearder_logo_en.png, 88413 bytes
+I 2022/09/29 12:13:22 SWITCHBOARD * Excluded 27 words in URL https://forum.rpg.net/index.php
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{deleteByQuery=(({!cache=false raw f=host_id_s}o81Om5)) AND failreason_s:[* TO *] (-1745275901324558336)} 0 83
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[mN-bVlo81Om5 (-1745275901412638720)]} 0 0
+I 2022/09/29 12:13:22 Fulltext * indexing: 6N0os0SGRgpw https://forum.rpg.net/index.php
+I 2022/09/29 12:13:22 SWITCHBOARD * Not Condensed Resource 'http://cauduongbkdn.dut.udn.vn/en/wp-content/uploads/2018/04/hearder_logo_en.png': indexing of media files not wanted by crawl profile
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[6N0os0SGRgpw (1745275901418930176)]} 0 10
+I 2022/09/29 12:13:22 SWITCHBOARD * *Indexed 880 words in URL https://forum.rpg.net/index.php [6N0os0SGRgpw]
+	Description:  RPGnet Forums
+	MimeType: text/html | Charset: UTF-8 | Size: 12590 bytes | 
+	LinkStorageTime: 11 ms | indexStorageTime: 3 ms
+I 2022/09/29 12:13:22 REJECTED * https://security-forums.com/robots.txt - no response body (http return code = 404)
+I 2022/09/29 12:13:22 SWITCHBOARD * Excluded 31 words in URL https://forums.debian.net/viewforum.php?f=20
+I 2022/09/29 12:13:22 Fulltext * indexing: o4haKO2nGS4w https://forums.debian.net/viewforum.php?f=20
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[o4haKO2nGS4w (1745275901456678912)]} 0 5
+I 2022/09/29 12:13:22 SWITCHBOARD * *Indexed 861 words in URL https://forums.debian.net/viewforum.php?f=20 [o4haKO2nGS4w]
+	Description:  General Debian - Debian User Forums
+	MimeType: text/html | Charset: UTF-8 | Size: 17048 bytes | 
+	LinkStorageTime: 6 ms | indexStorageTime: 4 ms
+I 2022/09/29 12:13:22 HTCACHE * storing content of url https://forum.kaspersky.com/, 208214 bytes
+I 2022/09/29 12:13:22 HTCACHE * storing content of url https://richarddawkins.net/register/, 73467 bytes
+I 2022/09/29 12:13:22 SWITCHBOARD * CRAWL: ADDED 284 LINKS FROM https://forum.kaspersky.com/, STACKING TIME = 15, PARSING TIME = 36
+I 2022/09/29 12:13:22 SWITCHBOARD * Excluded 16 words in URL https://richarddawkins.net/register/
+I 2022/09/29 12:13:22 Fulltext * indexing: -fc8usth8QZy https://richarddawkins.net/register/
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[-fc8usth8QZy (1745275901650665472)]} 0 1
+I 2022/09/29 12:13:22 SWITCHBOARD * *Indexed 137 words in URL https://richarddawkins.net/register/ [-fc8usth8QZy]
+	Description:  Create an Account | Richard Dawkins Foundation for Reason and Science
+	MimeType: text/html | Charset: UTF-8 | Size: 1824 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 0 ms
+I 2022/09/29 12:13:22 HTCACHE * storing content of url https://cellphoneforums.net/phone-database/carrierphones/Sprint_PCS.html, 39967 bytes
+I 2022/09/29 12:13:22 HTCACHE * storing content of url https://iq69.com/filedata/fetch?filedataid=466, 10485 bytes
+I 2022/09/29 12:13:22 SWITCHBOARD * Excluded 24 words in URL https://forum.kaspersky.com/
+I 2022/09/29 12:13:22 Fulltext * indexing: raSQV0ZX7kG5 https://forum.kaspersky.com/
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[raSQV0ZX7kG5 (1745275901751328768)]} 0 6
+I 2022/09/29 12:13:22 SWITCHBOARD * *Indexed 1109 words in URL https://forum.kaspersky.com/ [raSQV0ZX7kG5]
+	Description:  Forums - Kaspersky Support Forum
+	MimeType: text/html | Charset: UTF-8 | Size: 18459 bytes | 
+	LinkStorageTime: 8 ms | indexStorageTime: 4 ms
+I 2022/09/29 12:13:22 SWITCHBOARD * Not Condensed Resource 'https://iq69.com/filedata/fetch?filedataid=466': indexing of media not wanted by crawl profile
+I 2022/09/29 12:13:22 SWITCHBOARD * Excluded 17 words in URL https://cellphoneforums.net/phone-database/carrierphones/Sprint_PCS.html
+I 2022/09/29 12:13:22 Fulltext * indexing: DU2IYjEVKDNy https://cellphoneforums.net/phone-database/carrierphones/Sprint_PCS.html
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[DU2IYjEVKDNy (1745275901832069120)]} 0 2
+I 2022/09/29 12:13:22 HTCACHE * storing content of url http://www.online-literature.com/frost/, 46476 bytes
+I 2022/09/29 12:13:22 SWITCHBOARD * *Indexed 195 words in URL https://cellphoneforums.net/phone-database/carrierphones/Sprint_PCS.html [DU2IYjEVKDNy]
+	Description:  Sprint PCS - Cell Phone Forums
+	MimeType: text/html | Charset: ISO-8859-1 | Size: 2445 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 1 ms
+I 2022/09/29 12:13:22 HTCACHE * storing content of url https://informatik-forum.net/index.php?members-list/=, 120905 bytes
+I 2022/09/29 12:13:22 HTCACHE * storing content of url https://forum.winehq.org/, 14856 bytes
+I 2022/09/29 12:13:22 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/forum.winehq.org-#WRmVnw.443 with 0 urls.
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[fQmIy03u7l-6 (-1745275901964189696)]} 0 0
+I 2022/09/29 12:13:22 SWITCHBOARD * Excluded 15 words in URL https://informatik-forum.net/index.php?members-list/=
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{deleteByQuery=(({!cache=false raw f=host_id_s}3u7l-6)) AND failreason_s:[* TO *] (-1745275901989355520)} 0 56
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[fQmIy03u7l-6 (-1745275902048075776)]} 0 0
+I 2022/09/29 12:13:22 Fulltext * indexing: NApulst3f06y https://informatik-forum.net/index.php?members-list/=
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[NApulst3f06y (1745275902055415808)]} 0 4
+I 2022/09/29 12:13:22 SWITCHBOARD * *Indexed 414 words in URL https://informatik-forum.net/index.php?members-list/= [NApulst3f06y]
+	Description:  Members - Informatik-Forum - Everything about information technology.
+	MimeType: text/html | Charset: UTF-8 | Size: 5745 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 2 ms
+I 2022/09/29 12:13:22 SWITCHBOARD * Excluded 32 words in URL http://www.online-literature.com/frost/
+I 2022/09/29 12:13:22 Fulltext * indexing: Bo2lQQIJ831b http://www.online-literature.com/frost/
+I 2022/09/29 12:13:22 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Bo2lQQIJ831b (1745275902070095872)]} 0 3
+I 2022/09/29 12:13:22 SWITCHBOARD * *Indexed 1136 words in URL http://www.online-literature.com/frost/ [Bo2lQQIJ831b]
+	Description:  Robert Frost - Biography and Works. Search Texts, Read Online. Discuss.
+	MimeType: text/html | Charset: ISO-8859-1 | Size: 18543 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 3 ms
+I 2022/09/29 12:13:22 HTCACHE * storing content of url https://twitter.com/Bodybuildingcom?bbsrc=hbs, 741607 bytes
+I 2022/09/29 12:13:22 HTCACHE * storing content of url https://www.booklookerforum.de/viewforum.php?f=21, 61840 bytes
+I 2022/09/29 12:13:23 LOADER * CRAWLER Redirection detected ('HTTP/1.1 302 Found') for URL https://forum.joomla.org/ucp.php
+I 2022/09/29 12:13:23 LOADER * CRAWLER ..Redirecting request to: https://forum.joomla.org/index.php
+I 2022/09/29 12:13:23 REJECTED * https://forum.joomla.org/ucp.php - cannot load: load error - CRAWLER Redirect of URL=https://forum.joomla.org/ucp.php to https://forum.joomla.org/index.php placed on crawler queue for double-check
+I 2022/09/29 12:13:23 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[bzzQt0Z5GDDw (1745275902248353792)]} 0 0
+I 2022/09/29 12:13:23 SWITCHBOARD * Excluded 3 words in URL https://www.booklookerforum.de/viewforum.php?f=21
+I 2022/09/29 12:13:23 Fulltext * indexing: 0k0gHl3eRo7i https://www.booklookerforum.de/viewforum.php?f=21
+I 2022/09/29 12:13:23 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[0k0gHl3eRo7i (1745275902302879744)]} 0 3
+I 2022/09/29 12:13:23 SWITCHBOARD * *Indexed 488 words in URL https://www.booklookerforum.de/viewforum.php?f=21 [0k0gHl3eRo7i]
+	Description:  Kinder- und Jugendbuch-Forum - booklookerforum.de
+	MimeType: text/html | Charset: UTF-8 | Size: 10527 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 2 ms
+I 2022/09/29 12:13:23 SWITCHBOARD * Excluded 24 words in URL https://twitter.com/Bodybuildingcom?bbsrc=hbs
+I 2022/09/29 12:13:23 Fulltext * indexing: _7_XXsBGIES4 https://twitter.com/Bodybuildingcom?bbsrc=hbs
+I 2022/09/29 12:13:23 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[_7_XXsBGIES4 (1745275902432903168)]} 0 3
+I 2022/09/29 12:13:23 SWITCHBOARD * *Indexed 381 words in URL https://twitter.com/Bodybuildingcom?bbsrc=hbs [_7_XXsBGIES4]
+	Description:  Bodybuilding.com (@Bodybuildingcom) / Twitter
+	MimeType: text/html | Charset: UTF-8 | Size: 5921 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 2 ms
+I 2022/09/29 12:13:23 LOADER * CRAWLER Redirection detected ('HTTP/1.1 302 Moved Temporarily') for URL https://adblockplus.org/forum
+I 2022/09/29 12:13:23 LOADER * CRAWLER ..Redirecting request to: https://forum.adblockplus.org/
+I 2022/09/29 12:13:23 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/forum.adblockplus.org-#LvWIPx.443 with 0 urls.
+I 2022/09/29 12:13:23 REJECTED * https://adblockplus.org/forum - cannot load: load error - CRAWLER Redirect of URL=https://adblockplus.org/forum to https://forum.adblockplus.org/ placed on crawler queue for double-check
+I 2022/09/29 12:13:23 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[LYN3TsH-wzax (1745275902643666944)]} 0 0
+I 2022/09/29 12:13:23 HTCACHE * storing content of url https://forum.meteonetwork.it/index.php, 94674 bytes
+I 2022/09/29 12:13:23 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[nDXnJl-Vr4K6 (-1745275902786273280)]} 0 0
+I 2022/09/29 12:13:23 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{deleteByQuery=(({!cache=false raw f=host_id_s}-Vr4K6)) AND failreason_s:[* TO *] (-1745275902787321856)} 0 38
+I 2022/09/29 12:13:23 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[nDXnJl-Vr4K6 (-1745275902828216320)]} 0 0
+I 2022/09/29 12:13:23 HTCACHE * storing content of url https://forum.dbpoweramp.com/showthread.php?48895-Flac-1-4-0-Released=&goto=newpost, 18977 bytes
+I 2022/09/29 12:13:23 SWITCHBOARD * Not Condensed Resource 'https://forum.dbpoweramp.com/showthread.php?48895-Flac-1-4-0-Released=&goto=newpost': denied by document-attached noindexing rule
+I 2022/09/29 12:13:23 REJECTED * https://forum.dbpoweramp.com/showthread.php?48895-Flac-1-4-0-Released=&goto=newpost - denied by document-attached noindexing rule
+I 2022/09/29 12:13:23 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL https://sanparks.org/forums
+I 2022/09/29 12:13:23 LOADER * CRAWLER ..Redirecting request to: https://www.sanparks.org/forums
+I 2022/09/29 12:13:23 HTCACHE * storing content of url https://forum.ovh.com/forumdisplay.php/34-HOW-TO, 1680 bytes
+I 2022/09/29 12:13:23 SWITCHBOARD * Excluded 1 words in URL https://forum.ovh.com/forumdisplay.php/34-HOW-TO
+I 2022/09/29 12:13:23 Fulltext * indexing: DAy-UcYRt0L4 https://forum.ovh.com/forumdisplay.php/34-HOW-TO
+I 2022/09/29 12:13:23 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[DAy-UcYRt0L4 (1745275902981308416)]} 0 2
+I 2022/09/29 12:13:23 SWITCHBOARD * *Indexed 54 words in URL https://forum.ovh.com/forumdisplay.php/34-HOW-TO [DAy-UcYRt0L4]
+	Description:  HOW-TO [Archives] - Forum OVH
+	MimeType: text/html | Charset: ISO-8859-1 | Size: 154 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 0 ms
+I 2022/09/29 12:13:23 HTCACHE * storing content of url https://forums.onlinebookclub.org/viewforum.php?f=79, 117298 bytes
+I 2022/09/29 12:13:24 HTCACHE * storing content of url https://www.letsdiskuss.com/, 110307 bytes
+I 2022/09/29 12:13:24 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/www.letsdiskuss.com-#o81Om5.443 with 0 urls.
+I 2022/09/29 12:13:24 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[J7NQile1uDZ6 (-1745275903333629952)]} 0 0
+I 2022/09/29 12:13:24 SWITCHBOARD * Excluded 24 words in URL https://forums.onlinebookclub.org/viewforum.php?f=79
+I 2022/09/29 12:13:24 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{deleteByQuery=(({!cache=false raw f=host_id_s}e1uDZ6)) AND failreason_s:[* TO *] (-1745275903334678528)} 0 16
+I 2022/09/29 12:13:24 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[J7NQile1uDZ6 (-1745275903352504320)]} 0 0
+I 2022/09/29 12:13:24 Fulltext * indexing: e_n80Os2GXIy https://forums.onlinebookclub.org/viewforum.php?f=79
+I 2022/09/29 12:13:24 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[e_n80Os2GXIy (1745275903360892928)]} 0 8
+I 2022/09/29 12:13:24 SWITCHBOARD * *Indexed 797 words in URL https://forums.onlinebookclub.org/viewforum.php?f=79 [e_n80Os2GXIy]
+	Description:  "Free Fish Friday" by Lee Stone - OnlineBookClub.org
+	MimeType: text/html | Charset: UTF-8 | Size: 13956 bytes | 
+	LinkStorageTime: 10 ms | indexStorageTime: 2 ms
+I 2022/09/29 12:13:24 REJECTED * https://forum.axishistory.com/robots.txt - no response body (http return code = 404)
+I 2022/09/29 12:13:24 LOADER * cache hit/stale for: https://forum.axishistory.com/
+I 2022/09/29 12:13:24 HostQueue * closing HostQueue, closing 1 depthStacks for host www.freeadzforum.com
+I 2022/09/29 12:13:24 LOADER * cache hit/stale for: https://www.freeadzforum.com/index.php?PHPSESSID=92a06er7nmkmcn2u2uv92so1h1;wwwRedirect
+I 2022/09/29 12:13:24 LOADER * cache hit/stale for: https://github.com/slackero/phpwcms/releases
+I 2022/09/29 12:13:24 HostBalancer * (re-)initialized the round-robin queue; 239 hosts.
+I 2022/09/29 12:13:24 LOADER * cache hit/stale for: https://www.skepticforum.com/viewtopic.php?p=514079
+I 2022/09/29 12:13:24 LOADER * cache hit/stale for: https://forum.utorrent.com/
+I 2022/09/29 12:13:24 LOADER * cache hit/stale for: https://www.zita.be/nieuws/entertainment/ophef-over-weinig-verhullende-outfit-van-cardi-b-trek-je-jurk-eens-omhoog-foto
+I 2022/09/29 12:13:24 REJECTED * https://www.facebook.com/flickr - denied by robots.txt
+I 2022/09/29 12:13:24 LOADER * cache hit/stale for: https://www.techno-science.net/forum/viewtopic.php?t=56013
+I 2022/09/29 12:13:24 LOADER * cache hit/stale for: https://www.nationmaster.com/country-info/stats/Health/Diseases/Cancer/Cancer-death-rate-(per-100,000-population)
+I 2022/09/29 12:13:24 LOADER * cache hit/stale for: https://www.geschichtsforum.de/forum/das-osmanische-reich.42/
+I 2022/09/29 12:13:24 LOADER * cache hit/stale for: https://forums.mozillazine.jp/index.php
+I 2022/09/29 12:13:24 REJECTED * https://forum.winehq.org/robots.txt - no response body (http return code = 404)
+I 2022/09/29 12:13:24 LoaderDispatcher * waited 5000 ms for https://mathhelpforum.com/forum.php
+I 2022/09/29 12:13:25 HTCACHE * storing content of url https://tv.winelibrary.com/, 47967 bytes
+I 2022/09/29 12:13:25 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/tv.winelibrary.com-#3Eccu5.443 with 0 urls.
+I 2022/09/29 12:13:25 SWITCHBOARD * CRAWL: ADDED 109 LINKS FROM https://tv.winelibrary.com/, STACKING TIME = 4, PARSING TIME = 7
+I 2022/09/29 12:13:25 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/winelibrary.com-#-sOJz5.443 with 0 urls.
+I 2022/09/29 12:13:25 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/winelibrary.tv-#hgspnR.80 with 0 urls.
+I 2022/09/29 12:13:25 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/winelibrary.com-#meoF2Z.80 with 0 urls.
+I 2022/09/29 12:13:25 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/cinderellawine.com-#Ag-BCa.80 with 0 urls.
+I 2022/09/29 12:13:25 SWITCHBOARD * Excluded 12 words in URL https://tv.winelibrary.com/
+I 2022/09/29 12:13:25 Fulltext * indexing: wyxUj43Eccu5 https://tv.winelibrary.com/
+I 2022/09/29 12:13:25 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[wyxUj43Eccu5 (1745275904695730176)]} 0 3
+I 2022/09/29 12:13:25 SWITCHBOARD * *Indexed 190 words in URL https://tv.winelibrary.com/ [wyxUj43Eccu5]
+	Description:  Wine Library TV | Wine news, tastings and reviews from the Wine Library
+	MimeType: text/html | Charset: UTF-8 | Size: 2487 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 0 ms
+I 2022/09/29 12:13:25 org.apache.solr.core.QuerySenderListener QuerySenderListener done.
+I 2022/09/29 12:13:25 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{deleteByQuery=(({!cache=false raw f=host_id_s}6jC6o6)) AND failreason_s:[* TO *] (-1745275904849870848)} 0 9
+I 2022/09/29 12:13:25 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[QdxFxs6jC6o6 (-1745275904860356608)]} 0 0
+I 2022/09/29 12:13:25 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL https://forum.purseblog.com/threads/william-and-catherine-prince-and-princess-of-wales.642321/post-35349752
+I 2022/09/29 12:13:25 LOADER * CRAWLER ..Redirecting request to: https://forum.purseblog.com/threads/william-and-catherine-prince-and-princess-of-wales.642321/page-1340#post-35349752
+I 2022/09/29 12:13:25 REJECTED * https://forum.purseblog.com/threads/william-and-catherine-prince-and-princess-of-wales.642321/post-35349752 - cannot load: load error - CRAWLER Redirect of URL=https://forum.purseblog.com/threads/william-and-catherine-prince-and-princess-of-wales.642321/post-35349752 to https://forum.purseblog.com/threads/william-and-catherine-prince-and-princess-of-wales.642321/page-1340 placed on crawler queue for double-check
+I 2022/09/29 12:13:25 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[XM_phXFapFJ5 (1745275904986185728)]} 0 1
+I 2022/09/29 12:13:25 HTCACHE * storing content of url https://community.cbr.com/, 83291 bytes
+I 2022/09/29 12:13:25 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[jF7bOs7y2LE6 (-1745275905022885888)]} 0 0
+I 2022/09/29 12:13:25 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{deleteByQuery=(({!cache=false raw f=host_id_s}7y2LE6)) AND failreason_s:[* TO *] (-1745275905023934464)} 0 10
+I 2022/09/29 12:13:25 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{delete=[jF7bOs7y2LE6 (-1745275905035468800)]} 0 0
+I 2022/09/29 12:13:25 HTCACHE * storing content of url https://forum.ddigest.com/cron.php?rand=1664424785, 43 bytes
+I 2022/09/29 12:13:25 SWITCHBOARD * Not Condensed Resource 'https://forum.ddigest.com/cron.php?rand=1664424785': indexing of media not wanted by crawl profile
+I 2022/09/29 12:13:25 HTCACHE * storing content of url https://forum.axishistory.com/, 63921 bytes
+I 2022/09/29 12:13:25 SWITCHBOARD * CRAWL: ADDED 130 LINKS FROM https://forum.axishistory.com/, STACKING TIME = 5, PARSING TIME = 16
+I 2022/09/29 12:13:25 HTCACHE * storing content of url https://www.zita.be/nieuws/entertainment/ophef-over-weinig-verhullende-outfit-van-cardi-b-trek-je-jurk-eens-omhoog-foto, 376393 bytes
+I 2022/09/29 12:13:25 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL https://mathhelpforum.com/forum.php
+I 2022/09/29 12:13:25 LOADER * CRAWLER ..Redirecting request to: https://mathhelpforum.com/math/
+I 2022/09/29 12:13:25 REJECTED * https://mathhelpforum.com/forum.php - cannot load: load error - CRAWLER Redirect of URL=https://mathhelpforum.com/forum.php to https://mathhelpforum.com/math/ placed on crawler queue for double-check
+I 2022/09/29 12:13:25 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[eed5Vs3HEcD6 (1745275905131937792)]} 0 1
+I 2022/09/29 12:13:25 SWITCHBOARD * Excluded 23 words in URL https://forum.axishistory.com/
+I 2022/09/29 12:13:25 Fulltext * indexing: fYQDP0wrqFc5 https://forum.axishistory.com/
+I 2022/09/29 12:13:25 SWITCHBOARD * Not Condensed Resource 'https://www.zita.be/nieuws/entertainment/ophef-over-weinig-verhullende-outfit-van-cardi-b-trek-je-jurk-eens-omhoog-foto': denied by document-attached noindexing rule
+I 2022/09/29 12:13:25 REJECTED * https://www.zita.be/nieuws/entertainment/ophef-over-weinig-verhullende-outfit-van-cardi-b-trek-je-jurk-eens-omhoog-foto - denied by document-attached noindexing rule
+I 2022/09/29 12:13:25 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[fYQDP0wrqFc5 (1745275905169686528)]} 0 4
+I 2022/09/29 12:13:25 SWITCHBOARD * *Indexed 675 words in URL https://forum.axishistory.com/ [fYQDP0wrqFc5]
+	Description:  Axis History Forum - Index page
+	MimeType: text/html | Charset: UTF-8 | Size: 13883 bytes | 
+	LinkStorageTime: 5 ms | indexStorageTime: 4 ms
+I 2022/09/29 12:13:25 HTCACHE * storing content of url https://www.freeadzforum.com/index.php?PHPSESSID=92a06er7nmkmcn2u2uv92so1h1;wwwRedirect, 33857 bytes
+I 2022/09/29 12:13:25 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/www.freeadzforum.com-#Cnn5D5.443 with 0 urls.
+I 2022/09/29 12:13:25 SWITCHBOARD * CRAWL: ADDED 74 LINKS FROM https://www.freeadzforum.com/index.php?PHPSESSID=92a06er7nmkmcn2u2uv92so1h1;wwwRedirect, STACKING TIME = 4, PARSING TIME = 8
+I 2022/09/29 12:13:25 SWITCHBOARD * Not Condensed Resource 'https://www.freeadzforum.com/index.php?PHPSESSID=92a06er7nmkmcn2u2uv92so1h1;wwwRedirect': denied by document-attached noindexing rule
+I 2022/09/29 12:13:25 REJECTED * https://www.freeadzforum.com/index.php?PHPSESSID=92a06er7nmkmcn2u2uv92so1h1;wwwRedirect - denied by document-attached noindexing rule
+I 2022/09/29 12:13:25 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/www.simplemachines.org-#m0T9Qy.443 with 0 urls.
+I 2022/09/29 12:13:25 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/www.createaforum.com-#sOigQZ.80 with 0 urls.
+I 2022/09/29 12:13:25 HTCACHE * storing content of url https://github.com/slackero/phpwcms/releases, 279382 bytes
+I 2022/09/29 12:13:25 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/validator.w3.org-#gJ9XnQ.80 with 0 urls.
+I 2022/09/29 12:13:25 HostQueue * opened HostQueue /home/john/YaCy/DATA/INDEX/freeworld/QUEUES/CrawlerCoreStacks/www.smfads.com-#og6QtY.80 with 0 urls.
+I 2022/09/29 12:13:25 HTCACHE * storing content of url https://forums.mozillazine.jp/index.php, 26717 bytes

@@ -69,6 +69,9 @@ jwilll07
 Exact blacklist
 mikrotk-ip-addr	
 myrouter	
-Exact blacklist
 (opentip.kaspersky.xn--com-0da)
 www.cnet.com
+internal-caserver	
+Exact blacklist
+dudeserver	
+your_ip

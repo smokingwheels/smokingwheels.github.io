@@ -1,6 +1,6 @@
 127.0.0.1       localhost
 127.0.1.1       john-desktop
-#broken
+#broken sorry spotify wont work
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
 fe00::0 ip6-localnet
@@ -8,6 +8,53 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 #spotify
+#Ubuntu release download site 
+127.0.0.1 91.189.91.124
+# storing cached images yacy with pihole and other things.
+127.0.0.1 bilder.pcwelt.de
+127.0.0.1 www.bookforum.com
+127.0.0.1 www.cnet.com
+127.0.0.1 www.vedard.com	
+127.0.0.1 pkp.sfu.ca	
+127.0.0.1 static.softcatala.org	
+127.0.0.1 slon.fr	
+127.0.0.1 www.nctm.org	
+127.0.0.1 packages.debian.org	
+127.0.0.1 www.nationmaster.com	
+127.0.0.1 www.justice.gov	
+127.0.0.1 static.tcimg.net	
+127.0.0.1 aikidojournal.com	
+127.0.0.1 www.ableton.com		
+127.0.0.1 korriban	
+127.0.0.1 ipv4_1	
+127.0.0.1 ftp.ncdc	
+127.0.0.1 www.mikr	
+127.0.0.1 hotspoturl	
+127.0.0.1 myfirewall	
+127.0.0.1 allanrvj	
+127.0.0.1 aftp.cmdl	
+127.0.0.1 исповедь (xn--b1aeck4afn7g)	
+127.0.0.1 download.qgis.org	
+127.0.0.1 ftp.estpak.ee-s	
+127.0.0.1 cssbattle.devtips	
+127.0.0.1 your.traccar.server.url	
+127.0.0.1 device.firstaddress	
+127.0.0.1 xxx.xx	
+127.0.0.1 jwilll07	
+127.0.0.1 mikrotk-ip-addr	
+127.0.0.1 myrouter	
+127.0.0.1 (opentip.kaspersky.xn--com-0da)
+127.0.0.1 opentip.kaspersky.xn--com-0da
+127.0.0.1 www.cnet.com
+127.0.0.1 internal-caserver	
+127.0.0.1 dudeserver	
+127.0.0.1 your_ip
+127.0.0.1 welcome.gpf
+
+
+
+
+
 127.0.0.1 112.140.185.87
 127.0.0.1 128.199.125.164
 127.0.0.1 128.199.134.1

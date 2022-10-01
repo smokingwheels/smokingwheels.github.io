@@ -10,6 +10,9 @@ ff02::2 ip6-allrouters
 #spotify
 #Ubuntu release download site 
 127.0.0.1 91.189.91.124
+# Results Windows depth 4
+
+127.0.0.1 www.epe.admin.cam.ac.uk
 # storing cached images yacy with pihole and other things.
 127.0.0.1 bilder.pcwelt.de
 127.0.0.1 www.bookforum.com

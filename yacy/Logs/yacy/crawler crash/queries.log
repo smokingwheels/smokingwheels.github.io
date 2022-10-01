@@ -1,0 +1,75 @@
+20221001020859 0 sq "icinga"
+20221001020859 0 sq "schuler"
+20221001020859 0 sq "schupi"
+20221001020859 0 sq "neuhausen"
+20221001020859 0 sq "schulegroup"
+20221001020859 0 sq "innoxy"
+20221001020859 2 sq "ettlingen"
+20221001020900 11 sq "karlsruhe"
+20221001020959 0 sq ("bechtle" AND "ettlingen")
+20221001020959 0 sq ("ecg" AND "kehl")
+20221001020959 0 sq ("neuhausen" AND "enzkreis")
+20221001020959 0 sq "knittlingen"
+20221001020959 5 sq "handball"
+20221001020959 0 sq ("tsv" AND "knittlingen")
+20221001021707 48 sq "wikipédia"
+20221001022550 1332 sq "test"
+20221001023023 1454 sq "test"
+20221001023241 1507 sq "test"
+20221001023356 1529 sq "test"
+20221001023900 1539 sq "test"
+20221001023902 0 sq "neuhausen"
+20221001023902 0 sq "innoxy"
+20221001023902 0 sq "icinga"
+20221001023902 0 sq "schulegroup"
+20221001023902 2 sq "ettlingen"
+20221001023902 0 sq "schupi"
+20221001023902 0 sq "schuler"
+20221001023902 14 sq "karlsruhe"
+20221001023908 1539 sq "test"
+20221001024001 5 sq "handball"
+20221001024001 0 sq ("ecg" AND "kehl")
+20221001024001 0 sq "knittlingen"
+20221001024001 0 sq ("neuhausen" AND "enzkreis")
+20221001024001 0 sq ("bechtle" AND "ettlingen")
+20221001024001 0 sq ("tsv" AND "knittlingen")
+20221001024010 0 sq "termine"
+20221001024155 1542 sq "test"
+20221001024204 90 sq ("test" AND "github")
+20221001025457 7 sq ("sex" AND "toys")
+20221001020059 0 qs smokingwheels pihole
+20221001030313 0 sq ("xsmall" AND "nude") AND ((images_text_t:("xsmall" AND "nude")^100.0) OR (title:("xsmall" AND "nude")^50.0) OR (keywords:("xsmall" AND "nude")^10.0) OR (text_t:("xsmall" AND "nude")))
+20221001033611 0 sq ("candy" AND "burgett")
+20221001033828 5 sq "pussy"
+20221001033902 0 sq "schupi"
+20221001033902 2 sq "ettlingen"
+20221001033902 1 sq "icinga"
+20221001033902 0 sq "schulegroup"
+20221001033902 0 sq "neuhausen"
+20221001033902 0 sq "innoxy"
+20221001033902 14 sq "karlsruhe"
+20221001033903 0 sq "schuler"
+20221001035428 30731 sq *:*
+20221001040408 0 sq "topic"
+20221001040834 0 sq "gentoo"
+20221001040901 0 sq "schupi"
+20221001040901 0 sq "schulegroup"
+20221001040901 0 sq "schuler"
+20221001040901 2 sq "ettlingen"
+20221001040902 15 sq "karlsruhe"
+20221001040902 1 sq "icinga"
+20221001040902 0 sq "neuhausen"
+20221001040902 0 sq "innoxy"
+20221001041001 0 sq ("tsv" AND "knittlingen")
+20221001041001 5 sq "handball"
+20221001041002 0 sq ("ecg" AND "kehl")
+20221001041002 0 sq ("neuhausen" AND "enzkreis")
+20221001041002 0 sq "knittlingen"
+20221001041002 0 sq ("bechtle" AND "ettlingen")
+20221001044640 0 sq "cryptomator"
+20221001044658 0 sq "cryptomator"
+20221001045023 0 sq "cryptomator"
+20221001045029 0 sq "cryptomator"
+20221001045052 0 sq "cryptomator"
+20221001045326 0 sq "cryptomator"
+20221001050416 0 sq "termine"

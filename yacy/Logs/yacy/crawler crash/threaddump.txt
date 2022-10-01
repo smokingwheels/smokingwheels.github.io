@@ -1,0 +1,1213 @@
+************* Start Thread Dump Sat Oct 01 13:31:34 AWST 2022 *******************
+
+YaCy Version: 1.925/9749
+AssignedMemory = 8388608000
+UsedMemory = 1865906072
+AvailableMemory = 6522701928
+
+
+this thread dump function can find threads that lock others, to enable this function start YaCy with 'startYACY.sh -l'
+
+THREADS WITH STATES: BLOCKED
+
+
+THREADS WITH STATES: RUNNABLE
+
+[Switchboard$21______] Thread= HTTPClient-https://www.largeformatphotography.info/forum/  id=6127 RUNNABLE
+[Switchboard$21______] at java.base@11.0.16/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:427)
+[Switchboard$21______] at app//org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:436)
+[Switchboard$21______] at app//org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:384)
+[Switchboard$21______] at app//org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+[Switchboard$21______] at app//org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+[Switchboard$21______] at app//org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+[Switchboard$21______] at app//org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.execute(HTTPClient.java:900)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:834)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:415)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:415)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadDocument(LoaderDispatcher.java:570)
+[Switchboard$21______] at app//net.yacy.search.Switchboard.stackUrl(Switchboard.java:3810)
+[Switchboard$21______] at app//net.yacy.search.Switchboard$21.run(Switchboard.java:3740)
+
+
+[AbstractBusyThread__] Thread= HTTPClient-https://forums.mozillazine.org/robots.txt daemon id=94 RUNNABLE
+[AbstractBusyThread__] at java.base@11.0.16/java.net.Socket.connect(Socket.java:609)
+[AbstractBusyThread__] at app//org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:368)
+[AbstractBusyThread__] at app//org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+[AbstractBusyThread__] at app//org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+[AbstractBusyThread__] at app//org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+[AbstractBusyThread__] at app//org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+[AbstractBusyThread__] at app//org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+[AbstractBusyThread__] at app//org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+[AbstractBusyThread__] at app//org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+[AbstractBusyThread__] at app//org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+[AbstractBusyThread__] at app//org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+[AbstractBusyThread__] at app//net.yacy.cora.protocol.http.HTTPClient.execute(HTTPClient.java:900)
+[AbstractBusyThread__] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:834)
+[AbstractBusyThread__] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[AbstractBusyThread__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[AbstractBusyThread__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[AbstractBusyThread__] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[AbstractBusyThread__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[AbstractBusyThread__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[AbstractBusyThread__] at app//net.yacy.crawler.robots.RobotsTxt.getEntry(RobotsTxt.java:192)
+[AbstractBusyThread__] at app//net.yacy.crawler.robots.RobotsTxt.getEntry(RobotsTxt.java:126)
+[AbstractBusyThread__] at app//net.yacy.crawler.data.Latency.waitingRobots(Latency.java:126)
+[AbstractBusyThread__] at app//net.yacy.crawler.data.Latency.waitingRemaining(Latency.java:217)
+[AbstractBusyThread__] at app//net.yacy.crawler.data.Latency.getDomainSleepTime(Latency.java:286)
+[AbstractBusyThread__] at app//net.yacy.crawler.HostQueue.pop(HostQueue.java:491)
+[AbstractBusyThread__] at app//net.yacy.crawler.HostBalancer.pop(HostBalancer.java:490)
+[AbstractBusyThread__] at app//net.yacy.crawler.data.NoticedURL.pop(NoticedURL.java:341)
+[AbstractBusyThread__] at app//net.yacy.crawler.data.NoticedURL.pop(NoticedURL.java:291)
+[AbstractBusyThread__] at app//net.yacy.crawler.data.CrawlQueues.coreCrawlJob(CrawlQueues.java:331)
+[AbstractBusyThread__] at app//net.yacy.search.Switchboard$10.jobImpl(Switchboard.java:1182)
+[AbstractBusyThread__] at app//net.yacy.kelondro.workflow.InstantBusyThread.job(InstantBusyThread.java:64)
+[AbstractBusyThread__] at app//net.yacy.kelondro.workflow.AbstractBusyThread.run(AbstractBusyThread.java:215)
+
+
+[Thread______________] Thread= qtp22790969-104-acceptor-1@4764adba-httpd:8090@ec1b2e4{HTTP/1.1, (http/1.1)}{0.0.0.0:8090}  id=104 RUNNABLE
+[Thread______________] at java.base@11.0.16/sun.nio.ch.ServerSocketChannelImpl.accept(ServerSocketChannelImpl.java:285)
+[Thread______________] at app//org.eclipse.jetty.server.ServerConnector.accept(ServerConnector.java:388)
+[Thread______________] at app//org.eclipse.jetty.server.AbstractConnector$Acceptor.run(AbstractConnector.java:702)
+[Thread______________] at app//org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:773)
+[Thread______________] at app//org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:905)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[CrawlQueues$Loader__] Thread= CrawlQueues.Loader(https://forums.devnetwork.net/viewforum.php?f=39) daemon id=6269 RUNNABLE
+[CrawlQueues$Loader__] at java.base@11.0.16/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.ChunkedInputStream.read(ChunkedInputStream.java:188)
+[CrawlQueues$Loader__] at app//org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+[CrawlQueues$Loader__] at app//org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:148)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.getByteArray(HTTPClient.java:951)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:846)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.data.CrawlQueues$Loader.run(CrawlQueues.java:756)
+
+
+[CrawlQueues$Loader__] Thread= HTTPClient-https://forums.securityinfowatch.com/external?type=rss2&nodeid=47 daemon id=6256 RUNNABLE
+[CrawlQueues$Loader__] at java.base@11.0.16/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:427)
+[CrawlQueues$Loader__] at app//org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:436)
+[CrawlQueues$Loader__] at app//org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:384)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.execute(HTTPClient.java:900)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:834)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.data.CrawlQueues$Loader.run(CrawlQueues.java:756)
+
+
+[Reference$ReferenceH] Thread= Reference Handler daemon id=2 RUNNABLE
+[Reference$ReferenceH] at java.base@11.0.16/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:213)
+
+
+[Switchboard$21______] Thread= HTTPClient-https://unicyclist.com/categories  id=6117 RUNNABLE
+[Switchboard$21______] at java.base@11.0.16/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+[Switchboard$21______] at app//org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+[Switchboard$21______] at app//org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+[Switchboard$21______] at app//org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+[Switchboard$21______] at app//org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+[Switchboard$21______] at app//org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+[Switchboard$21______] at app//org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+[Switchboard$21______] at app//org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+[Switchboard$21______] at app//org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+[Switchboard$21______] at app//org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+[Switchboard$21______] at app//org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+[Switchboard$21______] at app//org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+[Switchboard$21______] at app//org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.execute(HTTPClient.java:900)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:834)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:415)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadDocument(LoaderDispatcher.java:570)
+[Switchboard$21______] at app//net.yacy.search.Switchboard.stackUrl(Switchboard.java:3810)
+[Switchboard$21______] at app//net.yacy.search.Switchboard$21.run(Switchboard.java:3740)
+
+
+[CrawlQueues$Loader__] Thread= HTTPClient-https://www.wilderssecurity.com/posts/3095891/ daemon id=5944 RUNNABLE
+[CrawlQueues$Loader__] at java.base@11.0.16/java.net.Socket.connect(Socket.java:609)
+[CrawlQueues$Loader__] at app//org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:368)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.execute(HTTPClient.java:900)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:834)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.data.CrawlQueues$Loader.run(CrawlQueues.java:756)
+
+
+[CrawlQueues$Loader__] Thread= HTTPClient-https://forum.df.eu/search?searchJSON=%7B%22tag%22%3A%5B%22appsuite%22%5D%7D daemon id=6464 RUNNABLE
+[CrawlQueues$Loader__] at java.base@11.0.16/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+[CrawlQueues$Loader__] at app//org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+[CrawlQueues$Loader__] at app//org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.execute(HTTPClient.java:900)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:834)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.data.CrawlQueues$Loader.run(CrawlQueues.java:756)
+
+
+[Thread______________] Thread= InetAddress.getByName_pool-1-thread-1076  id=6238 RUNNABLE
+[Thread______________] at java.base@11.0.16/java.net.InetAddress.getByName(InetAddress.java:1256)
+[Thread______________] at app//net.yacy.cora.protocol.Domains$2.call(Domains.java:1000)
+[Thread______________] at app//net.yacy.cora.protocol.Domains$2.call(Domains.java:997)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[Switchboard$21______] Thread= HTTPClient-https://sheffieldforum.co.uk/index.php  id=6129 RUNNABLE
+[Switchboard$21______] at java.base@11.0.16/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+[Switchboard$21______] at app//org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+[Switchboard$21______] at app//org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+[Switchboard$21______] at app//org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+[Switchboard$21______] at app//org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+[Switchboard$21______] at app//org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+[Switchboard$21______] at app//org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+[Switchboard$21______] at app//org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+[Switchboard$21______] at app//org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+[Switchboard$21______] at app//org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+[Switchboard$21______] at app//org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+[Switchboard$21______] at app//org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+[Switchboard$21______] at app//org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.execute(HTTPClient.java:900)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:834)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadDocument(LoaderDispatcher.java:570)
+[Switchboard$21______] at app//net.yacy.search.Switchboard.stackUrl(Switchboard.java:3810)
+[Switchboard$21______] at app//net.yacy.search.Switchboard$21.run(Switchboard.java:3740)
+
+
+[Thread______________] Thread= HTTPClient-https://forum.xat.com/robots.txt  id=815 RUNNABLE
+[Thread______________] at java.base@11.0.16/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+[Thread______________] at app//org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+[Thread______________] at app//org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+[Thread______________] at app//org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+[Thread______________] at app//org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+[Thread______________] at app//org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+[Thread______________] at app//org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+[Thread______________] at app//org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+[Thread______________] at app//org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+[Thread______________] at app//org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+[Thread______________] at app//org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+[Thread______________] at app//org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+[Thread______________] at app//org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+[Thread______________] at app//org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+[Thread______________] at app//org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+[Thread______________] at app//org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+[Thread______________] at app//org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+[Thread______________] at app//net.yacy.cora.protocol.http.HTTPClient.execute(HTTPClient.java:900)
+[Thread______________] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:834)
+[Thread______________] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[Thread______________] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[Thread______________] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[Thread______________] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[Thread______________] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[Thread______________] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[Thread______________] at app//net.yacy.crawler.robots.RobotsTxt$1.run(RobotsTxt.java:260)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[Switchboard$21______] Thread= HTTPClient-https://forum.whiskymag.com/  id=6123 RUNNABLE
+[Switchboard$21______] at java.base@11.0.16/java.net.Socket.connect(Socket.java:609)
+[Switchboard$21______] at app//org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:368)
+[Switchboard$21______] at app//org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+[Switchboard$21______] at app//org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+[Switchboard$21______] at app//org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+[Switchboard$21______] at app//org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.execute(HTTPClient.java:900)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:834)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadDocument(LoaderDispatcher.java:570)
+[Switchboard$21______] at app//net.yacy.search.Switchboard.stackUrl(Switchboard.java:3810)
+[Switchboard$21______] at app//net.yacy.search.Switchboard$21.run(Switchboard.java:3740)
+
+
+[Thread______________] Thread= h2sc-8-thread-1  id=28 RUNNABLE
+[Thread______________] at java.base@11.0.16/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:141)
+[Thread______________] at app//org.eclipse.jetty.io.ManagedSelector.nioSelect(ManagedSelector.java:149)
+[Thread______________] at app//org.eclipse.jetty.io.ManagedSelector.select(ManagedSelector.java:156)
+[Thread______________] at app//org.eclipse.jetty.io.ManagedSelector$SelectorProducer.select(ManagedSelector.java:572)
+[Thread______________] at app//org.eclipse.jetty.io.ManagedSelector$SelectorProducer.produce(ManagedSelector.java:509)
+[Thread______________] at app//org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.produceTask(EatWhatYouKill.java:360)
+[Thread______________] at app//org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:184)
+[Thread______________] at app//org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)
+[Thread______________] at app//org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.produce(EatWhatYouKill.java:135)
+[Thread______________] at app//org.eclipse.jetty.io.ManagedSelector$$Lambda$140/0x00000008401d8840.run(Unknown Source)
+[Thread______________] at app//org.apache.solr.common.util.ExecutorUtil$MDCAwareThreadPoolExecutor.lambda$execute$0(ExecutorUtil.java:218)
+[Thread______________] at app//org.apache.solr.common.util.ExecutorUtil$MDCAwareThreadPoolExecutor$$Lambda$141/0x0000000840270040.run(Unknown Source)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[AbstractBusyThread__] Thread= BusyThread Switchboard.cleanupJob daemon id=91 RUNNABLE
+[AbstractBusyThread__] at java.base@11.0.16/java.lang.Thread.getAllStackTraces(Thread.java:1653)
+[AbstractBusyThread__] at app//net.yacy.kelondro.logging.ThreadDump.getAllStackTraces(ThreadDump.java:106)
+[AbstractBusyThread__] at app//net.yacy.kelondro.logging.ThreadDump.threaddump(ThreadDump.java:502)
+[AbstractBusyThread__] at app//net.yacy.search.Switchboard.cleanupJob(Switchboard.java:2664)
+[AbstractBusyThread__] at app//net.yacy.search.Switchboard$7.jobImpl(Switchboard.java:1110)
+[AbstractBusyThread__] at app//net.yacy.kelondro.workflow.InstantBusyThread.job(InstantBusyThread.java:64)
+[AbstractBusyThread__] at app//net.yacy.kelondro.workflow.AbstractBusyThread.run(AbstractBusyThread.java:215)
+
+
+[Switchboard$21______] Thread= parsing + https://community.mybb.com/  id=6128 RUNNABLE
+[Switchboard$21______] at app//net.yacy.document.parser.html.TransformerWriter.write(TransformerWriter.java:482) [for (int i = off ; i < (len - off) ; i++) this.write(b[i]);]
+[Switchboard$21______] at app//org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1316)
+[Switchboard$21______] at app//org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1278)
+[Switchboard$21______] at app//net.yacy.document.parser.htmlParser.parseToScraper(htmlParser.java:319)
+[Switchboard$21______] at app//net.yacy.document.parser.htmlParser.parseWithLimits(htmlParser.java:145)
+[Switchboard$21______] at app//net.yacy.document.parser.htmlParser.parseWithLimits(htmlParser.java:136)
+[Switchboard$21______] at app//net.yacy.document.TextParser.parseSource(TextParser.java:555)
+[Switchboard$21______] at app//net.yacy.document.TextParser.parseSource(TextParser.java:239)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.Response.parse(Response.java:876)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadDocument(LoaderDispatcher.java:579)
+[Switchboard$21______] at app//net.yacy.search.Switchboard.stackUrl(Switchboard.java:3810)
+[Switchboard$21______] at app//net.yacy.search.Switchboard$21.run(Switchboard.java:3740)
+
+
+[Thread______________] Thread= condenser-https://www.apdaweb.org/category/judicial-branch/  id=4279 RUNNABLE
+[Thread______________] at java.base@11.0.16/java.util.regex.Matcher.replaceAll(Matcher.java:1178)
+[Thread______________] at app//com.cybozu.labs.langdetect.Detector.append(Detector.java:167)
+[Thread______________] at app//net.yacy.document.language.Identificator.add(Identificator.java:64)
+[Thread______________] at app//net.yacy.document.Condenser.&lt;init&gt;(Condenser.java:210)
+[Thread______________] at app//net.yacy.search.Switchboard.condenseDocument(Switchboard.java:3382)
+[Thread______________] at app//net.yacy.search.Switchboard.lambda$new$2(Switchboard.java:1081)
+[Thread______________] at app//net.yacy.search.Switchboard$$Lambda$445/0x000000084051c840.process(Unknown Source)
+[Thread______________] at app//net.yacy.kelondro.workflow.InstantBlockingThread.job(InstantBlockingThread.java:72)
+[Thread______________] at app//net.yacy.kelondro.workflow.AbstractBlockingThread.run(AbstractBlockingThread.java:82)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[Thread______________] Thread= HTTPClient.execute_pool-1-thread-1054  id=6056 RUNNABLE
+[Thread______________] at java.base@11.0.16/java.net.Socket.connect(Socket.java:609)
+[Thread______________] at app//org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+[Thread______________] at app//org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+[Thread______________] at app//org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+[Thread______________] at app//org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+[Thread______________] at app//org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+[Thread______________] at app//org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+[Thread______________] at app//org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+[Thread______________] at app//org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+[Thread______________] at app//org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+[Thread______________] at app//org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+[Thread______________] at app//net.yacy.cora.protocol.http.HTTPClient$2.call(HTTPClient.java:885)
+[Thread______________] at app//net.yacy.cora.protocol.http.HTTPClient$2.call(HTTPClient.java:882)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[Switchboard$21______] Thread= HTTPClient-https://community.infosecinstitute.com/  id=6119 RUNNABLE
+[Switchboard$21______] at java.base@11.0.16/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:427)
+[Switchboard$21______] at app//org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:436)
+[Switchboard$21______] at app//org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:384)
+[Switchboard$21______] at app//org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+[Switchboard$21______] at app//org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+[Switchboard$21______] at app//org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+[Switchboard$21______] at app//org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.execute(HTTPClient.java:900)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:834)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadDocument(LoaderDispatcher.java:570)
+[Switchboard$21______] at app//net.yacy.search.Switchboard.stackUrl(Switchboard.java:3810)
+[Switchboard$21______] at app//net.yacy.search.Switchboard$21.run(Switchboard.java:3740)
+
+
+[CrawlQueues$Loader__] Thread= CrawlQueues.Loader(https://downloadsapachefriends.global.ssl.fastly.net/8.1.6/xampp-linux-x64-8.1.6-0-installer.run?from_af=true) daemon id=6244 RUNNABLE
+[CrawlQueues$Loader__] at java.base@11.0.16/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:197)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:176)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.ContentLengthInputStream.read(ContentLengthInputStream.java:198)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.ContentLengthInputStream.close(ContentLengthInputStream.java:101)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.ResponseEntityProxy.streamClosed(ResponseEntityProxy.java:142)
+[CrawlQueues$Loader__] at app//org.apache.http.conn.EofSensorInputStream.checkClose(EofSensorInputStream.java:228)
+[CrawlQueues$Loader__] at app//org.apache.http.conn.EofSensorInputStream.close(EofSensorInputStream.java:172)
+[CrawlQueues$Loader__] at app//org.apache.http.util.EntityUtils.consume(EntityUtils.java:90)
+[CrawlQueues$Loader__] at app//org.apache.http.util.EntityUtils.consumeQuietly(EntityUtils.java:69)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.close(HTTPClient.java:817)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:850)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.data.CrawlQueues$Loader.run(CrawlQueues.java:756)
+
+
+[CrawlQueues$Loader__] Thread= CrawlQueues.Loader(https://www.podcastalley.com/) daemon id=6242 RUNNABLE
+[CrawlQueues$Loader__] at java.base@11.0.16/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1065)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.ChunkedInputStream.getChunkSize(ChunkedInputStream.java:261)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.ChunkedInputStream.nextChunk(ChunkedInputStream.java:222)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.io.ChunkedInputStream.read(ChunkedInputStream.java:183)
+[CrawlQueues$Loader__] at app//org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:135)
+[CrawlQueues$Loader__] at java.base@11.0.16/java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:243)
+[CrawlQueues$Loader__] at java.base@11.0.16/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:159)
+[CrawlQueues$Loader__] at java.base@11.0.16/java.util.zip.GZIPInputStream.read(GZIPInputStream.java:118)
+[CrawlQueues$Loader__] at java.base@11.0.16/java.io.FilterInputStream.read(FilterInputStream.java:107)
+[CrawlQueues$Loader__] at app//org.apache.http.client.entity.LazyDecompressingInputStream.read(LazyDecompressingInputStream.java:64)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.getByteArray(HTTPClient.java:951)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:846)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.data.CrawlQueues$Loader.run(CrawlQueues.java:756)
+
+
+[CrawlQueues$Loader__] Thread= HTTPClient-http://www.dccoapps.com/target daemon id=6019 RUNNABLE
+[CrawlQueues$Loader__] at java.base@11.0.16/java.net.Socket.connect(Socket.java:609)
+[CrawlQueues$Loader__] at app//org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+[CrawlQueues$Loader__] at app//org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.execute(HTTPClient.java:900)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:834)
+[CrawlQueues$Loader__] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[CrawlQueues$Loader__] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.data.CrawlQueues$Loader.run(CrawlQueues.java:756)
+
+
+[Thread______________] Thread= qtp22790969-4660  id=4660 RUNNABLE
+[Thread______________] at java.base@11.0.16/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:141)
+[Thread______________] at app//org.eclipse.jetty.io.ManagedSelector.nioSelect(ManagedSelector.java:149)
+[Thread______________] at app//org.eclipse.jetty.io.ManagedSelector.select(ManagedSelector.java:156)
+[Thread______________] at app//org.eclipse.jetty.io.ManagedSelector$SelectorProducer.select(ManagedSelector.java:572)
+[Thread______________] at app//org.eclipse.jetty.io.ManagedSelector$SelectorProducer.produce(ManagedSelector.java:509)
+[Thread______________] at app//org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.produceTask(EatWhatYouKill.java:360)
+[Thread______________] at app//org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:184)
+[Thread______________] at app//org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)
+[Thread______________] at app//org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129)
+[Thread______________] at app//org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375)
+[Thread______________] at app//org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:773)
+[Thread______________] at app//org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:905)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+
+THREADS WITH STATES: TIMED_WAITING
+
+[AbstractBusyThread__] Thread= BusyThread Network.publishSeedList daemon id=95 TIMED_WAITING
+[AbstractBusyThread__] at java.base@11.0.16/java.lang.Thread.sleep(Native Method)
+[AbstractBusyThread__] at app//net.yacy.kelondro.workflow.AbstractBusyThread.ratz(AbstractBusyThread.java:266)
+[AbstractBusyThread__] at app//net.yacy.kelondro.workflow.AbstractBusyThread.run(AbstractBusyThread.java:208)
+
+
+[Switchboard$21______] Thread= HTTPClient-https://webicy.com/  id=6121 TIMED_WAITING
+[Switchboard$21______] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[Switchboard$21______] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+[Switchboard$21______] at java.base@11.0.16/java.util.concurrent.FutureTask.awaitDone(FutureTask.java:444)
+[Switchboard$21______] at java.base@11.0.16/java.util.concurrent.FutureTask.get(FutureTask.java:203)
+[Switchboard$21______] at app//com.google.common.util.concurrent.SimpleTimeLimiter.callWithTimeout(SimpleTimeLimiter.java:156)
+[Switchboard$21______] at app//net.yacy.cora.protocol.Domains.dnsResolve(Domains.java:997)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient$1.resolve(HTTPClient.java:257)
+[Switchboard$21______] at app//org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+[Switchboard$21______] at app//org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+[Switchboard$21______] at app//org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+[Switchboard$21______] at app//org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+[Switchboard$21______] at app//org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.execute(HTTPClient.java:900)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:834)
+[Switchboard$21______] at app//net.yacy.cora.protocol.http.HTTPClient.GETbytes(HTTPClient.java:446)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:374)
+[Switchboard$21______] at app//net.yacy.crawler.retrieval.HTTPLoader.load(HTTPLoader.java:85)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadInternal(LoaderDispatcher.java:243)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:181)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadDocument(LoaderDispatcher.java:570)
+[Switchboard$21______] at app//net.yacy.search.Switchboard.stackUrl(Switchboard.java:3810)
+[Switchboard$21______] at app//net.yacy.search.Switchboard$21.run(Switchboard.java:3740)
+
+
+[Switchboard$21______] Thread= Switchboard.stackURLs-2-692YGq973Fbc  id=6116 TIMED_WAITING
+[Switchboard$21______] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[Switchboard$21______] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+[Switchboard$21______] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedNanos(AbstractQueuedSynchronizer.java:1079)
+[Switchboard$21______] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer.tryAcquireSharedNanos(AbstractQueuedSynchronizer.java:1369)
+[Switchboard$21______] at java.base@11.0.16/java.util.concurrent.Semaphore.tryAcquire(Semaphore.java:415)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:173)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.load(LoaderDispatcher.java:152)
+[Switchboard$21______] at app//net.yacy.repository.LoaderDispatcher.loadDocument(LoaderDispatcher.java:570)
+[Switchboard$21______] at app//net.yacy.search.Switchboard.stackUrl(Switchboard.java:3810)
+[Switchboard$21______] at app//net.yacy.search.Switchboard$21.run(Switchboard.java:3740)
+
+
+[InnocuousThread_____] Thread= Common-Cleaner daemon id=11 TIMED_WAITING
+[InnocuousThread_____] at java.base@11.0.16/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+[InnocuousThread_____] at java.base@11.0.16/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:148)
+[InnocuousThread_____] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+[InnocuousThread_____] at java.base@11.0.16/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:161)
+
+
+[Thread______________] Thread= HTTPClient-http://50.39.69.70:8090/yacy/query.html  id=5284 TIMED_WAITING
+[Thread______________] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.FutureTask.awaitDone(FutureTask.java:444)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.FutureTask.get(FutureTask.java:203)
+[Thread______________] at app//net.yacy.cora.protocol.http.HTTPClient.execute(HTTPClient.java:891)
+[Thread______________] at app//net.yacy.cora.protocol.http.HTTPClient.getContentBytes(HTTPClient.java:834)
+[Thread______________] at app//net.yacy.cora.protocol.http.HTTPClient.POSTbytes(HTTPClient.java:634)
+[Thread______________] at app//net.yacy.cora.protocol.http.HTTPClient.POSTbytes(HTTPClient.java:599)
+[Thread______________] at app//net.yacy.peers.Protocol$Post.&lt;init&gt;(Protocol.java:165)
+[Thread______________] at app//net.yacy.peers.Protocol.queryRWICount(Protocol.java:382)
+[Thread______________] at hello.respond(hello.java:176)
+[Thread______________] at jdk.internal.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+[Thread______________] at java.base@11.0.16/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[Thread______________] at java.base@11.0.16/java.lang.reflect.Method.invoke(Method.java:566)
+[Thread______________] at app//net.yacy.http.servlets.YaCyDefaultServlet.invokeServlet(YaCyDefaultServlet.java:659)
+[Thread______________] at app//net.yacy.http.servlets.YaCyDefaultServlet.handleTemplate(YaCyDefaultServlet.java:869)
+[Thread______________] at app//net.yacy.http.servlets.YaCyDefaultServlet.doGet(YaCyDefaultServlet.java:302)
+[Thread______________] at app//net.yacy.http.servlets.YaCyDefaultServlet.doPost(YaCyDefaultServlet.java:364)
+[Thread______________] at app//javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+[Thread______________] at app//javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+[Thread______________] at app//org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:791)
+[Thread______________] at app//org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:550)
+[Thread______________] at app//org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:143)
+[Thread______________] at app//org.eclipse.jetty.server.handler.gzip.GzipHandler.handle(GzipHandler.java:716)
+[Thread______________] at app//org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:578)
+[Thread______________] at app//org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+[Thread______________] at app//org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235)
+[Thread______________] at app//org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1624)
+[Thread______________] at app//org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+[Thread______________] at app//org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1435)
+[Thread______________] at app//org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188)
+[Thread______________] at app//org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:501)
+[Thread______________] at app//org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1594)
+[Thread______________] at app//org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186)
+[Thread______________] at app//org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1350)
+[Thread______________] at app//org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+[Thread______________] at app//org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:234)
+[Thread______________] at app//org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+[Thread______________] at app//net.yacy.http.CrashProtectionHandler.handle(CrashProtectionHandler.java:33)
+[Thread______________] at app//org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+[Thread______________] at app//org.eclipse.jetty.server.Server.handle(Server.java:516)
+[Thread______________] at app//org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:388)
+[Thread______________] at app//org.eclipse.jetty.server.HttpChannel$$Lambda$508/0x00000008405dbc40.dispatch(Unknown Source)
+[Thread______________] at app//org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:633)
+[Thread______________] at app//org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:380)
+[Thread______________] at app//org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:273)
+[Thread______________] at app//org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+[Thread______________] at app//org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+[Thread______________] at app//org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+[Thread______________] at app//org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336)
+[Thread______________] at app//org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313)
+[Thread______________] at app//org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)
+[Thread______________] at app//org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129)
+[Thread______________] at app//org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:375)
+[Thread______________] at app//org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:773)
+[Thread______________] at app//org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:905)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[Thread______________] Thread= Connection evictor daemon id=26 TIMED_WAITING
+[Thread______________] at java.base@11.0.16/java.lang.Thread.sleep(Native Method)
+[Thread______________] at app//org.apache.http.impl.client.IdleConnectionEvictor$1.run(IdleConnectionEvictor.java:66)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[CrawlQueues$Loader__] Thread= CrawlQueues.Loader(WAITING) daemon id=6263 TIMED_WAITING
+[CrawlQueues$Loader__] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[CrawlQueues$Loader__] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+[CrawlQueues$Loader__] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2123)
+[CrawlQueues$Loader__] at java.base@11.0.16/java.util.concurrent.ArrayBlockingQueue.poll(ArrayBlockingQueue.java:432)
+[CrawlQueues$Loader__] at app//net.yacy.crawler.data.CrawlQueues$Loader.run(CrawlQueues.java:732)
+
+
+[IndexCell$FlushThrea] Thread= IndexCell.FlushThread(/mnt/4tb/yacygbs/DATA/INDEX/freeworld/SEGMENTS/default)  id=24 TIMED_WAITING
+[IndexCell$FlushThrea] at java.base@11.0.16/java.lang.Thread.sleep(Native Method)
+[IndexCell$FlushThrea] at app//net.yacy.kelondro.rwi.IndexCell$FlushThread.run(IndexCell.java:127)
+
+
+[Thread______________] Thread= qtp22790969-100  id=100 TIMED_WAITING
+[Thread______________] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
+[Thread______________] at app//org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.reservedWait(ReservedThreadExecutor.java:304)
+[Thread______________] at app//org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:366)
+[Thread______________] at app//org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:773)
+[Thread______________] at app//org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:905)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[Thread______________] Thread= MetricsHistoryHandler-12-thread-1  id=30 TIMED_WAITING
+[Thread______________] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2123)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1054)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[AbstractBusyThread__] Thread= BusyThread Switchboard.schedulerJob daemon id=92 TIMED_WAITING
+[AbstractBusyThread__] at java.base@11.0.16/java.lang.Thread.sleep(Native Method)
+[AbstractBusyThread__] at app//net.yacy.kelondro.workflow.AbstractBusyThread.ratz(AbstractBusyThread.java:266)
+[AbstractBusyThread__] at app//net.yacy.kelondro.workflow.AbstractBusyThread.run(AbstractBusyThread.java:236)
+
+
+[Thread______________] Thread= qtp22790969-5938  id=5938 TIMED_WAITING
+[Thread______________] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2123)
+[Thread______________] at app//org.eclipse.jetty.util.BlockingArrayQueue.poll(BlockingArrayQueue.java:382)
+[Thread______________] at app//org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.idleJobPoll(QueuedThreadPool.java:842)
+[Thread______________] at app//org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:892)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[Thread______________] Thread= InetAddress.getByName_pool-1-thread-1070  id=6157 TIMED_WAITING
+[Thread______________] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[MemoryTracker_______] Thread= MemoryTracker  id=14 TIMED_WAITING
+[MemoryTracker_______] at java.base@11.0.16/java.lang.Thread.sleep(Native Method)
+[MemoryTracker_______] at app//net.yacy.search.MemoryTracker.run(MemoryTracker.java:60)
+
+
+[Switchboard$21______] Thread= Switchboard.stackURLs-12-692YGq973Fbc  id=6126 TIMED_WAITING
+[Switchboard$21______] at java.base@11.0.16/java.lang.Thread.sleep(Native Method)
+[Switchboard$21______] at app//net.yacy.search.Switchboard.stackUrl(Switchboard.java:3775)
+[Switchboard$21______] at app//net.yacy.search.Switchboard$21.run(Switchboard.java:3740)
+
+
+
+THREADS WITH STATES: WAITING
+
+[CloserThread________] Thread= Thread-2  id=33 WAITING
+[CloserThread________] at java.base@11.0.16/java.lang.Object.wait(Object.java:328)
+[CloserThread________] at app//org.apache.solr.core.CloserThread.run(CoreContainer.java:2281)
+
+
+[Thread______________] Thread= RobotsTxt_pool-1-thread-382  id=798 WAITING
+[Thread______________] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2081)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:433)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1054)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[Thread______________] Thread= SolrRrdBackendFactory-11-thread-2  id=165 WAITING
+[Thread______________] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2081)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1177)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1054)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[IODispatcher________] Thread= IODispatcher  id=21 WAITING
+[IODispatcher________] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[IODispatcher________] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+[IODispatcher________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:885)
+[IODispatcher________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1039)
+[IODispatcher________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1345)
+[IODispatcher________] at java.base@11.0.16/java.util.concurrent.Semaphore.acquire(Semaphore.java:318)
+[IODispatcher________] at app//net.yacy.kelondro.rwi.IODispatcher.run(IODispatcher.java:154)
+
+
+[Thread______________] Thread= Java2D Disposer daemon id=115 WAITING
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[Thread______________] Thread= condenseDocument_pool-1-thread-429  id=1412 WAITING
+[Thread______________] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2081)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:433)
+[Thread______________] at app//net.yacy.kelondro.workflow.WorkflowProcessor.take(WorkflowProcessor.java:126)
+[Thread______________] at app//net.yacy.kelondro.workflow.AbstractBlockingThread.run(AbstractBlockingThread.java:73)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[Finalizer$FinalizerT] Thread= Finalizer daemon id=3 WAITING
+[Finalizer$FinalizerT] at java.base@11.0.16/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:170)
+
+
+[yacy________________] Thread= main  id=1 WAITING
+[yacy________________] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[yacy________________] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+[yacy________________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:885)
+[yacy________________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1039)
+[yacy________________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1345)
+[yacy________________] at java.base@11.0.16/java.util.concurrent.Semaphore.acquire(Semaphore.java:318)
+[yacy________________] at app//net.yacy.search.Switchboard.waitForShutdown(Switchboard.java:4673)
+[yacy________________] at app//net.yacy.yacy.startup(yacy.java:390)
+[yacy________________] at app//net.yacy.yacy.main(yacy.java:827)
+
+
+[Thread______________] Thread= qtp22790969-103-acceptor-0@7923e9c6-httpd:8090@ec1b2e4{HTTP/1.1, (http/1.1)}{0.0.0.0:8090}  id=103 WAITING
+[Thread______________] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer.parkAndCheckInterrupt(AbstractQueuedSynchronizer.java:885)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireQueued(AbstractQueuedSynchronizer.java:917)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquire(AbstractQueuedSynchronizer.java:1240)
+[Thread______________] at java.base@11.0.16/java.util.concurrent.locks.ReentrantLock.lock(ReentrantLock.java:267)
+[Thread______________] at java.base@11.0.16/sun.nio.ch.ServerSocketChannelImpl.accept(ServerSocketChannelImpl.java:275)
+[Thread______________] at app//org.eclipse.jetty.server.ServerConnector.accept(ServerConnector.java:388)
+[Thread______________] at app//org.eclipse.jetty.server.AbstractConnector$Acceptor.run(AbstractConnector.java:702)
+[Thread______________] at app//org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:773)
+[Thread______________] at app//org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:905)
+[Thread______________] at java.base@11.0.16/java.lang.Thread.run(Thread.java:829)
+
+
+[WebStructureGraph$Pu] Thread= WebStructureGraph.PublicRefDNSResolvingProcess  id=66 WAITING
+[WebStructureGraph$Pu] at java.base@11.0.16/jdk.internal.misc.Unsafe.park(Native Method)
+[WebStructureGraph$Pu] at java.base@11.0.16/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
+[WebStructureGraph$Pu] at java.base@11.0.16/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2081)
+[WebStructureGraph$Pu] at java.base@11.0.16/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:433)
+[WebStructureGraph$Pu] at app//net.yacy.peers.graphics.WebStructureGraph$PublicRefDNSResolvingProcess.run(WebStructureGraph.java:190)
+
+
+
+THREADS WITH STATES: NEW
+
+
+THREADS WITH STATES: TERMINATED
+
+
+************* End Thread Dump Sat Oct 01 13:31:34 AWST 2022 *******************
+
+Thread list from ThreadMXBean, 394 threads:
+main
+Reference Handler
+Finalizer
+Signal Dispatcher
+Common-Cleaner
+MemoryTracker
+Connection evictor
+IODispatcher
+IndexCell.FlushThread(/mnt/4tb/yacygbs/DATA/INDEX/freeworld/SEGMENTS/default)
+h2sc-6-thread-1
+Connection evictor
+Connection evictor
+h2sc-8-thread-1
+SolrRrdBackendFactory-11-thread-1
+MetricsHistoryHandler-12-thread-1
+Thread-2
+searcherExecutor-16-thread-1
+searcherExecutor-17-thread-1
+WebStructureGraph.PublicRefDNSResolvingProcess
+BusyThread Switchboard.cleanupJob
+BusyThread Switchboard.schedulerJob
+BusyThread Switchboard.surrogateProcess
+HTTPClient-https://forums.mozillazine.org/robots.txt
+BusyThread Network.publishSeedList
+BusyThread Network.peerPing
+BusyThread Switchboard.dhtTransferJob
+qtp22790969-100
+qtp22790969-103-acceptor-0@7923e9c6-httpd:8090@ec1b2e4{HTTP/1.1, (http/1.1)}{0.0.0.0:8090}
+qtp22790969-104-acceptor-1@4764adba-httpd:8090@ec1b2e4{HTTP/1.1, (http/1.1)}{0.0.0.0:8090}
+qtp22790969-105-acceptor-2@896856f-httpd:8090@ec1b2e4{HTTP/1.1, (http/1.1)}{0.0.0.0:8090}
+qtp22790969-106-acceptor-3@5022b666-httpd:8090@ec1b2e4{HTTP/1.1, (http/1.1)}{0.0.0.0:8090}
+Session-HouseKeeper-173f73e7-1
+Connector-Scheduler-ec1b2e4-1
+Java2D Disposer
+SolrRrdBackendFactory-11-thread-2
+transferDocumentIndex_pool-1-thread-62
+commitScheduler-25-thread-1
+commitScheduler-24-thread-1
+RobotsTxt_pool-1-thread-80
+parseDocument_pool-1-thread-81
+CrawlStacker_pool-1-thread-82
+CrawlStacker_pool-1-thread-83
+CrawlStacker_pool-1-thread-84
+CrawlStacker_pool-1-thread-85
+CrawlStacker_pool-1-thread-86
+CrawlStacker_pool-1-thread-87
+RobotsTxt_pool-1-thread-88
+CrawlStacker_pool-1-thread-89
+CrawlStacker_pool-1-thread-90
+RobotsTxt_pool-1-thread-91
+RobotsTxt_pool-1-thread-92
+condenseDocument_pool-1-thread-93
+RobotsTxt_pool-1-thread-94
+RobotsTxt_pool-1-thread-95
+RobotsTxt_pool-1-thread-96
+RobotsTxt_pool-1-thread-97
+RobotsTxt_pool-1-thread-98
+RobotsTxt_pool-1-thread-99
+RobotsTxt_pool-1-thread-102
+webStructureAnalysis_pool-1-thread-104
+storeDocumentIndex_pool-1-thread-105
+RobotsTxt_pool-1-thread-107
+RobotsTxt_pool-1-thread-108
+RobotsTxt_pool-1-thread-110
+RobotsTxt_pool-1-thread-112
+RobotsTxt_pool-1-thread-114
+RobotsTxt_pool-1-thread-115
+RobotsTxt_pool-1-thread-116
+RobotsTxt_pool-1-thread-117
+RobotsTxt_pool-1-thread-118
+RobotsTxt_pool-1-thread-119
+RobotsTxt_pool-1-thread-120
+RobotsTxt_pool-1-thread-121
+RobotsTxt_pool-1-thread-123
+RobotsTxt_pool-1-thread-124
+RobotsTxt_pool-1-thread-125
+RobotsTxt_pool-1-thread-126
+RobotsTxt_pool-1-thread-127
+condenseDocument_pool-1-thread-128
+RobotsTxt_pool-1-thread-132
+RobotsTxt_pool-1-thread-133
+RobotsTxt_pool-1-thread-134
+RobotsTxt_pool-1-thread-135
+RobotsTxt_pool-1-thread-136
+RobotsTxt_pool-1-thread-137
+RobotsTxt_pool-1-thread-138
+RobotsTxt_pool-1-thread-139
+RobotsTxt_pool-1-thread-140
+RobotsTxt_pool-1-thread-141
+RobotsTxt_pool-1-thread-142
+RobotsTxt_pool-1-thread-143
+RobotsTxt_pool-1-thread-144
+RobotsTxt_pool-1-thread-145
+RobotsTxt_pool-1-thread-146
+RobotsTxt_pool-1-thread-147
+RobotsTxt_pool-1-thread-148
+parseDocument_pool-1-thread-151
+RobotsTxt_pool-1-thread-152
+RobotsTxt_pool-1-thread-154
+RobotsTxt_pool-1-thread-155
+RobotsTxt_pool-1-thread-157
+RobotsTxt_pool-1-thread-160
+RobotsTxt_pool-1-thread-161
+RobotsTxt_pool-1-thread-162
+RobotsTxt_pool-1-thread-165
+HTTPClient-https://forum.twilightlexicon.com/robots.txt
+RobotsTxt_pool-1-thread-171
+RobotsTxt_pool-1-thread-172
+RobotsTxt_pool-1-thread-173
+RobotsTxt_pool-1-thread-176
+RobotsTxt_pool-1-thread-177
+RobotsTxt_pool-1-thread-179
+RobotsTxt_pool-1-thread-181
+RobotsTxt_pool-1-thread-183
+RobotsTxt_pool-1-thread-186
+RobotsTxt_pool-1-thread-187
+RobotsTxt_pool-1-thread-189
+RobotsTxt_pool-1-thread-190
+RobotsTxt_pool-1-thread-192
+RobotsTxt_pool-1-thread-194
+RobotsTxt_pool-1-thread-196
+RobotsTxt_pool-1-thread-198
+RobotsTxt_pool-1-thread-200
+RobotsTxt_pool-1-thread-202
+RobotsTxt_pool-1-thread-204
+RobotsTxt_pool-1-thread-207
+RobotsTxt_pool-1-thread-209
+RobotsTxt_pool-1-thread-210
+RobotsTxt_pool-1-thread-213
+RobotsTxt_pool-1-thread-214
+RobotsTxt_pool-1-thread-216
+RobotsTxt_pool-1-thread-218
+RobotsTxt_pool-1-thread-221
+RobotsTxt_pool-1-thread-222
+RobotsTxt_pool-1-thread-223
+RobotsTxt_pool-1-thread-226
+RobotsTxt_pool-1-thread-227
+RobotsTxt_pool-1-thread-229
+RobotsTxt_pool-1-thread-231
+RobotsTxt_pool-1-thread-234
+RobotsTxt_pool-1-thread-235
+RobotsTxt_pool-1-thread-237
+RobotsTxt_pool-1-thread-238
+RobotsTxt_pool-1-thread-240
+RobotsTxt_pool-1-thread-242
+RobotsTxt_pool-1-thread-243
+RobotsTxt_pool-1-thread-245
+RobotsTxt_pool-1-thread-247
+RobotsTxt_pool-1-thread-249
+RobotsTxt_pool-1-thread-251
+RobotsTxt_pool-1-thread-253
+RobotsTxt_pool-1-thread-255
+RobotsTxt_pool-1-thread-256
+RobotsTxt_pool-1-thread-258
+RobotsTxt_pool-1-thread-261
+RobotsTxt_pool-1-thread-262
+RobotsTxt_pool-1-thread-264
+RobotsTxt_pool-1-thread-265
+RobotsTxt_pool-1-thread-268
+RobotsTxt_pool-1-thread-269
+RobotsTxt_pool-1-thread-272
+RobotsTxt_pool-1-thread-273
+RobotsTxt_pool-1-thread-275
+RobotsTxt_pool-1-thread-277
+RobotsTxt_pool-1-thread-280
+RobotsTxt_pool-1-thread-281
+RobotsTxt_pool-1-thread-283
+RobotsTxt_pool-1-thread-285
+RobotsTxt_pool-1-thread-286
+RobotsTxt_pool-1-thread-288
+RobotsTxt_pool-1-thread-289
+RobotsTxt_pool-1-thread-291
+RobotsTxt_pool-1-thread-293
+RobotsTxt_pool-1-thread-294
+RobotsTxt_pool-1-thread-296
+RobotsTxt_pool-1-thread-298
+RobotsTxt_pool-1-thread-299
+RobotsTxt_pool-1-thread-301
+RobotsTxt_pool-1-thread-304
+RobotsTxt_pool-1-thread-306
+RobotsTxt_pool-1-thread-308
+RobotsTxt_pool-1-thread-311
+RobotsTxt_pool-1-thread-314
+RobotsTxt_pool-1-thread-316
+RobotsTxt_pool-1-thread-317
+RobotsTxt_pool-1-thread-318
+RobotsTxt_pool-1-thread-319
+RobotsTxt_pool-1-thread-320
+RobotsTxt_pool-1-thread-321
+RobotsTxt_pool-1-thread-322
+RobotsTxt_pool-1-thread-323
+RobotsTxt_pool-1-thread-325
+RobotsTxt_pool-1-thread-327
+RobotsTxt_pool-1-thread-328
+RobotsTxt_pool-1-thread-333
+RobotsTxt_pool-1-thread-334
+RobotsTxt_pool-1-thread-335
+RobotsTxt_pool-1-thread-336
+RobotsTxt_pool-1-thread-337
+RobotsTxt_pool-1-thread-338
+RobotsTxt_pool-1-thread-339
+RobotsTxt_pool-1-thread-340
+RobotsTxt_pool-1-thread-341
+RobotsTxt_pool-1-thread-342
+RobotsTxt_pool-1-thread-343
+RobotsTxt_pool-1-thread-344
+RobotsTxt_pool-1-thread-345
+RobotsTxt_pool-1-thread-346
+RobotsTxt_pool-1-thread-347
+RobotsTxt_pool-1-thread-348
+RobotsTxt_pool-1-thread-349
+RobotsTxt_pool-1-thread-350
+RobotsTxt_pool-1-thread-351
+RobotsTxt_pool-1-thread-352
+RobotsTxt_pool-1-thread-353
+RobotsTxt_pool-1-thread-354
+RobotsTxt_pool-1-thread-355
+RobotsTxt_pool-1-thread-356
+RobotsTxt_pool-1-thread-357
+RobotsTxt_pool-1-thread-358
+RobotsTxt_pool-1-thread-359
+RobotsTxt_pool-1-thread-360
+RobotsTxt_pool-1-thread-361
+HTTPClient-https://community.mybb.com/robots.txt
+RobotsTxt_pool-1-thread-363
+RobotsTxt_pool-1-thread-364
+RobotsTxt_pool-1-thread-365
+RobotsTxt_pool-1-thread-366
+RobotsTxt_pool-1-thread-367
+RobotsTxt_pool-1-thread-368
+RobotsTxt_pool-1-thread-369
+RobotsTxt_pool-1-thread-370
+RobotsTxt_pool-1-thread-371
+RobotsTxt_pool-1-thread-372
+RobotsTxt_pool-1-thread-373
+RobotsTxt_pool-1-thread-374
+RobotsTxt_pool-1-thread-375
+RobotsTxt_pool-1-thread-376
+RobotsTxt_pool-1-thread-377
+RobotsTxt_pool-1-thread-378
+RobotsTxt_pool-1-thread-379
+RobotsTxt_pool-1-thread-380
+RobotsTxt_pool-1-thread-381
+RobotsTxt_pool-1-thread-382
+RobotsTxt_pool-1-thread-383
+RobotsTxt_pool-1-thread-384
+RobotsTxt_pool-1-thread-385
+RobotsTxt_pool-1-thread-386
+RobotsTxt_pool-1-thread-387
+condenseDocument_pool-1-thread-388
+RobotsTxt_pool-1-thread-389
+RobotsTxt_pool-1-thread-390
+RobotsTxt_pool-1-thread-391
+parseDocument_pool-1-thread-392
+condenseDocument_pool-1-thread-393
+webStructureAnalysis_pool-1-thread-413
+parseDocument_pool-1-thread-428
+condenseDocument_pool-1-thread-429
+condenseDocument_pool-1-thread-430
+parseDocument_pool-1-thread-431
+_LP6D0a4d7QT_pool-1-thread-435
+webStructureAnalysis_pool-1-thread-438
+webStructureAnalysis_pool-1-thread-439
+parseDocument_pool-1-thread-534
+parseDocument_pool-1-thread-539
+parseDocument_pool-1-thread-540
+webStructureAnalysis_pool-1-thread-610
+webStructureAnalysis_pool-1-thread-730
+condenseDocument_pool-1-thread-744
+condenser-https://www.apdaweb.org/category/judicial-branch/
+webStructureAnalysis_pool-1-thread-746
+webStructureAnalysis_pool-1-thread-747
+qtp22790969-4652
+qtp22790969-4660
+HTTPClient-http://85.255.233.142:8090/yacy/query.html
+HTTPClient-http://50.39.69.70:8090/yacy/query.html
+qtp22790969-5365
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-866
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-867
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-868
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-869
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-870
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-871
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-872
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-873
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-874
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-893
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-894
+qtp22790969-5446
+CrawlQueues.Loader(WAITING)
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-895
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-896
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-897
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-921
+CrawlQueues.Loader(WAITING)
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-931
+CrawlQueues.Loader(WAITING)
+HTTPClient-https://forums.raspberrypi.com/viewtopic.php?p=1983160
+CrawlQueues.Loader(WAITING)
+HTTPClient-https://forum.znyata.com/
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-987
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-988
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-1043
+qtp22790969-5938
+HTTPClient-https://www.wilderssecurity.com/posts/3095891/
+CrawlQueues.Loader(WAITING)
+qtp22790969-5957
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-1049
+HTTPClient-http://www.dccoapps.com/target
+InetAddress.getByName_pool-1-thread-1050
+qtp22790969-6048
+HTTPClient.execute_pool-1-thread-1053
+HTTPClient.execute_pool-1-thread-1054
+HTTPClient.execute_pool-1-thread-1058
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-1065
+HTTPClient.execute_pool-1-thread-1067
+qtp22790969-6113
+HTTPClient-https://forums.powerhoster.com/
+Switchboard.stackURLs-1-692YGq973Fbc
+Switchboard.stackURLs-2-692YGq973Fbc
+Switchboard.stackURLs-3-692YGq973Fbc
+HTTPClient-https://talkingcity.com/
+HTTPClient-https://community.infosecinstitute.com/
+HTTPClient-https://paymentprocessing.cc/
+HTTPClient-https://webicy.com/
+HTTPClient-https://wysiwygwebbuilder.com/forum
+HTTPClient-https://forum.whiskymag.com/
+HTTPClient-https://neosmart.net/forums
+Switchboard.stackURLs-11-692YGq973Fbc
+Switchboard.stackURLs-12-692YGq973Fbc
+HTTPClient-https://www.largeformatphotography.info/forum/
+Switchboard.stackURLs-14-692YGq973Fbc
+HTTPClient-https://sheffieldforum.co.uk/index.php
+Switchboard.stackURLs-16-692YGq973Fbc
+InetAddress.getByName_pool-1-thread-1068
+InetAddress.getByName_pool-1-thread-1069
+InetAddress.getByName_pool-1-thread-1070
+InetAddress.getByName_pool-1-thread-1071
+ArrayStack.DELETE_EXECUTOR_pool-1-thread-1072
+CrawlQueues.Loader(WAITING)
+InetAddress.getByName_pool-1-thread-1073
+InetAddress.getByName_pool-1-thread-1074
+InetAddress.getByName_pool-1-thread-1075
+CrawlQueues.Loader(WAITING)
+InetAddress.getByName_pool-1-thread-1076
+InetAddress.getByName_pool-1-thread-1077
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(https://downloadsapachefriends.global.ssl.fastly.net/8.1.6/xampp-linux-x64-8.1.6-0-installer.run?from_af=true)
+HTTPClient-https://www.politische-bildung-brandenburg.de/system/files/styles/politische_bildung_teaser_square_politische_bildung_xs_1x/private/image/2022-09-02_F%C3%B6rderung.PNG?h=561865b4&itok=FOZWiQTf
+CrawlQueues.Loader(WAITING)
+HTTPClient-https://forum.meteonetwork.it/glaciologia-a-cura-di-sgl-/109364-conca-prevala-sella-nevea-ud-15-08-09-foto-confronto-new-post.html?s=8a12ce8c89fd748790aaeec0d568d01e
+CrawlQueues.Loader(https://downloadsapachefriends.global.ssl.fastly.net/8.1.6/xampp-windows-x64-8.1.6-0-VS16-installer.exe?from_af=true)
+InetAddress.getByName_pool-1-thread-1078
+CrawlQueues.Loader(WAITING)
+HTTPClient-https://forums.securityinfowatch.com/external?type=rss2&nodeid=47
+InetAddress.getByName_pool-1-thread-1079
+CrawlQueues.Loader(WAITING)
+InetAddress.getByName_pool-1-thread-1080
+CrawlQueues.Loader(https://downloadsapachefriends.global.ssl.fastly.net/8.1.6/xampp-osx-8.1.6-0-vm.dmg?from_af=true)
+CrawlQueues.Loader(https://forums.devnetwork.net/viewforum.php?f=39)
+HTTPClient-https://forums.digitalpoint.com/forums/products-tools.14/
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+HTTPClient-https://forum.kaspersky.com/forum/kaspersky-password-manager-15/
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+HTTPClient-https://www.youtube.com/watch?v=zDnMww2G-p8
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+CrawlQueues.Loader(WAITING)
+HTTPClient-https://forum.df.eu/search?searchJSON=%7B%22tag%22%3A%5B%22appsuite%22%5D%7D
+CrawlQueues.Loader(WAITING)
+

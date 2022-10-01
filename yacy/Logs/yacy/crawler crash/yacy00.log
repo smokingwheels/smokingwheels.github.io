@@ -1,0 +1,1287 @@
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 16 words in URL https://community.infosecinstitute.com/discussion/137100/cybersecurity-weekly-travelex-pays-ransom-maze-hacks-hmr-microsoft-buys-corp-com
+I 2022/10/01 13:34:53 Fulltext * indexing: Ek0lW87oZGM6 https://community.infosecinstitute.com/discussion/137100/cybersecurity-weekly-travelex-pays-ransom-maze-hacks-hmr-microsoft-buys-corp-com
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Ek0lW87oZGM6 (1745462223976792064)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 146 words in URL https://community.infosecinstitute.com/discussion/137100/cybersecurity-weekly-travelex-pays-ransom-maze-hacks-hmr-microsoft-buys-corp-com [Ek0lW87oZGM6]
+	Description:  Cybersecurity Weekly: Travelex pays ransom, Maze hacks HMR, Microsoft buys corp.com
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 17 words in URL https://community.infosecinstitute.com/discussion/137076/cybersecurity-weekly-lokibot-spearphish-marriott-breach-zoom-vulnerability
+I 2022/10/01 13:34:53 Fulltext * indexing: rSpOo87oZGM6 https://community.infosecinstitute.com/discussion/137076/cybersecurity-weekly-lokibot-spearphish-marriott-breach-zoom-vulnerability
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[rSpOo87oZGM6 (1745462223979937792)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 136 words in URL https://community.infosecinstitute.com/discussion/137076/cybersecurity-weekly-lokibot-spearphish-marriott-breach-zoom-vulnerability [rSpOo87oZGM6]
+	Description:  Cybersecurity Weekly: LokiBot spearphish, Marriott breach, Zoom vulnerability
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 20 words in URL https://community.infosecinstitute.com/discussion/137060/cybersecurity-weekly-carding-gang-busted-tupperware-suffers-cyberattack-linksys-under-fire
+I 2022/10/01 13:34:53 Fulltext * indexing: Ucyz387oZGM6 https://community.infosecinstitute.com/discussion/137060/cybersecurity-weekly-carding-gang-busted-tupperware-suffers-cyberattack-linksys-under-fire
+I 2022/10/01 13:34:53 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL https://forum.wordreference.com/threads/has-grown-since-has-been-growing.3972815/post-20357540
+I 2022/10/01 13:34:53 LOADER * CRAWLER ..Redirecting request to: https://forum.wordreference.com/threads/has-grown-since-has-been-growing.3972815/#post-20357540
+I 2022/10/01 13:34:53 REJECTED * https://forum.wordreference.com/threads/has-grown-since-has-been-growing.3972815/post-20357540 - cannot load: load error - CRAWLER Redirect of URL=https://forum.wordreference.com/threads/has-grown-since-has-been-growing.3972815/post-20357540 to https://forum.wordreference.com/threads/has-grown-since-has-been-growing.3972815/ placed on crawler queue for double-check
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Ucyz387oZGM6 (1745462223983083520)]} 0 1
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[6oDXhX1i_fE6 (1745462223984132096)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 156 words in URL https://community.infosecinstitute.com/discussion/137060/cybersecurity-weekly-carding-gang-busted-tupperware-suffers-cyberattack-linksys-under-fire [Ucyz387oZGM6]
+	Description:  Cybersecurity Weekly: Carding gang busted, Tupperware suffers cyberattack, Linksys under fire
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 6 words in URL https://community.infosecinstitute.com/discussion/137047/how-to-fix-spectrum-wifi-ip-configuration
+I 2022/10/01 13:34:53 Fulltext * indexing: zuFAB87oZGM6 https://community.infosecinstitute.com/discussion/137047/how-to-fix-spectrum-wifi-ip-configuration
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[zuFAB87oZGM6 (1745462223985180672)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 36 words in URL https://community.infosecinstitute.com/discussion/137047/how-to-fix-spectrum-wifi-ip-configuration [zuFAB87oZGM6]
+	Description:  how to fix spectrum wifi ip configuration
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 17 words in URL https://community.infosecinstitute.com/discussion/137033/cybersecurity-weekly-covid-ransomware-truce-sodinokibi-selling-data-windows-eos-delayed
+I 2022/10/01 13:34:53 Fulltext * indexing: UC1ez87oZGM6 https://community.infosecinstitute.com/discussion/137033/cybersecurity-weekly-covid-ransomware-truce-sodinokibi-selling-data-windows-eos-delayed
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[UC1ez87oZGM6 (1745462223987277824)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 141 words in URL https://community.infosecinstitute.com/discussion/137033/cybersecurity-weekly-covid-ransomware-truce-sodinokibi-selling-data-windows-eos-delayed [UC1ez87oZGM6]
+	Description:  Cybersecurity Weekly: COVID ransomware truce, Sodinokibi selling data, Windows EoS delayed
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 17 words in URL https://community.infosecinstitute.com/discussion/136979/cybersecurity-weekly-ssl-malware-campaign-intel-vulnerability-pwnedlocker-decrypted
+I 2022/10/01 13:34:53 Fulltext * indexing: G0b0h87oZGM6 https://community.infosecinstitute.com/discussion/136979/cybersecurity-weekly-ssl-malware-campaign-intel-vulnerability-pwnedlocker-decrypted
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[G0b0h87oZGM6 (1745462223989374976)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 135 words in URL https://community.infosecinstitute.com/discussion/136979/cybersecurity-weekly-ssl-malware-campaign-intel-vulnerability-pwnedlocker-decrypted [G0b0h87oZGM6]
+	Description:  Cybersecurity Weekly: SSL malware campaign, Intel vulnerability, PwnedLocker decrypted
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 14 words in URL https://community.infosecinstitute.com/discussion/136942/cybersecurity-weekly-walgreens-leaked-pii-ultrasonic-siri-hack-clearview-data-breach
+I 2022/10/01 13:34:53 Fulltext * indexing: E9I6X87oZGM6 https://community.infosecinstitute.com/discussion/136942/cybersecurity-weekly-walgreens-leaked-pii-ultrasonic-siri-hack-clearview-data-breach
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[E9I6X87oZGM6 (1745462223991472128)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 167 words in URL https://community.infosecinstitute.com/discussion/136942/cybersecurity-weekly-walgreens-leaked-pii-ultrasonic-siri-hack-clearview-data-breach [E9I6X87oZGM6]
+	Description:  Cybersecurity Weekly: Walgreen's leaked PII, ultrasonic Siri hack, Clearview data breach
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 17 words in URL https://community.infosecinstitute.com/discussion/136880/cybersecurity-weekly-puerto-rico-loses-millions-paypal-phishing-scam-new-emotet-wi-fi-worm
+I 2022/10/01 13:34:53 Fulltext * indexing: DAiGl87oZGM6 https://community.infosecinstitute.com/discussion/136880/cybersecurity-weekly-puerto-rico-loses-millions-paypal-phishing-scam-new-emotet-wi-fi-worm
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[DAiGl87oZGM6 (1745462223993569280)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 145 words in URL https://community.infosecinstitute.com/discussion/136880/cybersecurity-weekly-puerto-rico-loses-millions-paypal-phishing-scam-new-emotet-wi-fi-worm [DAiGl87oZGM6]
+	Description:  Cybersecurity Weekly: Puerto Rico loses millions, Paypal phishing scam, new Emotet Wi-Fi worm
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 15 words in URL https://community.infosecinstitute.com/discussion/136789/cybersecurity-weekly-jeff-bezos-hacked-ddos-defense-firm-admits-to-ddos-trickbot-steals-ad-creds
+I 2022/10/01 13:34:53 Fulltext * indexing: HjZXy87oZGM6 https://community.infosecinstitute.com/discussion/136789/cybersecurity-weekly-jeff-bezos-hacked-ddos-defense-firm-admits-to-ddos-trickbot-steals-ad-creds
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://forums.futura-sciences.com/astronautique/, 92787 bytes
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[HjZXy87oZGM6 (1745462223995666432)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 146 words in URL https://community.infosecinstitute.com/discussion/136789/cybersecurity-weekly-jeff-bezos-hacked-ddos-defense-firm-admits-to-ddos-trickbot-steals-ad-creds [HjZXy87oZGM6]
+	Description:  Cybersecurity Weekly: Jeff Bezos hacked, DDoS defense firm admits to DDoS, TrickBot steals AD creds
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 12 words in URL https://community.infosecinstitute.com/discussion/136816/cybersecurity-weekly-card-details-listed-for-sale-new-phishing-attack-spotted-sprint-support-leak
+I 2022/10/01 13:34:53 Fulltext * indexing: lry4T87oZGM6 https://community.infosecinstitute.com/discussion/136816/cybersecurity-weekly-card-details-listed-for-sale-new-phishing-attack-spotted-sprint-support-leak
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[lry4T87oZGM6 (1745462223997763584)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 141 words in URL https://community.infosecinstitute.com/discussion/136816/cybersecurity-weekly-card-details-listed-for-sale-new-phishing-attack-spotted-sprint-support-leak [lry4T87oZGM6]
+	Description:  Cybersecurity Weekly: Card details listed for sale, new phishing attack spotted, Sprint support leak
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 26 words in URL https://community.infosecinstitute.com/discussion/136716/cybersecurity-weekly-california-school-ransomware-office-sway-phishing-campaign-snake-ransomware
+I 2022/10/01 13:34:53 Fulltext * indexing: WtB0387oZGM6 https://community.infosecinstitute.com/discussion/136716/cybersecurity-weekly-california-school-ransomware-office-sway-phishing-campaign-snake-ransomware
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[WtB0387oZGM6 (1745462223999860736)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 142 words in URL https://community.infosecinstitute.com/discussion/136716/cybersecurity-weekly-california-school-ransomware-office-sway-phishing-campaign-snake-ransomware [WtB0387oZGM6]
+	Description:  Cybersecurity Weekly: California school ransomware, Office Sway phishing campaign, SNAKE ransomware
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 19 words in URL https://community.infosecinstitute.com/discussion/136655/cybersecurity-weekly-wyze-data-leak-paypal-phishing-scam-prison-footage-leak
+I 2022/10/01 13:34:53 Fulltext * indexing: lh2YA87oZGM6 https://community.infosecinstitute.com/discussion/136655/cybersecurity-weekly-wyze-data-leak-paypal-phishing-scam-prison-footage-leak
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[lh2YA87oZGM6 (1745462224001957888)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 139 words in URL https://community.infosecinstitute.com/discussion/136655/cybersecurity-weekly-wyze-data-leak-paypal-phishing-scam-prison-footage-leak [lh2YA87oZGM6]
+	Description:  Cybersecurity Weekly: Wyze data leak, PayPal phishing scam, prison footage leak
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 17 words in URL https://community.infosecinstitute.com/discussion/136559/cybersecurity-weekly-ethiopia-stops-ddos-attack-floridian-city-recovers-from-bec-and-more
+I 2022/10/01 13:34:53 Fulltext * indexing: ZnKtV87oZGM6 https://community.infosecinstitute.com/discussion/136559/cybersecurity-weekly-ethiopia-stops-ddos-attack-floridian-city-recovers-from-bec-and-more
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[ZnKtV87oZGM6 (1745462224004055040)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 162 words in URL https://community.infosecinstitute.com/discussion/136559/cybersecurity-weekly-ethiopia-stops-ddos-attack-floridian-city-recovers-from-bec-and-more [ZnKtV87oZGM6]
+	Description:  Cybersecurity Weekly: Ethiopia stops DDoS attack, Floridian city recovers from BEC, and more!
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 18 words in URL https://community.infosecinstitute.com/discussion/136519/cybersecurity-weekly-gas-pump-hidden-cameras-insecure-smart-tvs-ransomware-recovery
+I 2022/10/01 13:34:53 Fulltext * indexing: VMXb587oZGM6 https://community.infosecinstitute.com/discussion/136519/cybersecurity-weekly-gas-pump-hidden-cameras-insecure-smart-tvs-ransomware-recovery
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[VMXb587oZGM6 (1745462224006152192)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 161 words in URL https://community.infosecinstitute.com/discussion/136519/cybersecurity-weekly-gas-pump-hidden-cameras-insecure-smart-tvs-ransomware-recovery [VMXb587oZGM6]
+	Description:  Cybersecurity Weekly: Gas pump hidden cameras, insecure smart TVs, ransomware recovery
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 16 words in URL https://community.infosecinstitute.com/discussion/136362/cybersecurity-weekly-equifax-default-password-discovered-nordvpn-breach-army-retires-floppy-disks
+I 2022/10/01 13:34:53 Fulltext * indexing: l-ZzA87oZGM6 https://community.infosecinstitute.com/discussion/136362/cybersecurity-weekly-equifax-default-password-discovered-nordvpn-breach-army-retires-floppy-disks
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[l-ZzA87oZGM6 (1745462224007200768)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 149 words in URL https://community.infosecinstitute.com/discussion/136362/cybersecurity-weekly-equifax-default-password-discovered-nordvpn-breach-army-retires-floppy-disks [l-ZzA87oZGM6]
+	Description:  Cybersecurity Weekly: Equifax default password discovered, NordVPN breach, Army retires floppy disks
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 17 words in URL https://community.infosecinstitute.com/discussion/136335/cybersecurity-weekly-hacker-reveals-black-market-credit-cards-linux-sudo-flaw-discovered-and-more
+I 2022/10/01 13:34:53 Fulltext * indexing: J0p4W87oZGM6 https://community.infosecinstitute.com/discussion/136335/cybersecurity-weekly-hacker-reveals-black-market-credit-cards-linux-sudo-flaw-discovered-and-more
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[J0p4W87oZGM6 (1745462224009297920)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 150 words in URL https://community.infosecinstitute.com/discussion/136335/cybersecurity-weekly-hacker-reveals-black-market-credit-cards-linux-sudo-flaw-discovered-and-more [J0p4W87oZGM6]
+	Description:  Cybersecurity Weekly: Hacker reveals black market credit cards, Linux Sudo flaw discovered and more!
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 19 words in URL https://community.infosecinstitute.com/discussion/136291/cybersecurity-weekly-nice-guy-hacker-attacks-tom-s-programmer-hacks-hackers
+I 2022/10/01 13:34:53 Fulltext * indexing: G1fAq87oZGM6 https://community.infosecinstitute.com/discussion/136291/cybersecurity-weekly-nice-guy-hacker-attacks-tom-s-programmer-hacks-hackers
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[G1fAq87oZGM6 (1745462224011395072)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 167 words in URL https://community.infosecinstitute.com/discussion/136291/cybersecurity-weekly-nice-guy-hacker-attacks-tom-s-programmer-hacks-hackers [G1fAq87oZGM6]
+	Description:  Cybersecurity Weekly: “Nice guy” hacker attacks Tom’s, programmer hacks hackers
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 27 words in URL https://community.infosecinstitute.com/discussion/136172/cybersecurity-weekly-model-response-to-cyber-attack-ecuador-data-leak-whistleblower-phishing-site
+I 2022/10/01 13:34:53 Fulltext * indexing: Rb7_M87oZGM6 https://community.infosecinstitute.com/discussion/136172/cybersecurity-weekly-model-response-to-cyber-attack-ecuador-data-leak-whistleblower-phishing-site
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Rb7_M87oZGM6 (1745462224014540800)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 405 words in URL https://community.infosecinstitute.com/discussion/136172/cybersecurity-weekly-model-response-to-cyber-attack-ecuador-data-leak-whistleblower-phishing-site [Rb7_M87oZGM6]
+	Description:  Cybersecurity Weekly: Model response to cyber attack, Ecuador data leak, whistleblower phishing site
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 17 words in URL https://community.infosecinstitute.com/discussion/136146/marketing-analytics-company-leaks-deep-profiles-of-entire-ecuador-population
+I 2022/10/01 13:34:53 Fulltext * indexing: CccJW87oZGM6 https://community.infosecinstitute.com/discussion/136146/marketing-analytics-company-leaks-deep-profiles-of-entire-ecuador-population
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[CccJW87oZGM6 (1745462224016637952)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 145 words in URL https://community.infosecinstitute.com/discussion/136146/marketing-analytics-company-leaks-deep-profiles-of-entire-ecuador-population [CccJW87oZGM6]
+	Description:  Marketing analytics company leaks deep profiles of entire Ecuador population
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 25 words in URL https://community.infosecinstitute.com/discussion/136085/cybersecurity-weekly-worm-eradication-instagram-hack-demonstration-massive-iphone-hack
+I 2022/10/01 13:34:53 Fulltext * indexing: lb_yQ87oZGM6 https://community.infosecinstitute.com/discussion/136085/cybersecurity-weekly-worm-eradication-instagram-hack-demonstration-massive-iphone-hack
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://sailingforums.com/members/eddiespaghetti.56021/, 38270 bytes
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[lb_yQ87oZGM6 (1745462224020832256)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 356 words in URL https://community.infosecinstitute.com/discussion/136085/cybersecurity-weekly-worm-eradication-instagram-hack-demonstration-massive-iphone-hack [lb_yQ87oZGM6]
+	Description:  Cybersecurity Weekly: Worm eradication, Instagram hack demonstration, massive iPhone hack
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 24 words in URL https://twitter.com/movielist_com
+I 2022/10/01 13:34:53 Fulltext * indexing: puAu2sBGIES4 https://twitter.com/movielist_com
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[puAu2sBGIES4 (1745462224027123712)]} 0 2
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 395 words in URL https://twitter.com/movielist_com [puAu2sBGIES4]
+	Description:  jpbazinet (@movielist_com) / Twitter
+	MimeType: text/html | Charset: UTF-8 | Size: 14090 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 1 words in URL https://novosti-kosmonavtiki.ru/articles/84681.html
+I 2022/10/01 13:34:53 Fulltext * indexing: VypoxQn_wXIj https://novosti-kosmonavtiki.ru/articles/84681.html
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[VypoxQn_wXIj (1745462224033415168)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 506 words in URL https://novosti-kosmonavtiki.ru/articles/84681.html [VypoxQn_wXIj]
+	Description:  Восполнение системы «Юньхай-1»
+	MimeType: text/html | Charset: UTF-8 | Size: 5831 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 2 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 25 words in URL https://forum.purseblog.com/threads/2020-holiday-pendant.1029448/page-96
+I 2022/10/01 13:34:53 Fulltext * indexing: prxehXFapFJ5 https://forum.purseblog.com/threads/2020-holiday-pendant.1029448/page-96
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[prxehXFapFJ5 (1745462224039706624)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 247 words in URL https://forum.purseblog.com/threads/2020-holiday-pendant.1029448/page-96 [prxehXFapFJ5]
+	Description:  2020 Holiday Pendant | Page 96 | PurseForum
+	MimeType: text/html | Charset: UTF-8 | Size: 4545 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 11 words in URL https://sailingforums.com/members/eddiespaghetti.56021/
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://forum.phpwcms.org/viewtopic.php?p=151258, 19460 bytes
+I 2022/10/01 13:34:53 Fulltext * indexing: FZxr5M4-sjk6 https://sailingforums.com/members/eddiespaghetti.56021/
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[FZxr5M4-sjk6 (1745462224047046656)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 122 words in URL https://sailingforums.com/members/eddiespaghetti.56021/ [FZxr5M4-sjk6]
+	Description:  EddieSpaghetti | SailingForums.com
+	MimeType: text/html | Charset: UTF-8 | Size: 1621 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 31 words in URL https://luminous-landscape.com/street-photography-in-china/
+I 2022/10/01 13:34:53 Fulltext * indexing: SL_UQsEeF5U7 https://luminous-landscape.com/street-photography-in-china/
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[SL_UQsEeF5U7 (1745462224053338112)]} 0 2
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 1054 words in URL https://luminous-landscape.com/street-photography-in-china/ [SL_UQsEeF5U7]
+	Description:  Street Photography in China - Luminous Landscape
+	MimeType: text/html | Charset: UTF-8 | Size: 20480 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 2 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 1 words in URL https://forums.futura-sciences.com/astronautique/
+I 2022/10/01 13:34:53 Fulltext * indexing: i7-cMO_dBb66 https://forums.futura-sciences.com/astronautique/
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[i7-cMO_dBb66 (1745462224062775296)]} 0 1
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 694 words in URL https://forums.futura-sciences.com/astronautique/ [i7-cMO_dBb66]
+	Description:  Forum : Astronautique
+	MimeType: text/html | Charset: ISO-8859-1 | Size: 11172 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 11 words in URL https://forum.phpwcms.org/viewtopic.php?p=151258
+I 2022/10/01 13:34:53 Fulltext * indexing: 0jDK30qsbFvw https://forum.phpwcms.org/viewtopic.php?p=151258
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[0jDK30qsbFvw (1745462224068018176)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 167 words in URL https://forum.phpwcms.org/viewtopic.php?p=151258 [0jDK30qsbFvw]
+	Description:  Problem mit Nivo Slider und WebP (Info) - phpwcms Support Forum
+	MimeType: text/html | Charset: UTF-8 | Size: 2151 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://council.smallwarsjournal.com/index.php/jrnl/art/chinas-securitization-taiwan, 62429 bytes
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://forum.rpg.net/index.php?threads/wiw-the-transformers.901969/post-24530237=, 139848 bytes
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://forums.digitalpoint.com/forums/facebook.135/, 129748 bytes
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 31 words in URL https://council.smallwarsjournal.com/index.php/jrnl/art/chinas-securitization-taiwan
+I 2022/10/01 13:34:53 Fulltext * indexing: ynfg8eeeLd16 https://council.smallwarsjournal.com/index.php/jrnl/art/chinas-securitization-taiwan
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[ynfg8eeeLd16 (1745462224151904256)]} 0 3
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 793 words in URL https://council.smallwarsjournal.com/index.php/jrnl/art/chinas-securitization-taiwan [ynfg8eeeLd16]
+	Description:  China’s Securitization of Taiwan | Small Wars Journal
+	MimeType: text/html | Charset: UTF-8 | Size: 12047 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://www.thunderbird-mail.de/lexicon/entry/11-diese-webseite-foren-thema-erstellen-und-bearbeiten/, 71188 bytes
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 27 words in URL https://forum.rpg.net/index.php?threads/wiw-the-transformers.901969/post-24530237=
+I 2022/10/01 13:34:53 Fulltext * indexing: SyjYD0SGRgpw https://forum.rpg.net/index.php?threads/wiw-the-transformers.901969/post-24530237=
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[SyjYD0SGRgpw (1745462224181264384)]} 0 2
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 852 words in URL https://forum.rpg.net/index.php?threads/wiw-the-transformers.901969/post-24530237= [SyjYD0SGRgpw]
+	Description:  RPGnet Forums
+	MimeType: text/html | Charset: UTF-8 | Size: 12173 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 21 words in URL https://www.thunderbird-mail.de/lexicon/entry/11-diese-webseite-foren-thema-erstellen-und-bearbeiten/
+I 2022/10/01 13:34:53 Fulltext * indexing: 3b_sYGA120Ii https://www.thunderbird-mail.de/lexicon/entry/11-diese-webseite-foren-thema-erstellen-und-bearbeiten/
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[3b_sYGA120Ii (1745462224198041600)]} 0 8
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 521 words in URL https://www.thunderbird-mail.de/lexicon/entry/11-diese-webseite-foren-thema-erstellen-und-bearbeiten/ [3b_sYGA120Ii]
+	Description:  Diese Webseite: Foren-Thema erstellen und bearbeiten - Thunderbird Mail DE
+	MimeType: text/html | Charset: UTF-8 | Size: 8526 bytes | 
+	LinkStorageTime: 9 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 23 words in URL https://forums.digitalpoint.com/forums/facebook.135/
+I 2022/10/01 13:34:53 Fulltext * indexing: tfK5XIF14Ap5 https://forums.digitalpoint.com/forums/facebook.135/
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[tfK5XIF14Ap5 (1745462224220061696)]} 0 2
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 605 words in URL https://forums.digitalpoint.com/forums/facebook.135/ [tfK5XIF14Ap5]
+	Description:  Facebook Forum
+	MimeType: text/html | Charset: UTF-8 | Size: 10291 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://www.kvraudio.com/forum/viewtopic.php?p=8328421, 113101 bytes
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://forum.meteonetwork.it/oltre-meteonetwork/?s=8a12ce8c89fd748790aaeec0d568d01e, 48208 bytes
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://infrance.ru/francuzskij-yazyk/, 127041 bytes
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 27 words in URL https://www.kvraudio.com/forum/viewtopic.php?p=8328421
+I 2022/10/01 13:34:53 Fulltext * indexing: pTvDfhcsF-64 https://www.kvraudio.com/forum/viewtopic.php?p=8328421
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[pTvDfhcsF-64 (1745462224272490496)]} 0 3
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 673 words in URL https://www.kvraudio.com/forum/viewtopic.php?p=8328421 [pTvDfhcsF-64]
+	Description:  Circuitry emulation - Signaldust Forum - KVR Audio
+	MimeType: text/html | Charset: UTF-8 | Size: 8869 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://forum.novosti-kosmonavtiki.ru/index.php?board=9.0, 54520 bytes
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://www.wilderssecurity.com/categories/security-products.30/, 25780 bytes
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 3 words in URL https://forum.meteonetwork.it/oltre-meteonetwork/?s=8a12ce8c89fd748790aaeec0d568d01e
+I 2022/10/01 13:34:53 Fulltext * indexing: TkAR602PqzFh https://forum.meteonetwork.it/oltre-meteonetwork/?s=8a12ce8c89fd748790aaeec0d568d01e
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[TkAR602PqzFh (1745462224306044928)]} 0 1
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 290 words in URL https://forum.meteonetwork.it/oltre-meteonetwork/?s=8a12ce8c89fd748790aaeec0d568d01e [TkAR602PqzFh]
+	Description:  Oltre MeteoNetwork
+	MimeType: text/html | Charset: ISO-8859-1 | Size: 3686 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://forum.dbpoweramp.com/search.php?s=5452c123ead6b2ee27cfc269a0cb18bb&searchid=4201497, 61480 bytes
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 16 words in URL https://www.wilderssecurity.com/categories/security-products.30/
+I 2022/10/01 13:34:53 Fulltext * indexing: K9K5z8fj65e6 https://www.wilderssecurity.com/categories/security-products.30/
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[K9K5z8fj65e6 (1745462224319676416)]} 0 0
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 169 words in URL https://www.wilderssecurity.com/categories/security-products.30/ [K9K5z8fj65e6]
+	Description:  Security Products | Wilders Security Forums
+	MimeType: text/html | Charset: UTF-8 | Size: 2056 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 2 words in URL https://forum.novosti-kosmonavtiki.ru/index.php?board=9.0
+I 2022/10/01 13:34:53 Fulltext * indexing: cnbBH0WbfJPj https://forum.novosti-kosmonavtiki.ru/index.php?board=9.0
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[cnbBH0WbfJPj (1745462224329113600)]} 0 1
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 268 words in URL https://forum.novosti-kosmonavtiki.ru/index.php?board=9.0 [cnbBH0WbfJPj]
+	Description:  Космонавтика - ее история, назначение и перспективы
+	MimeType: text/html | Charset: UTF-8 | Size: 3779 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 4 words in URL https://infrance.ru/francuzskij-yazyk/
+I 2022/10/01 13:34:53 Fulltext * indexing: 7WqBJsja2qcg https://infrance.ru/francuzskij-yazyk/
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[7WqBJsja2qcg (1745462224344842240)]} 0 1
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 541 words in URL https://infrance.ru/francuzskij-yazyk/ [7WqBJsja2qcg]
+	Description:  Французский язык - Все о Франции по-русски
+	MimeType: text/html | Charset: UTF-8 | Size: 8998 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 31 words in URL https://forum.dbpoweramp.com/search.php?s=5452c123ead6b2ee27cfc269a0cb18bb&searchid=4201497
+I 2022/10/01 13:34:53 Fulltext * indexing: xeKUY0RjhFy5 https://forum.dbpoweramp.com/search.php?s=5452c123ead6b2ee27cfc269a0cb18bb&searchid=4201497
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[xeKUY0RjhFy5 (1745462224356376576)]} 0 1
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 457 words in URL https://forum.dbpoweramp.com/search.php?s=5452c123ead6b2ee27cfc269a0cb18bb&searchid=4201497 [xeKUY0RjhFy5]
+	Description:  Search Results - dBpoweramp Forum
+	MimeType: text/html | Charset: ISO-8859-1 | Size: 9196 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://forums.onlinebookclub.org/viewforum.php?f=73, 120717 bytes
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://www.neen.it/what-s-new, 32963 bytes
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 24 words in URL https://forums.onlinebookclub.org/viewforum.php?f=73
+I 2022/10/01 13:34:53 Fulltext * indexing: oVijoOs2GXIy https://forums.onlinebookclub.org/viewforum.php?f=73
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[oVijoOs2GXIy (1745462224464379904)]} 0 3
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 834 words in URL https://forums.onlinebookclub.org/viewforum.php?f=73 [oVijoOs2GXIy]
+	Description:  "The Wicked Wives" by Gus Pelagatti - OnlineBookClub.org
+	MimeType: text/html | Charset: UTF-8 | Size: 14800 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 9 words in URL https://www.neen.it/what-s-new
+I 2022/10/01 13:34:53 Fulltext * indexing: ki8Jll2ZRNog https://www.neen.it/what-s-new
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[ki8Jll2ZRNog (1745462224485351424)]} 0 1
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 333 words in URL https://www.neen.it/what-s-new [ki8Jll2ZRNog]
+	Description:  News | neen
+	MimeType: text/html | Charset: UTF-8 | Size: 4651 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://twitter.com/LexiconPro, 846330 bytes
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://lexiconpro.com/en/products/pcm96, 38335 bytes
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://www.handicap.fr/partner-homeaccess/, 33667 bytes
+I 2022/10/01 13:34:53 HTCACHE * storing content of url https://www.envirolink.org/category/news/, 64295 bytes
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 21 words in URL https://lexiconpro.com/en/products/pcm96
+I 2022/10/01 13:34:53 Fulltext * indexing: 2Z7rrCEMmwV5 https://lexiconpro.com/en/products/pcm96
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[2Z7rrCEMmwV5 (1745462224668852224)]} 0 1
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 320 words in URL https://lexiconpro.com/en/products/pcm96 [2Z7rrCEMmwV5]
+	Description:  PCM96 | Lexicon Pro - Legendary Reverb and Effects
+	MimeType: text/html | Charset: UTF-8 | Size: 4598 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 22 words in URL https://www.envirolink.org/category/news/
+I 2022/10/01 13:34:53 Fulltext * indexing: PihtGAJrgBAx https://www.envirolink.org/category/news/
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[PihtGAJrgBAx (1745462224694018048)]} 0 1
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 332 words in URL https://www.envirolink.org/category/news/ [PihtGAJrgBAx]
+	Description:  News Archives - EnviroLink Network
+	MimeType: text/html | Charset: UTF-8 | Size: 4613 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:53 SWITCHBOARD * Excluded 1 words in URL https://www.handicap.fr/partner-homeaccess/
+I 2022/10/01 13:34:53 Fulltext * indexing: ZzRdBlGDnWKg https://www.handicap.fr/partner-homeaccess/
+I 2022/10/01 13:34:53 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[ZzRdBlGDnWKg (1745462224699260928)]} 0 1
+I 2022/10/01 13:34:53 SWITCHBOARD * *Indexed 318 words in URL https://www.handicap.fr/partner-homeaccess/ [ZzRdBlGDnWKg]
+	Description:  Home Access - Partenaires - Handicap.fr
+	MimeType: text/html | Charset: UTF-8 | Size: 3890 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:54 SWITCHBOARD * Excluded 25 words in URL https://twitter.com/LexiconPro
+I 2022/10/01 13:34:54 Fulltext * indexing: DaKkzsBGIES4 https://twitter.com/LexiconPro
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[DaKkzsBGIES4 (1745462224763224064)]} 0 2
+I 2022/10/01 13:34:54 SWITCHBOARD * *Indexed 596 words in URL https://twitter.com/LexiconPro [DaKkzsBGIES4]
+	Description:  Lexicon Pro (@lexiconpro) / Twitter
+	MimeType: text/html | Charset: UTF-8 | Size: 12005 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.allaboutjazz.com/donate
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forums.raspberrypi.com/viewforum.php?f=48
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://azbyka.ru/1/prichaschenie
+I 2022/10/01 13:34:54 LOADER * cache hit/fresh for: https://tv.winelibrary.com/wp/wp-content/uploads/video-JlLWtb-6_Bs-320x180.jpg
+I 2022/10/01 13:34:54 LOADER * CRAWLER Redirection detected ('HTTP/1.1 303 See Other') for URL https://community.cbr.com/search.php?s=689157f3b1a66e011066640f970aa393&do=finduser&userid=72295&contenttype=vBForum_Post&showposts=1
+I 2022/10/01 13:34:54 LOADER * CRAWLER ..Redirecting request to: https://community.cbr.com/search.php?s=689157f3b1a66e011066640f970aa393&searchid=12419859
+I 2022/10/01 13:34:54 REJECTED * https://community.cbr.com/search.php?s=689157f3b1a66e011066640f970aa393&do=finduser&userid=72295&contenttype=vBForum_Post&showposts=1 - cannot load: load error - CRAWLER Redirect of URL=https://community.cbr.com/search.php?s=689157f3b1a66e011066640f970aa393&do=finduser&userid=72295&contenttype=vBForum_Post&showposts=1 to https://community.cbr.com/search.php?s=689157f3b1a66e011066640f970aa393&searchid=12419859 placed on crawler queue for double-check
+I 2022/10/01 13:34:54 SWITCHBOARD * Not Condensed Resource 'https://tv.winelibrary.com/wp/wp-content/uploads/video-JlLWtb-6_Bs-320x180.jpg': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[3zzAHboRFOl4 (1745462224824041472)]} 0 0
+I 2022/10/01 13:34:54 HostQueue * forcing crawl-delay of 90 milliseconds for www.alice.org: minimumDelta = 250, flux = 0, host.average = 2879, robots.delay = 0, ((waitig = 1439) - (timeSinceLastAccess = 1349)) = 90
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.alice.org/about/our-history/
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://delphiforums.com/dp-computers/index.ptt
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://cellphoneforums.net/member-417093-masob.html
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.delphiforums.com/dp-travel/index.ptt
+I 2022/10/01 13:34:54 LOADER * cache hit/fresh for: https://bbpress.org/wp-content/themes/bbpress-org/images/feature_blogs.gif
+I 2022/10/01 13:34:54 SWITCHBOARD * Not Condensed Resource 'https://bbpress.org/wp-content/themes/bbpress-org/images/feature_blogs.gif': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.gbs-cidp.org/2022/05/congress-recognizes-the-month-of-may-as-gbs-cidp-awareness-month/
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forum.xda-developers.com/c/smartwatches.2102/
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forum.luminous-landscape.com/index.php?action=profile;u=55535
+W 2022/10/01 13:34:54 LOADER * HTCACHE contained response header, but not content for url https://community.cbr.com/search.php?s=689157f3b1a66e011066640f970aa393&searchid=12419859
+W 2022/10/01 13:34:54 LOADER * HTCACHE contained response header, but not content for url https://www.dealighted.com/?search=Solar%2BOutdoor%2BLights%2B-%2B4-Pack%2BSuper%2BBright%2B160%2BLEDs%2BMotion%2BSensor%2BSecurity%2BLights%2Bwith%2B270%25C2%25B0%2BWide%2BAngle%252F3%2BModes%2BIP65%2BWaterproof%2BSolar%2BPowered%2BWall%2BLights%2Bfor%2BPatio%2BGarden%2B-%2B%252416.99
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://security-forums.com/viewtopic.php?p=373386
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forums.cpanel.net/forums/licensing-billing.561/
+I 2022/10/01 13:34:54 LOADER * cache hit/fresh for: https://www.sitepoint.com/how-to-simulate-mobile-devices-with-device-mode-in-chrome/
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://informatik-forum.net/forum/index.php?thread/118110-it-administrator-m-w-d-in-vollzeit-altk%C3%B6nig-stift-eg/
+I 2022/10/01 13:34:54 REJECTED * https://forums.gentoo.org/profile.php?mode=viewprofile&u=427334 - denied by robots.txt
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[1qQ8jOxyFvIw (1745462225152245760)]} 0 0
+I 2022/10/01 13:34:54 SWITCHBOARD * Excluded 28 words in URL https://www.sitepoint.com/how-to-simulate-mobile-devices-with-device-mode-in-chrome/
+I 2022/10/01 13:34:54 Fulltext * indexing: YTkpmloWftN5 https://www.sitepoint.com/how-to-simulate-mobile-devices-with-device-mode-in-chrome/
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[YTkpmloWftN5 (1745462225171120128)]} 0 1
+I 2022/10/01 13:34:54 SWITCHBOARD * *Indexed 562 words in URL https://www.sitepoint.com/how-to-simulate-mobile-devices-with-device-mode-in-chrome/ [YTkpmloWftN5]
+	Description:  How to Use Mobile Emulation Mode in Chrome
+	MimeType: text/html | Charset: UTF-8 | Size: 8930 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:54 REJECTED * https://forum.ddigest.com/member.php?171507-milesstone=&s=dfd1415b4d477b1e2e36ea1e2c9d082d - cannot load: load error - Client can't execute: Connection refused (Connection refused) duration=0 for url https://forum.ddigest.com/member.php?171507-milesstone=&s=dfd1415b4d477b1e2e36ea1e2c9d082d
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[RNPQ-0ANDpl4 (1745462225186848768)]} 0 0
+I 2022/10/01 13:34:54 LOADER * cache hit/fresh for: https://cauduongbkdn.dut.udn.vn/wp-content/uploads/2022/09/Tuu-truong-100x70.png
+I 2022/10/01 13:34:54 SWITCHBOARD * Not Condensed Resource 'https://cauduongbkdn.dut.udn.vn/wp-content/uploads/2022/09/Tuu-truong-100x70.png': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:54 HostBalancer * (re-)initialized the round-robin queue; 100 hosts.
+I 2022/10/01 13:34:54 LOADER * cache hit/fresh for: https://quakecon.bethesda.net/wp-content/uploads/2021/08/bethesda-gear-white_64.png
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.zita.be/nieuws/lifestyle
+I 2022/10/01 13:34:54 SWITCHBOARD * Not Condensed Resource 'https://quakecon.bethesda.net/wp-content/uploads/2021/08/bethesda-gear-white_64.png': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:54 REJECTED * https://forum.purseblog.com/members/bubach.3070/ - denied by robots.txt
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[tr167tFapFJ5 (1745462225210966016)]} 0 0
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://siteownersforums.com/calendar.php?s=61ce7de443b6fde36f97b9dcc0278d1c
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://daemonforums.org/forumdisplay.php?s=5f84937e39cf637605e971b2cd502bde&f=15
+I 2022/10/01 13:34:54 LOADER * cache hit/fresh for: https://forum.phpwcms.org/images/smilies/icon_wink.gif
+I 2022/10/01 13:34:54 SWITCHBOARD * Not Condensed Resource 'https://forum.phpwcms.org/images/smilies/icon_wink.gif': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forum.wordreference.com/threads/norwegian-for-det-late-svin-er-jorda-alltid-kald.3972332/
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.gardenstew.com/threads/gardenstew-starter-pack-about-gardenstew.2076/
+I 2022/10/01 13:34:54 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL https://forum.kaspersky.com/topic/kaspersky-free-antivirus-constant-updating-and-disabling-28025/?do=findComment&comment=115859
+I 2022/10/01 13:34:54 LOADER * CRAWLER ..Redirecting request to: https://forum.kaspersky.com/topic/kaspersky-free-antivirus-constant-updating-and-disabling-28025/#comment-115859
+I 2022/10/01 13:34:54 REJECTED * https://forum.kaspersky.com/topic/kaspersky-free-antivirus-constant-updating-and-disabling-28025/?do=findComment&comment=115859 - cannot load: load error - CRAWLER Redirect of URL=https://forum.kaspersky.com/topic/kaspersky-free-antivirus-constant-updating-and-disabling-28025/?do=findComment&comment=115859 to https://forum.kaspersky.com/topic/kaspersky-free-antivirus-constant-updating-and-disabling-28025/ placed on crawler queue for double-check
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Uh6p3PZX7kG5 (1745462225273880576)]} 0 0
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.dnforum.com/search/
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forums.devnetwork.net/viewforum.php?f=17
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.theadminzone.com/threads/why-facebook-instagram-have-been-failing-video.154490/
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.cyclingforums.com/threads/is-this-stem-out-of-range-or-can-it-be-extended-any-further.474456/
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forums.mysql.com/feed.php?25,type=rss
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forum.parallels.com/forums/parallels-client-for-google-chrome.753/index.rss
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.kvraudio.com/forum/viewforum.php?f=259
+I 2022/10/01 13:34:54 REJECTED * https://forums.superherohype.com/posts/38940088/ - denied by robots.txt
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[wSRs0s_MYBm6 (1745462225355669504)]} 0 0
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forum.kaspersky.com/search/
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.wilderssecurity.com/data/avatars/s/122/122424.jpg?1561584734=
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forum.df.eu/external?type=rss2&nodeid=75
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://celestia.space/forum/viewtopic.php?f=7&p=159286
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forums.digitalpoint.com/forums/payments.68/
+I 2022/10/01 13:34:54 HTCACHE * storing content of url https://forum.znyata.com/viewforum.php?f=42, 95948 bytes
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.politische-bildung-brandenburg.de/foerderung/aktuelles
+I 2022/10/01 13:34:54 SWITCHBOARD * Excluded 7 words in URL https://forum.znyata.com/viewforum.php?f=42
+I 2022/10/01 13:34:54 Fulltext * indexing: pFB2f02cRWC4 https://forum.znyata.com/viewforum.php?f=42
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[pFB2f02cRWC4 (1745462225453187072)]} 0 2
+I 2022/10/01 13:34:54 SWITCHBOARD * *Indexed 395 words in URL https://forum.znyata.com/viewforum.php?f=42 [pFB2f02cRWC4]
+	Description:  Фотосумки, фоторюкзаки, кофры Форум фотографов.
+	MimeType: text/html | Charset: UTF-8 | Size: 5652 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forums.linuxmint.com/ucp.php?mode=login
+I 2022/10/01 13:34:54 LOADER * cache hit/fresh for: https://www.digitalocean.com/_next/static/media/socialInstagram.5fb5ecbd.svg
+I 2022/10/01 13:34:54 SWITCHBOARD * Not Condensed Resource 'https://www.digitalocean.com/_next/static/media/socialInstagram.5fb5ecbd.svg': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://mediamonkey.com/forum/memberlist.php?mode=viewprofile&u=46862
+I 2022/10/01 13:34:54 REJECTED * https://www.gardenweb.com/products/baby-and-kids - denied by robots.txt
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[qXHpbjWMYBz5 (1745462225491984384)]} 0 0
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forum.cmsmadesimple.org/viewforum.php?f=28
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://marketlist.com/writers_markets/browse/tag/34
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forum.axishistory.com/viewtopic.php?f=72&p=2432353
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://community.infosecinstitute.com/categories/colleges-schools/feed.rss
+I 2022/10/01 13:34:54 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL https://www.pagalguy.com/c/mba/ibsat
+I 2022/10/01 13:34:54 LOADER * CRAWLER ..Redirecting request to: https://www.pagalguy.com/c/mba/ibsat/472
+I 2022/10/01 13:34:54 REJECTED * https://www.pagalguy.com/c/mba/ibsat - cannot load: load error - CRAWLER Redirect of URL=https://www.pagalguy.com/c/mba/ibsat to https://www.pagalguy.com/c/mba/ibsat/472 placed on crawler queue for double-check
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forum.submitexpress.com/memberlist.php?mode=viewprofile&u=3595250
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[4hOgGFcLrRV4 (1745462225550704640)]} 0 0
+I 2022/10/01 13:34:54 HTCACHE * storing content of url https://www.allaboutjazz.com/donate, 73719 bytes
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://bbpress.org/blog/2009/01/
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://homedistiller.org/forum/viewforum.php?f=92
+I 2022/10/01 13:34:54 HTCACHE * storing content of url https://www.gbs-cidp.org/2022/05/congress-recognizes-the-month-of-may-as-gbs-cidp-awareness-month/, 103141 bytes
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.wondercms.com/community/ucp.php?mode=terms
+I 2022/10/01 13:34:54 REJECTED * https://community.searchlab.eu/u/okybaca - denied by robots.txt
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[kKVeM3g2aLVh (1745462225617813504)]} 0 0
+I 2022/10/01 13:34:54 SWITCHBOARD * Excluded 27 words in URL https://www.allaboutjazz.com/donate
+I 2022/10/01 13:34:54 Fulltext * indexing: 22FCTlwibCq5 https://www.allaboutjazz.com/donate
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[22FCTlwibCq5 (1745462225626202112)]} 0 1
+I 2022/10/01 13:34:54 REJECTED * https://forums.afterdawn.com/members/attar.378508/ - denied by robots.txt
+I 2022/10/01 13:34:54 SWITCHBOARD * *Indexed 607 words in URL https://www.allaboutjazz.com/donate [22FCTlwibCq5]
+	Description:  Support Jazz Music Online!
+	MimeType: text/html | Charset: UTF-8 | Size: 11896 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[764Sg7I3O925 (1745462225629347840)]} 0 0
+I 2022/10/01 13:34:54 SWITCHBOARD * Excluded 23 words in URL https://www.gbs-cidp.org/2022/05/congress-recognizes-the-month-of-may-as-gbs-cidp-awareness-month/
+I 2022/10/01 13:34:54 Fulltext * indexing: aaaZIzh9d0Sw https://www.gbs-cidp.org/2022/05/congress-recognizes-the-month-of-may-as-gbs-cidp-awareness-month/
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[aaaZIzh9d0Sw (1745462225633542144)]} 0 1
+I 2022/10/01 13:34:54 SWITCHBOARD * *Indexed 423 words in URL https://www.gbs-cidp.org/2022/05/congress-recognizes-the-month-of-may-as-gbs-cidp-awareness-month/ [aaaZIzh9d0Sw]
+	Description:  Congress Recognizes the month of May as GBS|CIDP Awareness Month - GBS/CIDP Foundation International
+	MimeType: text/html | Charset: UTF-8 | Size: 7109 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://ubuntuforums.org/showgroups.php/
+I 2022/10/01 13:34:54 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL https://www.vbforums.com/showthread.php?897565-Another-Winsock-question=&s=f708df7412de291ce2138fab7074ca3e&p=5579397
+I 2022/10/01 13:34:54 LOADER * CRAWLER ..Redirecting request to: https://www.vbforums.com/showthread.php?897565-Another-Winsock-question=&p=5579397#post5579397
+I 2022/10/01 13:34:54 REJECTED * https://www.vbforums.com/showthread.php?897565-Another-Winsock-question=&s=f708df7412de291ce2138fab7074ca3e&p=5579397 - cannot load: load error - CRAWLER Redirect of URL=https://www.vbforums.com/showthread.php?897565-Another-Winsock-question=&s=f708df7412de291ce2138fab7074ca3e&p=5579397 to https://www.vbforums.com/showthread.php?897565-Another-Winsock-question=&p=5579397 placed on crawler queue for double-check
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[3eLjblHTCc74 (1745462225642979328)]} 0 0
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forums.foxitsoftware.com/forum/portable-document-format-pdf-tools/localized-foxit-reader
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forum.daemon-tools.cc/forum/hardware-talk/general-hardware-talk
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.axigen.com/about-us/
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forums.gentoo.org/viewtopic-t-1147415.html
+I 2022/10/01 13:34:54 LOADER * cache hit/fresh for: https://forums.futura-sciences.com/images/SultanThemeVB4R/statusicon/subforum_old-48.png
+I 2022/10/01 13:34:54 SWITCHBOARD * Not Condensed Resource 'https://forums.futura-sciences.com/images/SultanThemeVB4R/statusicon/subforum_old-48.png': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forum.joomla.org/viewforum.php?f=50
+I 2022/10/01 13:34:54 LOADER * CRAWLER Redirection detected ('HTTP/1.1 303 See Other') for URL https://mathhelpforum.com/threads/probability-of-firing-exactly-one-shot-in-each-annular-zone-of-a-circular-target.302978/latest
+I 2022/10/01 13:34:54 LOADER * CRAWLER ..Redirecting request to: https://mathhelpforum.com/threads/probability-of-firing-exactly-one-shot-in-each-annular-zone-of-a-circular-target.302978/#post-986598
+I 2022/10/01 13:34:54 REJECTED * https://mathhelpforum.com/threads/probability-of-firing-exactly-one-shot-in-each-annular-zone-of-a-circular-target.302978/latest - cannot load: load error - CRAWLER Redirect of URL=https://mathhelpforum.com/threads/probability-of-firing-exactly-one-shot-in-each-annular-zone-of-a-circular-target.302978/latest to https://mathhelpforum.com/threads/probability-of-firing-exactly-one-shot-in-each-annular-zone-of-a-circular-target.302978/ placed on crawler queue for double-check
+I 2022/10/01 13:34:54 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[I8SniC3HEcD6 (1745462225736302592)]} 0 0
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://www.movie-list.com/oscars2014.php
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forums.onlinebookclub.org/viewforum.php?f=200
+I 2022/10/01 13:34:54 HostBalancer * (re-)initialized the round-robin queue; 100 hosts.
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://rankmonarch.com/partner-view/seo-university/
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forum.purseblog.com/data/avatars/s/139/139842.jpg?1650263312=
+I 2022/10/01 13:34:54 HTCACHE * storing content of url https://forum.xda-developers.com/c/smartwatches.2102/, 202083 bytes
+I 2022/10/01 13:34:54 LOADER * cache hit/stale for: https://forum.phpwcms.org/viewtopic.php?p=151428
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://www.ozzu.com/tagged/html
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://apl.onlineworkbook.com/eat-drink/
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://forum.df.eu/external?type=rss2&nodeid=75, 2138 bytes
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 24 words in URL https://forum.xda-developers.com/c/smartwatches.2102/
+I 2022/10/01 13:34:55 Fulltext * indexing: nGws2n9fCQ26 https://forum.xda-developers.com/c/smartwatches.2102/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[nGws2n9fCQ26 (1745462225852694528)]} 0 2
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 531 words in URL https://forum.xda-developers.com/c/smartwatches.2102/ [nGws2n9fCQ26]
+	Description:  Smartwatches | XDA Forums
+	MimeType: text/html | Charset: UTF-8 | Size: 13984 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://www.theadminzone.com/forums/-/index.rss
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forum.df.eu/forum/produkte/domains/12190-ssl-zertifikat-bei-externer-domain
+I 2022/10/01 13:34:55 Fulltext * indexing: zJFQCebfnRpg https://forum.df.eu/forum/produkte/domains/12190-ssl-zertifikat-bei-externer-domain
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[zJFQCebfnRpg (1745462225858985984)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 30 words in URL https://forum.df.eu/forum/produkte/domains/12190-ssl-zertifikat-bei-externer-domain [zJFQCebfnRpg]
+	Description:  SSL-Zertifikat bei externer Domain
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://forums.mysql.com/feed.php?3,type=rss
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://forum.parallels.com/forums/parallels-client-for-google-chrome.753/index.rss, 19585 bytes
+I 2022/10/01 13:34:55 LOADER * CRAWLER Redirection detected ('HTTP/1.1 302 Found') for URL https://www.scionxdforum.com/forum/member.php?s=9af87feb9f31e095ae8cf5dd31a44888&find=lastposter&f=13
+I 2022/10/01 13:34:55 LOADER * CRAWLER ..Redirecting request to: https://www.scionxdforum.com/forum/member.php?s=9af87feb9f31e095ae8cf5dd31a44888&u=41
+I 2022/10/01 13:34:55 REJECTED * https://www.scionxdforum.com/forum/member.php?s=9af87feb9f31e095ae8cf5dd31a44888&find=lastposter&f=13 - cannot load: load error - CRAWLER Redirect of URL=https://www.scionxdforum.com/forum/member.php?s=9af87feb9f31e095ae8cf5dd31a44888&find=lastposter&f=13 to https://www.scionxdforum.com/forum/member.php?s=9af87feb9f31e095ae8cf5dd31a44888&u=41 placed on crawler queue for double-check
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[2FT2chLIF475 (1745462225884151808)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://forum.parallels.com/threads/no-standard-rdp-connections.335849/
+I 2022/10/01 13:34:55 Fulltext * indexing: 2DHEOX48Xf45 https://forum.parallels.com/threads/no-standard-rdp-connections.335849/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[2DHEOX48Xf45 (1745462225887297536)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://forum.parallels.com/threads/no-standard-rdp-connections.335849/ [2DHEOX48Xf45]
+	Description:  No Standard RDP Connections?
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://forum.parallels.com/threads/i-am-facing-a-problem-with-google-chrome-after-installing-parallels.340184/
+I 2022/10/01 13:34:55 Fulltext * indexing: xjv-TX48Xf45 https://forum.parallels.com/threads/i-am-facing-a-problem-with-google-chrome-after-installing-parallels.340184/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[xjv-TX48Xf45 (1745462225888346112)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 13 words in URL https://forum.parallels.com/threads/i-am-facing-a-problem-with-google-chrome-after-installing-parallels.340184/ [xjv-TX48Xf45]
+	Description:  I am facing a Problem With Google Chrome After Installing Parallels
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 2 words in URL https://forum.parallels.com/threads/parallels-client-for-chromebook-with-web-authentification.356378/
+I 2022/10/01 13:34:55 Fulltext * indexing: EUmtDX48Xf45 https://forum.parallels.com/threads/parallels-client-for-chromebook-with-web-authentification.356378/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[EUmtDX48Xf45 (1745462225889394688)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 10 words in URL https://forum.parallels.com/threads/parallels-client-for-chromebook-with-web-authentification.356378/ [EUmtDX48Xf45]
+	Description:  Parallels Client for Chromebook with Web Authentification
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://forum.parallels.com/threads/cannot-use-the-mouse-wheel.353781/
+I 2022/10/01 13:34:55 Fulltext * indexing: RL-4-X48Xf45 https://forum.parallels.com/threads/cannot-use-the-mouse-wheel.353781/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[RL-4-X48Xf45 (1745462225889394689)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 10 words in URL https://forum.parallels.com/threads/cannot-use-the-mouse-wheel.353781/ [RL-4-X48Xf45]
+	Description:  cannot use the mouse wheel
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forum.parallels.com/threads/usb-passthrough.335928/
+I 2022/10/01 13:34:55 Fulltext * indexing: SJdG1X48Xf45 https://forum.parallels.com/threads/usb-passthrough.335928/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[SJdG1X48Xf45 (1745462225890443264)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://forum.parallels.com/threads/usb-passthrough.335928/ [SJdG1X48Xf45]
+	Description:  USB Passthrough
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://forum.parallels.com/threads/something-went-wrong-please-try-again-later-getting-error-on-chromebook.352821/
+I 2022/10/01 13:34:55 Fulltext * indexing: 21krjX48Xf45 https://forum.parallels.com/threads/something-went-wrong-please-try-again-later-getting-error-on-chromebook.352821/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[21krjX48Xf45 (1745462225890443265)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 16 words in URL https://forum.parallels.com/threads/something-went-wrong-please-try-again-later-getting-error-on-chromebook.352821/ [21krjX48Xf45]
+	Description:  Something went wrong. Please try again later - Getting error on Chromebook
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://forum.parallels.com/threads/variation-on-function-keys.335783/
+I 2022/10/01 13:34:55 Fulltext * indexing: Rg-poX48Xf45 https://forum.parallels.com/threads/variation-on-function-keys.335783/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Rg-poX48Xf45 (1745462225891491840)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://forum.parallels.com/threads/variation-on-function-keys.335783/ [Rg-poX48Xf45]
+	Description:  Variation on Function keys
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://forum.parallels.com/threads/youtube-keeps-freezing-in-google-chrome-after-installing-parallels.352323/
+I 2022/10/01 13:34:55 Fulltext * indexing: zAS4wX48Xf45 https://forum.parallels.com/threads/youtube-keeps-freezing-in-google-chrome-after-installing-parallels.352323/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[zAS4wX48Xf45 (1745462225891491841)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 13 words in URL https://forum.parallels.com/threads/youtube-keeps-freezing-in-google-chrome-after-installing-parallels.352323/ [zAS4wX48Xf45]
+	Description:  Youtube Keeps Freezing In Google Chrome After Installing Parallels
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 2 words in URL https://forum.parallels.com/threads/usb-redirection-in-chromebook-not-working.348702/
+I 2022/10/01 13:34:55 Fulltext * indexing: pOnhdX48Xf45 https://forum.parallels.com/threads/usb-redirection-in-chromebook-not-working.348702/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[pOnhdX48Xf45 (1745462225892540416)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 10 words in URL https://forum.parallels.com/threads/usb-redirection-in-chromebook-not-working.348702/ [pOnhdX48Xf45]
+	Description:  USB redirection in Chromebook not working
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forum.parallels.com/threads/ip-address.335657/
+I 2022/10/01 13:34:55 Fulltext * indexing: Ejq-TX48Xf45 https://forum.parallels.com/threads/ip-address.335657/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Ejq-TX48Xf45 (1745462225892540417)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 8 words in URL https://forum.parallels.com/threads/ip-address.335657/ [Ejq-TX48Xf45]
+	Description:  IP address???
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forum.parallels.com/threads/need-help.347108/
+I 2022/10/01 13:34:55 Fulltext * indexing: Fr_VuX48Xf45 https://forum.parallels.com/threads/need-help.347108/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Fr_VuX48Xf45 (1745462225893588992)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 8 words in URL https://forum.parallels.com/threads/need-help.347108/ [Fr_VuX48Xf45]
+	Description:  Need help
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forum.parallels.com/threads/strange-screen-issues.335808/
+I 2022/10/01 13:34:55 Fulltext * indexing: jSAPvX48Xf45 https://forum.parallels.com/threads/strange-screen-issues.335808/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[jSAPvX48Xf45 (1745462225893588993)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://forum.parallels.com/threads/strange-screen-issues.335808/ [jSAPvX48Xf45]
+	Description:  Strange screen issues
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forum.parallels.com/threads/esc-button.335693/
+I 2022/10/01 13:34:55 LOADER * cache hit/fresh for: https://static.e107.org/e107_media/c7c89215d4/images/cache/000896_preview_49b7758863e750dd9fb2eea89b95a9e5_450x342.jpg
+I 2022/10/01 13:34:55 Fulltext * indexing: _1fm7X48Xf45 https://forum.parallels.com/threads/esc-button.335693/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[_1fm7X48Xf45 (1745462225894637568)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 8 words in URL https://forum.parallels.com/threads/esc-button.335693/ [_1fm7X48Xf45]
+	Description:  ESC button
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forum.parallels.com/threads/2x-remote-desktop-cert-error.344545/
+I 2022/10/01 13:34:55 Fulltext * indexing: N_KbSX48Xf45 https://forum.parallels.com/threads/2x-remote-desktop-cert-error.344545/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[N_KbSX48Xf45 (1745462225895686144)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 11 words in URL https://forum.parallels.com/threads/2x-remote-desktop-cert-error.344545/ [N_KbSX48Xf45]
+	Description:  2X Remote Desktop Cert error
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forum.parallels.com/threads/wrong-email.346161/
+I 2022/10/01 13:34:55 Fulltext * indexing: Is7meX48Xf45 https://forum.parallels.com/threads/wrong-email.346161/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Is7meX48Xf45 (1745462225895686145)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 8 words in URL https://forum.parallels.com/threads/wrong-email.346161/ [Is7meX48Xf45]
+	Description:  wrong email
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 2 words in URL https://forum.parallels.com/threads/how-can-i-remove-the-upload-download-disconnect-button-in-parallels-client-window.343828/
+I 2022/10/01 13:34:55 SWITCHBOARD * Not Condensed Resource 'https://static.e107.org/e107_media/c7c89215d4/images/cache/000896_preview_49b7758863e750dd9fb2eea89b95a9e5_450x342.jpg': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:55 Fulltext * indexing: pw4aCX48Xf45 https://forum.parallels.com/threads/how-can-i-remove-the-upload-download-disconnect-button-in-parallels-client-window.343828/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[pw4aCX48Xf45 (1745462225895686146)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 15 words in URL https://forum.parallels.com/threads/how-can-i-remove-the-upload-download-disconnect-button-in-parallels-client-window.343828/ [pw4aCX48Xf45]
+	Description:  How can I remove the upload/download/disconnect button in Parallels Client window
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forum.parallels.com/threads/copy-paste-bug-chrome-os-client.343397/
+I 2022/10/01 13:34:55 Fulltext * indexing: cPDw5X48Xf45 https://forum.parallels.com/threads/copy-paste-bug-chrome-os-client.343397/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[cPDw5X48Xf45 (1745462225896734720)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 12 words in URL https://forum.parallels.com/threads/copy-paste-bug-chrome-os-client.343397/ [cPDw5X48Xf45]
+	Description:  Copy/Paste bug chrome os client
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forum.parallels.com/threads/multiple-rdp-sessions.335733/
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://forums.superherohype.com/forums/dc-comics-films.39/index.rss
+I 2022/10/01 13:34:55 Fulltext * indexing: Xdyl0X48Xf45 https://forum.parallels.com/threads/multiple-rdp-sessions.335733/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Xdyl0X48Xf45 (1745462225897783296)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://forum.parallels.com/threads/multiple-rdp-sessions.335733/ [Xdyl0X48Xf45]
+	Description:  Multiple RDP sessions
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 2 words in URL https://forum.parallels.com/threads/problem-with-the-lateste-chrome-os-version.335813/
+I 2022/10/01 13:34:55 Fulltext * indexing: 6_ry0X48Xf45 https://forum.parallels.com/threads/problem-with-the-lateste-chrome-os-version.335813/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[6_ry0X48Xf45 (1745462225897783297)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 11 words in URL https://forum.parallels.com/threads/problem-with-the-lateste-chrome-os-version.335813/ [6_ry0X48Xf45]
+	Description:  Problem with the lateste Chrome OS version
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forum.parallels.com/threads/application-windows.338165/
+I 2022/10/01 13:34:55 Fulltext * indexing: kKXRUX48Xf45 https://forum.parallels.com/threads/application-windows.338165/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[kKXRUX48Xf45 (1745462225898831872)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 8 words in URL https://forum.parallels.com/threads/application-windows.338165/ [kKXRUX48Xf45]
+	Description:  Application Windows
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://forum.twilightlexicon.com/viewforum.php?f=69
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://www.pcwelt.de/tipps/PC-WELT-Die-wichtigsten-Downloads-Tages-9019913.html
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://forums.mysql.com/feed.php?25,type=rss, 73066 bytes
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://forum.meteonetwork.it/members/8929-jack9.html?s=8a12ce8c89fd748790aaeec0d568d01e
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://e107.org/?iframe=1&id=898
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://cellphoneforums.net/member-417093-masob.html, 46178 bytes
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://www.zita.be/nieuws/lifestyle, 338142 bytes
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://forums.securityinfowatch.com/member/334767-cctvforce
+I 2022/10/01 13:34:55 LOADER * cache hit/fresh for: https://www.softcatala.org/uploads/2017/02/nombres-lletres.jpg
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 23 words in URL https://cellphoneforums.net/member-417093-masob.html
+I 2022/10/01 13:34:55 Fulltext * indexing: 3s8MMsEVKDNy https://cellphoneforums.net/member-417093-masob.html
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[3s8MMsEVKDNy (1745462225979572224)]} 0 1
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://forums.raspberrypi.com/viewtopic.php?p=2041226
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 506 words in URL https://cellphoneforums.net/member-417093-masob.html [3s8MMsEVKDNy]
+	Description:  View Profile: Masob - Cell Phone Forums
+	MimeType: text/html | Charset: ISO-8859-1 | Size: 6437 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:55 HostQueue * forcing crawl-delay of 7 milliseconds for infrance.ru: minimumDelta = 250, flux = 0, host.average = 3327, robots.delay = 0, ((waitig = 1663) - (timeSinceLastAccess = 1656)) = 7
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 4 words in URL https://www.zita.be/nieuws/lifestyle
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://infrance.ru/5-faktov-kotoryx-vy-ne-znali-o-produktovyx-magazinax-parizha/
+I 2022/10/01 13:34:55 Fulltext * indexing: LH0kttgIfBTg https://www.zita.be/nieuws/lifestyle
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[LH0kttgIfBTg (1745462226004738048)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 270 words in URL https://www.zita.be/nieuws/lifestyle [LH0kttgIfBTg]
+	Description:  Lifestyle Nieuws - Zita
+	MimeType: text/html | Charset: UTF-8 | Size: 3115 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 HostQueue * forcing crawl-delay of 39 milliseconds for azbyka.ru: minimumDelta = 250, flux = 0, host.average = 2390, robots.delay = 0, ((waitig = 1195) - (timeSinceLastAccess = 1156)) = 39
+I 2022/10/01 13:34:55 SWITCHBOARD * Not Condensed Resource 'https://www.softcatala.org/uploads/2017/02/nombres-lletres.jpg': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://azbyka.ru/extension
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://www.digitalocean.com/community/questions
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://tv.winelibrary.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftv.winelibrary.com%2F
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://forum.winehq.org/index.php
+I 2022/10/01 13:34:55 REJECTED * https://www.gardenweb.com/professionals/hardwood-flooring-dealers - denied by robots.txt
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[mNmcV7WMYBz5 (1745462226099109888)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 30 words in URL https://forums.mysql.com/feed.php?25,type=rss
+I 2022/10/01 13:34:55 Fulltext * indexing: JsjUIOCOdK44 https://forums.mysql.com/feed.php?25,type=rss
+I 2022/10/01 13:34:55 HostQueue * forcing crawl-delay of 15 milliseconds for delphiforums.com: minimumDelta = 250, flux = 0, host.average = 2284, robots.delay = 0, ((waitig = 1142) - (timeSinceLastAccess = 1127)) = 15
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[JsjUIOCOdK44 (1745462226116935680)]} 0 4
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 1338 words in URL https://forums.mysql.com/feed.php?25,type=rss [JsjUIOCOdK44]
+	Description:  
+	MimeType: application/xml | Charset: UTF-8 | Size: 68222 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 3 ms
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://delphiforums.com/dp-travel/index.ptt
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://forum.utorrent.com/topic/105292-35x-beta/
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://forums.securityinfowatch.com/search?r=38134983, 46371 bytes
+I 2022/10/01 13:34:55 HostQueue * forcing crawl-delay of 41 milliseconds for forum.xda-developers.com: minimumDelta = 250, flux = 1, host.average = 841, robots.delay = 0, ((waitig = 420) - (timeSinceLastAccess = 379)) = 41
+I 2022/10/01 13:34:55 LOADER * cache hit/fresh for: https://forum.xat.com/uploads/monthly_2022_09/a897305d0a5046fdf8f73224e6d8b1a3.thumb.jpg.3bc499de3c4c1af2106ef1a4d2c43c3d.jpg
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://www.gbs-cidp.org/2021-virtual-summit/
+I 2022/10/01 13:34:55 SWITCHBOARD * Not Condensed Resource 'https://forum.xat.com/uploads/monthly_2022_09/a897305d0a5046fdf8f73224e6d8b1a3.thumb.jpg.3bc499de3c4c1af2106ef1a4d2c43c3d.jpg': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 18 words in URL https://forums.securityinfowatch.com/search?r=38134983
+I 2022/10/01 13:34:55 Fulltext * indexing: w5-PfOJYmQW7 https://forums.securityinfowatch.com/search?r=38134983
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[w5-PfOJYmQW7 (1745462226203967488)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 228 words in URL https://forums.securityinfowatch.com/search?r=38134983 [w5-PfOJYmQW7]
+	Description:  Advanced Search - SecurityInfoWatch Forums - Discussions for the Security Professional
+	MimeType: text/html | Charset: UTF-8 | Size: 2940 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://forum.xda-developers.com/f/samsung-galaxy-a52-4g.12131/
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://www.theadminzone.com/threads/why-facebook-instagram-have-been-failing-video.154490/, 56646 bytes
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://dnforum.com/forums/the-watercooler.77/
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://forum.framasoft.org/viewforum.php?f=55
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 20 words in URL https://www.theadminzone.com/threads/why-facebook-instagram-have-been-failing-video.154490/
+I 2022/10/01 13:34:55 Fulltext * indexing: Cq8o4mKSQh45 https://www.theadminzone.com/threads/why-facebook-instagram-have-been-failing-video.154490/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Cq8o4mKSQh45 (1745462226255347712)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 295 words in URL https://www.theadminzone.com/threads/why-facebook-instagram-have-been-failing-video.154490/ [Cq8o4mKSQh45]
+	Description:  Why Facebook & Instagram Have Been Failing - Video | The Admin Zone
+	MimeType: text/html | Charset: UTF-8 | Size: 3523 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://www.pagalguy.com/c/mba/ibsat/472
+I 2022/10/01 13:34:55 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL https://forum.xda-developers.com/f/527/
+I 2022/10/01 13:34:55 LOADER * CRAWLER ..Redirecting request to: https://forum.xda-developers.com/f/android-themes.527/
+I 2022/10/01 13:34:55 REJECTED * https://forum.xda-developers.com/f/527/ - cannot load: load error - CRAWLER Redirect of URL=https://forum.xda-developers.com/f/527/ to https://forum.xda-developers.com/f/android-themes.527/ placed on crawler queue for double-check
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[8LsYRQ9fCQ26 (1745462226282610688)]} 0 0
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://forum.luminous-landscape.com/index.php?board=2.0
+I 2022/10/01 13:34:55 REJECTED * https://forums.afterdawn.com/members/rahul_s.1246690/ - denied by robots.txt
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[7hyAw7I3O925 (1745462226294145024)]} 0 0
+I 2022/10/01 13:34:55 LOADER * cache hit/fresh for: https://www.dealighted.com/resized_images/44814494.png
+I 2022/10/01 13:34:55 SWITCHBOARD * Not Condensed Resource 'https://www.dealighted.com/resized_images/44814494.png': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://security-forums.com/viewtopic.php?p=373396
+I 2022/10/01 13:34:55 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL https://quakecon.bethesda.net/general-inquiry
+I 2022/10/01 13:34:55 LOADER * CRAWLER ..Redirecting request to: https://quakecon.bethesda.net/general-inquiry/
+I 2022/10/01 13:34:55 REJECTED * https://quakecon.bethesda.net/general-inquiry - cannot load: load error - CRAWLER Redirect of URL=https://quakecon.bethesda.net/general-inquiry to https://quakecon.bethesda.net/general-inquiry/ placed on crawler queue for double-check
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://twitter.com/AMBERAlert/status/1574839266198392864
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://forums.cpanel.net/forums/feedback-suggestions.565/
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://informatik-forum.net/index.php?tagged/2541-zeiterfassung/=&objectType=com.woltlab.wcf.article
+I 2022/10/01 13:34:55 LOADER * cache hit/fresh for: https://www.sitepoint.com/page-data/sq/d/2326876097.json
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://forums.futura-sciences.com/projets-electroniques/
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://www.sitepoint.com/page-data/sq/d/2326876097.json
+I 2022/10/01 13:34:55 Fulltext * indexing: bRsMEKoWftN5 https://www.sitepoint.com/page-data/sq/d/2326876097.json
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[bRsMEKoWftN5 (1745462226392711168)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 8 words in URL https://www.sitepoint.com/page-data/sq/d/2326876097.json [bRsMEKoWftN5]
+	Description:  2326876097.json
+	MimeType: application/json | Charset: UTF-8 | Size: 48 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL http://www.ronpaulforums.com/showpost.php?s=5bec655b11793899e6f30c6e8a488abe&p=7135675
+I 2022/10/01 13:34:55 LOADER * CRAWLER ..Redirecting request to: http://www.ronpaulforums.com/showthread.php?560300-Governments-Will-Turn-The-Recession-Into-A-Depression=&s=5bec655b11793899e6f30c6e8a488abe&p=7135675#post7135675
+I 2022/10/01 13:34:55 REJECTED * http://www.ronpaulforums.com/showpost.php?s=5bec655b11793899e6f30c6e8a488abe&p=7135675 - cannot load: load error - CRAWLER Redirect of URL=http://www.ronpaulforums.com/showpost.php?s=5bec655b11793899e6f30c6e8a488abe&p=7135675 to http://www.ronpaulforums.com/showthread.php?560300-Governments-Will-Turn-The-Recession-Into-A-Depression=&s=5bec655b11793899e6f30c6e8a488abe&p=7135675 placed on crawler queue for double-check
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://community.mybb.com/calendar.php
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[9dQUaQ8v1pHa (1745462226397954048)]} 0 0
+I 2022/10/01 13:34:55 LOADER * cache hit/fresh for: https://luminous-landscape.com/wp-content/themes/lula_backup2/img/luminous_landscape.png
+I 2022/10/01 13:34:55 SWITCHBOARD * Not Condensed Resource 'https://luminous-landscape.com/wp-content/themes/lula_backup2/img/luminous_landscape.png': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:55 REJECTED * https://forum.ddigest.com/forumdisplay.php?105-General=&s=dfd1415b4d477b1e2e36ea1e2c9d082d - cannot load: load error - Client can't execute: Connection refused (Connection refused) duration=1 for url https://forum.ddigest.com/forumdisplay.php?105-General=&s=dfd1415b4d477b1e2e36ea1e2c9d082d
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[QbAb50ANDpl4 (1745462226421022720)]} 0 0
+I 2022/10/01 13:34:55 LOADER * cache hit/fresh for: https://www.feedforall.com/image/emblem.jpg
+I 2022/10/01 13:34:55 SWITCHBOARD * Not Condensed Resource 'https://www.feedforall.com/image/emblem.jpg': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://forums.raspberrypi.com/viewforum.php?f=48, 78410 bytes
+I 2022/10/01 13:34:55 HostBalancer * (re-)initialized the round-robin queue; 100 hosts.
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://www.techno-science.net/code-promo-Banggood.html
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://siteownersforums.com/forumdisplay.php?s=61ce7de443b6fde36f97b9dcc0278d1c&f=13
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://rankmonarch.com/partner-view/seo-university/, 159955 bytes
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 12 words in URL https://forums.raspberrypi.com/viewforum.php?f=48
+I 2022/10/01 13:34:55 LOADER * CRAWLER Redirection detected ('HTTP/1.1 301 Moved Permanently') for URL https://ecomodder.com/forum/hreshowthread.php/22-maverick-mileage-mod-thread-39948-post674990.html
+I 2022/10/01 13:34:55 LOADER * CRAWLER ..Redirecting request to: https://ecomodder.com/forum/showthread.php/22-maverick-mileage-mod-thread-39948-4.html#post674990
+I 2022/10/01 13:34:55 REJECTED * https://ecomodder.com/forum/hreshowthread.php/22-maverick-mileage-mod-thread-39948-post674990.html - cannot load: load error - CRAWLER Redirect of URL=https://ecomodder.com/forum/hreshowthread.php/22-maverick-mileage-mod-thread-39948-post674990.html to https://ecomodder.com/forum/showthread.php/22-maverick-mileage-mod-thread-39948-4.html placed on crawler queue for double-check
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[cs8jOf3zu3c5 (1745462226481840128)]} 0 0
+I 2022/10/01 13:34:55 Fulltext * indexing: ePRtrO5KV_g5 https://forums.raspberrypi.com/viewforum.php?f=48
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://security-forums.com/viewtopic.php?p=373386, 41726 bytes
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://delphiforums.com/dp-computers/index.ptt, 44980 bytes
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[ePRtrO5KV_g5 (1745462226484985856)]} 0 9
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 447 words in URL https://forums.raspberrypi.com/viewforum.php?f=48 [ePRtrO5KV_g5]
+	Description:  Staffroom, classroom and projects - Raspberry Pi Forums
+	MimeType: text/html | Charset: UTF-8 | Size: 7103 bytes | 
+	LinkStorageTime: 10 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://www.delphiforums.com/dp-travel/index.ptt, 43881 bytes
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://rankmonarch.com/partner-view/seo-university/
+I 2022/10/01 13:34:55 Fulltext * indexing: NSsHps6C2y75 https://rankmonarch.com/partner-view/seo-university/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[NSsHps6C2y75 (1745462226511200256)]} 0 1
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 299 words in URL https://rankmonarch.com/partner-view/seo-university/ [NSsHps6C2y75]
+	Description:  SEO University - Digital Marketing Agency - Grow Your Business Online
+	MimeType: text/html | Charset: UTF-8 | Size: 4448 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://www.dnforum.com/forums/domain-name-news.17/
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 22 words in URL https://security-forums.com/viewtopic.php?p=373386
+I 2022/10/01 13:34:55 Fulltext * indexing: wGIOVs3Hzn96 https://security-forums.com/viewtopic.php?p=373386
+I 2022/10/01 13:34:55 LOADER * cache hit/fresh for: https://www.neen.it/images/logo-sparkinit@2x.png
+I 2022/10/01 13:34:55 SWITCHBOARD * Not Condensed Resource 'https://www.neen.it/images/logo-sparkinit@2x.png': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[wGIOVs3Hzn96 (1745462226520637440)]} 0 1
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 362 words in URL https://security-forums.com/viewtopic.php?p=373386 [wGIOVs3Hzn96]
+	Description:  Networking/Security Forums :: View topic - How to find 56 potential vulnerabilities in FreeBSD code
+	MimeType: text/html | Charset: ISO-8859-1 | Size: 5361 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:55 LOADER * cache hit/fresh for: https://static.e107.org/e107_media/c7c89215d4/images/cache/000898_preview_ee0ee2b1bd454ed01366defaadc9af73_450x342.jpg
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 24 words in URL https://www.delphiforums.com/dp-travel/index.ptt
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://www.kvraudio.com/forum/viewforum.php?f=163
+I 2022/10/01 13:34:55 SWITCHBOARD * Not Condensed Resource 'https://static.e107.org/e107_media/c7c89215d4/images/cache/000898_preview_ee0ee2b1bd454ed01366defaadc9af73_450x342.jpg': indexing of media files not wanted by crawl profile
+I 2022/10/01 13:34:55 Fulltext * indexing: LmS4YrXHciH5 https://www.delphiforums.com/dp-travel/index.ptt
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://forums.foxitsoftware.com/forum/portable-document-format-pdf-tools/localized-foxit-reader, 97752 bytes
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[LmS4YrXHciH5 (1745462226542657536)]} 0 3
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 389 words in URL https://www.delphiforums.com/dp-travel/index.ptt [LmS4YrXHciH5]
+	Description:  Delphi Forums Index - Travel & Places Forums
+	MimeType: text/html | Charset: UTF-8 | Size: 6207 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 27 words in URL https://delphiforums.com/dp-computers/index.ptt
+I 2022/10/01 13:34:55 REJECTED * https://forums.superherohype.com/members/james-kruk.177345/ - denied by robots.txt
+I 2022/10/01 13:34:55 Fulltext * indexing: Lvs8ak8TucX5 https://delphiforums.com/dp-computers/index.ptt
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Lvs8ak8TucX5 (1745462226552094720)]} 0 1
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[v5-Fz7_MYBm6 (1745462226554191872)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 441 words in URL https://delphiforums.com/dp-computers/index.ptt [Lvs8ak8TucX5]
+	Description:  Delphi Forums Index - Computers Forums
+	MimeType: text/html | Charset: UTF-8 | Size: 7508 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 19 words in URL https://forums.foxitsoftware.com/forum/portable-document-format-pdf-tools/localized-foxit-reader
+I 2022/10/01 13:34:55 HostQueue * forcing crawl-delay of 179 milliseconds for www.pcwelt.de: minimumDelta = 250, flux = 0, host.average = 1615, robots.delay = 0, ((waitig = 807) - (timeSinceLastAccess = 628)) = 179
+I 2022/10/01 13:34:55 LOADER * cache hit/fresh for: https://www.thunderbird-mail.de/images/style-25/tmde_startpage_teaser_2018.webp
+I 2022/10/01 13:34:55 SWITCHBOARD * Not Condensed Resource 'https://www.thunderbird-mail.de/images/style-25/tmde_startpage_teaser_2018.webp': indexing of media not wanted by crawl profile
+I 2022/10/01 13:34:55 Fulltext * indexing: YEQjLHvbOM-6 https://forums.foxitsoftware.com/forum/portable-document-format-pdf-tools/localized-foxit-reader
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[YEQjLHvbOM-6 (1745462226577260544)]} 0 1
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 256 words in URL https://forums.foxitsoftware.com/forum/portable-document-format-pdf-tools/localized-foxit-reader [YEQjLHvbOM-6]
+	Description:  Localized Foxit PDF Reader - PDF Forum | Foxit Software
+	MimeType: text/html | Charset: UTF-8 | Size: 4176 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://lexiconpro.com/en/products/pcm-total-bundle, 49284 bytes
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://azbyka.ru/1/prichaschenie, 90439 bytes
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://forums.securityinfowatch.com/member/334767-cctvforce, 40140 bytes
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 29 words in URL https://lexiconpro.com/en/products/pcm-total-bundle
+I 2022/10/01 13:34:55 Fulltext * indexing: YjUzECEMmwV5 https://lexiconpro.com/en/products/pcm-total-bundle
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[YjUzECEMmwV5 (1745462226690506752)]} 0 2
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 414 words in URL https://lexiconpro.com/en/products/pcm-total-bundle [YjUzECEMmwV5]
+	Description:  PCM Total Bundle | Lexicon Pro - Legendary Reverb and Effects
+	MimeType: text/html | Charset: UTF-8 | Size: 6622 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 12 words in URL https://forums.securityinfowatch.com/member/334767-cctvforce
+I 2022/10/01 13:34:55 Fulltext * indexing: w3V5FBJYmQW7 https://forums.securityinfowatch.com/member/334767-cctvforce
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[w3V5FBJYmQW7 (1745462226695749632)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 111 words in URL https://forums.securityinfowatch.com/member/334767-cctvforce [w3V5FBJYmQW7]
+	Description:  User Profile - SecurityInfoWatch Forums - Discussions for the Security Professional
+	MimeType: text/html | Charset: UTF-8 | Size: 1262 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://azbyka.ru/1/prichaschenie
+I 2022/10/01 13:34:55 Fulltext * indexing: z5Z7dCso3v2g https://azbyka.ru/1/prichaschenie
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://forums.superherohype.com/forums/dc-comics-films.39/index.rss, 31606 bytes
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[z5Z7dCso3v2g (1745462226721964032)]} 0 2
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 776 words in URL https://azbyka.ru/1/prichaschenie [z5Z7dCso3v2g]
+	Description:  Рубрика «О Таинстве Причащения (Евхаристии)» - Пять ступеней веры
+	MimeType: text/html | Charset: UTF-8 | Size: 8403 bytes | 
+	LinkStorageTime: 4 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 3 words in URL https://forums.superherohype.com/threads/joker-folie-%C3%80-deux-phillips-and-phoenix-return-for-the-sequel-general-news-discussion-thread.558446/
+I 2022/10/01 13:34:55 Fulltext * indexing: ZE6VdN_MYBm6 https://forums.superherohype.com/threads/joker-folie-%C3%80-deux-phillips-and-phoenix-return-for-the-sequel-general-news-discussion-thread.558446/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[ZE6VdN_MYBm6 (1745462226728255488)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 17 words in URL https://forums.superherohype.com/threads/joker-folie-%C3%80-deux-phillips-and-phoenix-return-for-the-sequel-general-news-discussion-thread.558446/ [ZE6VdN_MYBm6]
+	Description:  'JOKER: FOLIE À DEUX' (Phillips and Phoenix return for the sequel) General News & Discussion Thread
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 2 words in URL https://forums.superherohype.com/threads/the-dc-films-news-and-discussion-thread.558625/
+I 2022/10/01 13:34:55 Fulltext * indexing: GT3eON_MYBm6 https://forums.superherohype.com/threads/the-dc-films-news-and-discussion-thread.558625/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[GT3eON_MYBm6 (1745462226728255489)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 11 words in URL https://forums.superherohype.com/threads/the-dc-films-news-and-discussion-thread.558625/ [GT3eON_MYBm6]
+	Description:  The DC Films News and Discussion Thread
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forums.superherohype.com/threads/dc-super-pets.544145/
+I 2022/10/01 13:34:55 Fulltext * indexing: 05mD_N_MYBm6 https://forums.superherohype.com/threads/dc-super-pets.544145/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[05mD_N_MYBm6 (1745462226729304064)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://forums.superherohype.com/threads/dc-super-pets.544145/ [05mD_N_MYBm6]
+	Description:  DC Super Pets
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forums.superherohype.com/threads/batgirl-movie-part-1.539759/
+I 2022/10/01 13:34:55 Fulltext * indexing: 8T1leN_MYBm6 https://forums.superherohype.com/threads/batgirl-movie-part-1.539759/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[8T1leN_MYBm6 (1745462226729304065)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 10 words in URL https://forums.superherohype.com/threads/batgirl-movie-part-1.539759/ [8T1leN_MYBm6]
+	Description:  'Batgirl' movie? - Part 1
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://forums.superherohype.com/threads/the-batman-vs-moon-knight-cartoon.558952/
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://www.dnforum.com/help/, 28719 bytes
+I 2022/10/01 13:34:55 Fulltext * indexing: DZqAvN_MYBm6 https://forums.superherohype.com/threads/the-batman-vs-moon-knight-cartoon.558952/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[DZqAvN_MYBm6 (1745462226730352640)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 11 words in URL https://forums.superherohype.com/threads/the-batman-vs-moon-knight-cartoon.558952/ [DZqAvN_MYBm6]
+	Description:  The Batman vs Moon Knight Cartoon
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 3 words in URL https://forums.superherohype.com/threads/wonder-twins-movie-no-longer-in-the-works.557982/
+I 2022/10/01 13:34:55 Fulltext * indexing: 5E1R7N_MYBm6 https://forums.superherohype.com/threads/wonder-twins-movie-no-longer-in-the-works.557982/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[5E1R7N_MYBm6 (1745462226730352641)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 12 words in URL https://forums.superherohype.com/threads/wonder-twins-movie-no-longer-in-the-works.557982/ [5E1R7N_MYBm6]
+	Description:  Wonder Twins movie no longer in the works
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forums.superherohype.com/threads/blue-beetle.547079/
+I 2022/10/01 13:34:55 Fulltext * indexing: 3BgCYN_MYBm6 https://forums.superherohype.com/threads/blue-beetle.547079/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[3BgCYN_MYBm6 (1745462226731401216)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 8 words in URL https://forums.superherohype.com/threads/blue-beetle.547079/ [3BgCYN_MYBm6]
+	Description:  Blue Beetle
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forums.superherohype.com/threads/black-adam-2021.554799/
+I 2022/10/01 13:34:55 Fulltext * indexing: 0s0nJN_MYBm6 https://forums.superherohype.com/threads/black-adam-2021.554799/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[0s0nJN_MYBm6 (1745462226732449792)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://forums.superherohype.com/threads/black-adam-2021.554799/ [0s0nJN_MYBm6]
+	Description:  Black Adam (2021)
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://forums.superherohype.com/threads/dc-elseworlds-reimagining-keaton-sequels-dc-films-that-never-were.555136/
+I 2022/10/01 13:34:55 Fulltext * indexing: _9vZqN_MYBm6 https://forums.superherohype.com/threads/dc-elseworlds-reimagining-keaton-sequels-dc-films-that-never-were.555136/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[_9vZqN_MYBm6 (1745462226732449793)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 14 words in URL https://forums.superherohype.com/threads/dc-elseworlds-reimagining-keaton-sequels-dc-films-that-never-were.555136/ [_9vZqN_MYBm6]
+	Description:  DC ELSEWORLDS: Reimagining Keaton Sequels & DC Films that Never Were
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 2 words in URL https://forums.superherohype.com/threads/black-canary-film-in-development-at-hbo-max.556837/
+I 2022/10/01 13:34:55 Fulltext * indexing: HyefDN_MYBm6 https://forums.superherohype.com/threads/black-canary-film-in-development-at-hbo-max.556837/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[HyefDN_MYBm6 (1745462226732449794)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 13 words in URL https://forums.superherohype.com/threads/black-canary-film-in-development-at-hbo-max.556837/ [HyefDN_MYBm6]
+	Description:  Black Canary film in development at HBO Max
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forums.superherohype.com/threads/rwby-justice-league-dtv.558594/
+I 2022/10/01 13:34:55 Fulltext * indexing: -MJndN_MYBm6 https://forums.superherohype.com/threads/rwby-justice-league-dtv.558594/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[-MJndN_MYBm6 (1745462226733498368)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 11 words in URL https://forums.superherohype.com/threads/rwby-justice-league-dtv.558594/ [-MJndN_MYBm6]
+	Description:  RWBY/Justice League (DTV)
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 2 words in URL https://forums.superherohype.com/threads/justice-society-of-america-earth-two.558060/
+I 2022/10/01 13:34:55 Fulltext * indexing: xP-V6N_MYBm6 https://forums.superherohype.com/threads/justice-society-of-america-earth-two.558060/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[xP-V6N_MYBm6 (1745462226734546944)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 12 words in URL https://forums.superherohype.com/threads/justice-society-of-america-earth-two.558060/ [xP-V6N_MYBm6]
+	Description:  Justice Society of America (Earth Two)
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forums.superherohype.com/threads/supergirl-movie.544285/
+I 2022/10/01 13:34:55 Fulltext * indexing: uVWonN_MYBm6 https://forums.superherohype.com/threads/supergirl-movie.544285/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[uVWonN_MYBm6 (1745462226734546945)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 8 words in URL https://forums.superherohype.com/threads/supergirl-movie.544285/ [uVWonN_MYBm6]
+	Description:  Supergirl Movie
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 2 words in URL https://forums.superherohype.com/threads/dc-universe-batman-soul-of-the-dragon-dtv.554458/
+I 2022/10/01 13:34:55 Fulltext * indexing: Wc1UKN_MYBm6 https://forums.superherohype.com/threads/dc-universe-batman-soul-of-the-dragon-dtv.554458/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Wc1UKN_MYBm6 (1745462226734546946)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 13 words in URL https://forums.superherohype.com/threads/dc-universe-batman-soul-of-the-dragon-dtv.554458/ [Wc1UKN_MYBm6]
+	Description:  DC Universe - Batman: Soul of the Dragon (DTV)
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 4 words in URL https://forums.superherohype.com/threads/is-it-time-for-keaton-to-%E2%80%9Creturn%E2%80%9D.545449/
+I 2022/10/01 13:34:55 Fulltext * indexing: 3FElFN_MYBm6 https://forums.superherohype.com/threads/is-it-time-for-keaton-to-%E2%80%9Creturn%E2%80%9D.545449/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[3FElFN_MYBm6 (1745462226735595520)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://forums.superherohype.com/threads/is-it-time-for-keaton-to-%E2%80%9Creturn%E2%80%9D.545449/ [3FElFN_MYBm6]
+	Description:  Is it time for Keaton to “Return”?
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forums.superherohype.com/threads/best-zack-snyder-dceu-movie.558229/
+I 2022/10/01 13:34:55 Fulltext * indexing: gZ8xqN_MYBm6 https://forums.superherohype.com/threads/best-zack-snyder-dceu-movie.558229/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[gZ8xqN_MYBm6 (1745462226735595521)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 11 words in URL https://forums.superherohype.com/threads/best-zack-snyder-dceu-movie.558229/ [gZ8xqN_MYBm6]
+	Description:  Best Zack Snyder DCEU Movie
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forums.superherohype.com/threads/green-lantern-beware-my-power-dtv.557151/
+I 2022/10/01 13:34:55 Fulltext * indexing: -JFabN_MYBm6 https://forums.superherohype.com/threads/green-lantern-beware-my-power-dtv.557151/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[-JFabN_MYBm6 (1745462226736644096)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 12 words in URL https://forums.superherohype.com/threads/green-lantern-beware-my-power-dtv.557151/ [-JFabN_MYBm6]
+	Description:  Green Lantern: Beware My Power (DTV)
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://forums.superherohype.com/threads/legion-of-super-heroes-dtv.558592/
+I 2022/10/01 13:34:55 Fulltext * indexing: 6yWDpN_MYBm6 https://forums.superherohype.com/threads/legion-of-super-heroes-dtv.558592/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[6yWDpN_MYBm6 (1745462226736644097)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 11 words in URL https://forums.superherohype.com/threads/legion-of-super-heroes-dtv.558592/ [6yWDpN_MYBm6]
+	Description:  Legion of Super-Heroes (DTV)
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 3 words in URL https://forums.superherohype.com/threads/batman-the-doom-that-came-to-gotham-dtv.558591/
+I 2022/10/01 13:34:55 Fulltext * indexing: wDiwUN_MYBm6 https://forums.superherohype.com/threads/batman-the-doom-that-came-to-gotham-dtv.558591/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[wDiwUN_MYBm6 (1745462226737692672)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 12 words in URL https://forums.superherohype.com/threads/batman-the-doom-that-came-to-gotham-dtv.558591/ [wDiwUN_MYBm6]
+	Description:  Batman: The Doom That Came To Gotham (DTV)
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forums.superherohype.com/threads/dc-universe-justice-society-world-war-ii.554802/
+I 2022/10/01 13:34:55 Fulltext * indexing: qg8HxN_MYBm6 https://forums.superherohype.com/threads/dc-universe-justice-society-world-war-ii.554802/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[qg8HxN_MYBm6 (1745462226737692673)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 13 words in URL https://forums.superherohype.com/threads/dc-universe-justice-society-world-war-ii.554802/ [qg8HxN_MYBm6]
+	Description:  DC Universe - Justice Society: World War II
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forums.superherohype.com/threads/justice-league-war-world-dtv.558593/
+I 2022/10/01 13:34:55 Fulltext * indexing: xxQlQN_MYBm6 https://forums.superherohype.com/threads/justice-league-war-world-dtv.558593/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[xxQlQN_MYBm6 (1745462226738741248)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 12 words in URL https://forums.superherohype.com/threads/justice-league-war-world-dtv.558593/ [xxQlQN_MYBm6]
+	Description:  Justice League: War World (DTV)
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forums.superherohype.com/threads/super-sons-new-animated-dtv.556899/
+I 2022/10/01 13:34:55 Fulltext * indexing: VKmJLN_MYBm6 https://forums.superherohype.com/threads/super-sons-new-animated-dtv.556899/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[VKmJLN_MYBm6 (1745462226738741249)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 12 words in URL https://forums.superherohype.com/threads/super-sons-new-animated-dtv.556899/ [VKmJLN_MYBm6]
+	Description:  Super Sons - New Animated DTV?
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forums.superherohype.com/threads/revisiting-catwoman-cino.557512/
+I 2022/10/01 13:34:55 Fulltext * indexing: FA7-IN_MYBm6 https://forums.superherohype.com/threads/revisiting-catwoman-cino.557512/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[FA7-IN_MYBm6 (1745462226739789824)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 10 words in URL https://forums.superherohype.com/threads/revisiting-catwoman-cino.557512/ [FA7-IN_MYBm6]
+	Description:  Revisiting Catwoman (CINO)
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://forums.superherohype.com/threads/batman-azteca-hbo-max-latin-america.558472/
+I 2022/10/01 13:34:55 Fulltext * indexing: KOygxN_MYBm6 https://forums.superherohype.com/threads/batman-azteca-hbo-max-latin-america.558472/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[KOygxN_MYBm6 (1745462226739789825)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 12 words in URL https://forums.superherohype.com/threads/batman-azteca-hbo-max-latin-america.558472/ [KOygxN_MYBm6]
+	Description:  Batman Azteca (HBO Max Latin America)
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 2 words in URL https://forums.superherohype.com/threads/what-if%E2%80%A6-disney-bought-wb-dc-instead-of-fox.556945/
+I 2022/10/01 13:34:55 Fulltext * indexing: iZ3_LN_MYBm6 https://forums.superherohype.com/threads/what-if%E2%80%A6-disney-bought-wb-dc-instead-of-fox.556945/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[iZ3_LN_MYBm6 (1745462226739789826)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 14 words in URL https://forums.superherohype.com/threads/what-if%E2%80%A6-disney-bought-wb-dc-instead-of-fox.556945/ [iZ3_LN_MYBm6]
+	Description:  What if… Disney Bought WB/DC Instead Of Fox?
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://www.theadminzone.com/forums/-/index.rss, 24095 bytes
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://www.theadminzone.com/threads/events.154508/
+I 2022/10/01 13:34:55 Fulltext * indexing: mSZVJmKSQh45 https://www.theadminzone.com/threads/events.154508/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[mSZVJmKSQh45 (1745462226747129856)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 7 words in URL https://www.theadminzone.com/threads/events.154508/ [mSZVJmKSQh45]
+	Description:  Events
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://www.theadminzone.com/threads/ips-full-part-time-developer-list.154499/
+I 2022/10/01 13:34:55 Fulltext * indexing: sMN2rmKSQh45 https://www.theadminzone.com/threads/ips-full-part-time-developer-list.154499/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[sMN2rmKSQh45 (1745462226748178432)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 12 words in URL https://www.theadminzone.com/threads/ips-full-part-time-developer-list.154499/ [sMN2rmKSQh45]
+	Description:  IPS full & part time developer list?
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://www.theadminzone.com/threads/xenforos-development-pace.153822/
+I 2022/10/01 13:34:55 Fulltext * indexing: uOz6amKSQh45 https://www.theadminzone.com/threads/xenforos-development-pace.153822/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[uOz6amKSQh45 (1745462226749227008)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://www.theadminzone.com/threads/xenforos-development-pace.153822/ [uOz6amKSQh45]
+	Description:  XenForos development pace?
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://www.theadminzone.com/threads/several-xenforo-licenses.154502/
+I 2022/10/01 13:34:55 Fulltext * indexing: QyeyjmKSQh45 https://www.theadminzone.com/threads/several-xenforo-licenses.154502/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[QyeyjmKSQh45 (1745462226749227009)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 10 words in URL https://www.theadminzone.com/threads/several-xenforo-licenses.154502/ [QyeyjmKSQh45]
+	Description:  Several Xenforo licenses
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 2 words in URL https://www.theadminzone.com/threads/first-thing-in-the-morning.154392/
+I 2022/10/01 13:34:55 Fulltext * indexing: _eCZ2mKSQh45 https://www.theadminzone.com/threads/first-thing-in-the-morning.154392/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[_eCZ2mKSQh45 (1745462226750275584)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://www.theadminzone.com/threads/first-thing-in-the-morning.154392/ [_eCZ2mKSQh45]
+	Description:  First thing in the morning
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://www.theadminzone.com/threads/what-is-your-day-job.133104/
+I 2022/10/01 13:34:55 Fulltext * indexing: 2E6dFmKSQh45 https://www.theadminzone.com/threads/what-is-your-day-job.133104/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[2E6dFmKSQh45 (1745462226750275585)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 10 words in URL https://www.theadminzone.com/threads/what-is-your-day-job.133104/ [2E6dFmKSQh45]
+	Description:  What is your day job?
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://www.theadminzone.com/threads/how-to-get-members.154500/
+I 2022/10/01 13:34:55 Fulltext * indexing: E1ijFmKSQh45 https://www.theadminzone.com/threads/how-to-get-members.154500/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[E1ijFmKSQh45 (1745462226751324160)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://www.theadminzone.com/threads/how-to-get-members.154500/ [E1ijFmKSQh45]
+	Description:  How to get members?
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://www.theadminzone.com/threads/highlighted-posts-from-wednesday-sep-28-2022.154506/
+I 2022/10/01 13:34:55 Fulltext * indexing: j0AxmmKSQh45 https://www.theadminzone.com/threads/highlighted-posts-from-wednesday-sep-28-2022.154506/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[j0AxmmKSQh45 (1745462226751324161)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 13 words in URL https://www.theadminzone.com/threads/highlighted-posts-from-wednesday-sep-28-2022.154506/ [j0AxmmKSQh45]
+	Description:  Highlighted posts from Wednesday, Sep. 28, 2022
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://www.theadminzone.com/threads/talking-on-your-forum.154505/
+I 2022/10/01 13:34:55 Fulltext * indexing: ZhR8ZmKSQh45 https://www.theadminzone.com/threads/talking-on-your-forum.154505/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[ZhR8ZmKSQh45 (1745462226752372736)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://www.theadminzone.com/threads/talking-on-your-forum.154505/ [ZhR8ZmKSQh45]
+	Description:  Talking on your forum.
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://www.theadminzone.com/threads/what-browser.152519/
+I 2022/10/01 13:34:55 Fulltext * indexing: DYTrAmKSQh45 https://www.theadminzone.com/threads/what-browser.152519/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[DYTrAmKSQh45 (1745462226752372737)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 8 words in URL https://www.theadminzone.com/threads/what-browser.152519/ [DYTrAmKSQh45]
+	Description:  What browser?
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://www.theadminzone.com/threads/laundry.154445/
+I 2022/10/01 13:34:55 Fulltext * indexing: UqCynmKSQh45 https://www.theadminzone.com/threads/laundry.154445/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[UqCynmKSQh45 (1745462226753421312)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 7 words in URL https://www.theadminzone.com/threads/laundry.154445/ [UqCynmKSQh45]
+	Description:  Laundry
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://www.theadminzone.com/threads/remember-about-you.154395/
+I 2022/10/01 13:34:55 Fulltext * indexing: YW1kgmKSQh45 https://www.theadminzone.com/threads/remember-about-you.154395/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[YW1kgmKSQh45 (1745462226753421313)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://www.theadminzone.com/threads/remember-about-you.154395/ [YW1kgmKSQh45]
+	Description:  Remember about you?
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 3 words in URL https://www.theadminzone.com/threads/third-party-emailing-and-how-to-avoid-the-spam-box.154503/
+I 2022/10/01 13:34:55 Fulltext * indexing: tKWSpmKSQh45 https://www.theadminzone.com/threads/third-party-emailing-and-how-to-avoid-the-spam-box.154503/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[tKWSpmKSQh45 (1745462226754469888)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 13 words in URL https://www.theadminzone.com/threads/third-party-emailing-and-how-to-avoid-the-spam-box.154503/ [tKWSpmKSQh45]
+	Description:  Third-party emailing and how to avoid the spam box
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 2 words in URL https://www.theadminzone.com/threads/do-you-use-a-dedicated-software-firewall-for-your-home-pc-or-laptop.154156/
+I 2022/10/01 13:34:55 Fulltext * indexing: q7ezPmKSQh45 https://www.theadminzone.com/threads/do-you-use-a-dedicated-software-firewall-for-your-home-pc-or-laptop.154156/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[q7ezPmKSQh45 (1745462226754469889)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 16 words in URL https://www.theadminzone.com/threads/do-you-use-a-dedicated-software-firewall-for-your-home-pc-or-laptop.154156/ [q7ezPmKSQh45]
+	Description:  Do you use a dedicated software firewall for your home PC or laptop?
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://www.theadminzone.com/threads/how-did-you-find-taz.133070/
+I 2022/10/01 13:34:55 Fulltext * indexing: GCCvimKSQh45 https://www.theadminzone.com/threads/how-did-you-find-taz.133070/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[GCCvimKSQh45 (1745462226754469890)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 11 words in URL https://www.theadminzone.com/threads/how-did-you-find-taz.133070/ [GCCvimKSQh45]
+	Description:  How Did You Find TAZ?
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 2 words in URL https://www.theadminzone.com/threads/where-are-you-from.133069/
+I 2022/10/01 13:34:55 Fulltext * indexing: SyaJomKSQh45 https://www.theadminzone.com/threads/where-are-you-from.133069/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[SyaJomKSQh45 (1745462226755518464)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://www.theadminzone.com/threads/where-are-you-from.133069/ [SyaJomKSQh45]
+	Description:  Where Are You From?
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://www.theadminzone.com/threads/forum-posting.154378/
+I 2022/10/01 13:34:55 Fulltext * indexing: n2e0MmKSQh45 https://www.theadminzone.com/threads/forum-posting.154378/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[n2e0MmKSQh45 (1745462226755518465)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 8 words in URL https://www.theadminzone.com/threads/forum-posting.154378/ [n2e0MmKSQh45]
+	Description:  Forum Posting
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://www.theadminzone.com/threads/community-promotion-forum.154501/
+I 2022/10/01 13:34:55 Fulltext * indexing: xlstUmKSQh45 https://www.theadminzone.com/threads/community-promotion-forum.154501/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[xlstUmKSQh45 (1745462226756567040)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://www.theadminzone.com/threads/community-promotion-forum.154501/ [xlstUmKSQh45]
+	Description:  Community Promotion Forum
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 0 words in URL https://www.theadminzone.com/threads/gaming-forums-survival.149967/
+I 2022/10/01 13:34:55 Fulltext * indexing: VAyCZmKSQh45 https://www.theadminzone.com/threads/gaming-forums-survival.149967/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[VAyCZmKSQh45 (1745462226756567041)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 9 words in URL https://www.theadminzone.com/threads/gaming-forums-survival.149967/ [VAyCZmKSQh45]
+	Description:  Gaming forums survival
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 1 words in URL https://www.theadminzone.com/threads/fun-evergreen-topics-to-boost-forum-activity-share-your-examples-please.154359/
+I 2022/10/01 13:34:55 Fulltext * indexing: 6PLB2mKSQh45 https://www.theadminzone.com/threads/fun-evergreen-topics-to-boost-forum-activity-share-your-examples-please.154359/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[6PLB2mKSQh45 (1745462226757615616)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 16 words in URL https://www.theadminzone.com/threads/fun-evergreen-topics-to-boost-forum-activity-share-your-examples-please.154359/ [6PLB2mKSQh45]
+	Description:  Fun, evergreen topics to boost forum activity, share your examples, please :)
+	MimeType: application/octet-stream | Charset: UTF-8 | Size: 0 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 16 words in URL https://www.dnforum.com/help/
+I 2022/10/01 13:34:55 Fulltext * indexing: sIV46lWvpqu4 https://www.dnforum.com/help/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[sIV46lWvpqu4 (1745462226758664192)]} 0 0
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 98 words in URL https://www.dnforum.com/help/ [sIV46lWvpqu4]
+	Description:  Help | DNForum.com - Buy, Sell, and Talk Domain Names
+	MimeType: text/html | Charset: UTF-8 | Size: 1346 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 LOADER * cache hit/stale for: https://www.pcwelt.de/computer-technik/pc-peripherie/notebook
+I 2022/10/01 13:34:55 YACY * hello/server: responded remote junior peer 'agent-tukugof-ufe-12' from [84.114.234.5], time_dnsResolve=0, time_backping=444, method=reportedip=84.114.234.5, urls=-1
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://forums.digitalpoint.com/forums/payments.68/, 123515 bytes
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://informatik-forum.net/forum/index.php?thread/118110-it-administrator-m-w-d-in-vollzeit-altk%C3%B6nig-stift-eg/, 72003 bytes
+I 2022/10/01 13:34:55 YACY * hello/server: responded remote peer 'agent-tukugof-ufe-12' [84.114.234.5] in 447 milliseconds
+I 2022/10/01 13:34:55 HostQueue * forcing crawl-delay of 83 milliseconds for forum.kaspersky.com: minimumDelta = 250, flux = 0, host.average = 2847, robots.delay = 0, ((waitig = 1423) - (timeSinceLastAccess = 1341)) = 82
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://www.movie-list.com/oscars2014.php, 46477 bytes
+I 2022/10/01 13:34:55 HTCACHE * storing content of url https://homedistiller.org/forum/viewforum.php?f=92, 60069 bytes
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 14 words in URL https://informatik-forum.net/forum/index.php?thread/118110-it-administrator-m-w-d-in-vollzeit-altk%C3%B6nig-stift-eg/
+I 2022/10/01 13:34:55 Fulltext * indexing: e9O7Cft3f06y https://informatik-forum.net/forum/index.php?thread/118110-it-administrator-m-w-d-in-vollzeit-altk%C3%B6nig-stift-eg/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[e9O7Cft3f06y (1745462226813190144)]} 0 1
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 448 words in URL https://informatik-forum.net/forum/index.php?thread/118110-it-administrator-m-w-d-in-vollzeit-altk%C3%B6nig-stift-eg/ [e9O7Cft3f06y]
+	Description:  IT-Administrator (m/w/d) in Vollzeit | Altkönig-Stift eG - Jobs - Informatik-Forum - Everything about information technology.
+	MimeType: text/html | Charset: UTF-8 | Size: 5864 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 16 words in URL https://www.movie-list.com/oscars2014.php
+I 2022/10/01 13:34:55 Fulltext * indexing: kXEW_lSJUj15 https://www.movie-list.com/oscars2014.php
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[kXEW_lSJUj15 (1745462226820530176)]} 0 1
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 522 words in URL https://www.movie-list.com/oscars2014.php [kXEW_lSJUj15]
+	Description:  2014 Academy Award Nominees and Winners Movie Trailers | Movie-List.com
+	MimeType: text/html | Charset: UTF-8 | Size: 6736 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 20 words in URL https://forums.digitalpoint.com/forums/payments.68/
+I 2022/10/01 13:34:55 Fulltext * indexing: tSXqOIF14Ap5 https://forums.digitalpoint.com/forums/payments.68/
+I 2022/10/01 13:34:55 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[tSXqOIF14Ap5 (1745462226838355968)]} 0 2
+I 2022/10/01 13:34:55 SWITCHBOARD * *Indexed 499 words in URL https://forums.digitalpoint.com/forums/payments.68/ [tSXqOIF14Ap5]
+	Description:  Payments Forum
+	MimeType: text/html | Charset: UTF-8 | Size: 9332 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:55 SWITCHBOARD * Excluded 11 words in URL https://homedistiller.org/forum/viewforum.php?f=92
+I 2022/10/01 13:34:56 Fulltext * indexing: h4uy1fujKiSy https://homedistiller.org/forum/viewforum.php?f=92
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[h4uy1fujKiSy (1745462226846744576)]} 0 1
+I 2022/10/01 13:34:56 SWITCHBOARD * *Indexed 343 words in URL https://homedistiller.org/forum/viewforum.php?f=92 [h4uy1fujKiSy]
+	Description:  Steam Mashing and Distilling - Home Distiller
+	MimeType: text/html | Charset: UTF-8 | Size: 7308 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:56 HTCACHE * storing content of url https://tv.winelibrary.com/?s=Chardonnay, 30402 bytes
+I 2022/10/01 13:34:56 LOADER * cache hit/stale for: https://forum.kaspersky.com/forum/kaspersky-industrial-cybersecurity-205/
+I 2022/10/01 13:34:56 LOADER * cache hit/stale for: https://forum.df.eu/member/123-wsp
+I 2022/10/01 13:34:56 LOADER * cache hit/stale for: https://celestia.space/forum/viewtopic.php?f=23&t=22203&start=20
+I 2022/10/01 13:34:56 SWITCHBOARD * Excluded 19 words in URL https://tv.winelibrary.com/?s=Chardonnay
+I 2022/10/01 13:34:56 Fulltext * indexing: vy9oH43Eccu5 https://tv.winelibrary.com/?s=Chardonnay
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[vy9oH43Eccu5 (1745462226896027648)]} 0 1
+I 2022/10/01 13:34:56 SWITCHBOARD * *Indexed 253 words in URL https://tv.winelibrary.com/?s=Chardonnay [vy9oH43Eccu5]
+	Description:  Wine Library TV | Search Results Chardonnay
+	MimeType: text/html | Charset: UTF-8 | Size: 3307 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:56 HTCACHE * storing content of url https://www.gbs-cidp.org/2021-virtual-summit/, 98169 bytes
+I 2022/10/01 13:34:56 HTCACHE * storing content of url https://www.wondercms.com/community/ucp.php?mode=terms, 8621 bytes
+I 2022/10/01 13:34:56 LOADER * cache hit/fresh for: https://www.apdaweb.org/lebanon-hochstein-is-coming-to-beirut-next-week/
+I 2022/10/01 13:34:56 SWITCHBOARD * Excluded 19 words in URL https://www.apdaweb.org/lebanon-hochstein-is-coming-to-beirut-next-week/
+I 2022/10/01 13:34:56 REJECTED * https://forum.howtoforge.de/online/till.3/ - denied by robots.txt
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[_sHTpj09lMeh (1745462226930630656)]} 0 0
+I 2022/10/01 13:34:56 Fulltext * indexing: c0qnlltOiM4w https://www.apdaweb.org/lebanon-hochstein-is-coming-to-beirut-next-week/
+I 2022/10/01 13:34:56 HTCACHE * storing content of url https://celestia.space/forum/viewtopic.php?f=7&p=159286, 34553 bytes
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[c0qnlltOiM4w (1745462226931679232)]} 0 1
+I 2022/10/01 13:34:56 SWITCHBOARD * *Indexed 266 words in URL https://www.apdaweb.org/lebanon-hochstein-is-coming-to-beirut-next-week/ [c0qnlltOiM4w]
+	Description:  Lebanon: Hochstein is coming to Beirut next week – APDA Web
+	MimeType: text/html | Charset: UTF-8 | Size: 3520 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:56 LOADER * CRAWLER Redirection detected ('HTTP/1.1 302 Moved Temporarily') for URL https://forum.bodybuilding.com/member.php?u=286430163&s=98a09187b6f38af0a1905b424224fa04
+I 2022/10/01 13:34:56 LOADER * CRAWLER ..Redirecting request to: https://bodyspace.bodybuilding.com/user6BM3GFBOFNB/
+I 2022/10/01 13:34:56 LOADER * cache hit/stale for: https://forum.wpde.org/data/avatars/s/114/114706.jpg?1555498264=
+I 2022/10/01 13:34:56 LOADER * cache hit/stale for: https://www.allaboutjazz.com/find-musicians/?teachers=1
+W 2022/10/01 13:34:56 LOADER * HTCACHE contained response header, but not content for url https://www.scionxdforum.com/forum/member.php?s=9af87feb9f31e095ae8cf5dd31a44888&u=41
+I 2022/10/01 13:34:56 REJECTED * https://forum.bodybuilding.com/member.php?u=286430163&s=98a09187b6f38af0a1905b424224fa04 - cannot load: load error - CRAWLER Redirect of URL=https://forum.bodybuilding.com/member.php?u=286430163&s=98a09187b6f38af0a1905b424224fa04 to https://bodyspace.bodybuilding.com/user6BM3GFBOFNB/ placed on crawler queue for double-check
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[0oxya027AoN5 (1745462226943213568)]} 0 0
+I 2022/10/01 13:34:56 SWITCHBOARD * Excluded 23 words in URL https://www.gbs-cidp.org/2021-virtual-summit/
+I 2022/10/01 13:34:56 HTCACHE * storing content of url https://www.dnforum.com/search/, 32930 bytes
+I 2022/10/01 13:34:56 HostQueue * forcing crawl-delay of 76 milliseconds for www.digitalocean.com: minimumDelta = 250, flux = 0, host.average = 1844, robots.delay = 0, ((waitig = 922) - (timeSinceLastAccess = 846)) = 76
+I 2022/10/01 13:34:56 Fulltext * indexing: Ssn-xlh9d0Sw https://www.gbs-cidp.org/2021-virtual-summit/
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[Ssn-xlh9d0Sw (1745462226955796480)]} 0 1
+I 2022/10/01 13:34:56 SWITCHBOARD * *Indexed 403 words in URL https://www.gbs-cidp.org/2021-virtual-summit/ [Ssn-xlh9d0Sw]
+	Description:  2021 Virtual Summit - GBS/CIDP Foundation International
+	MimeType: text/html | Charset: UTF-8 | Size: 6710 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:56 SWITCHBOARD * Excluded 24 words in URL https://www.wondercms.com/community/ucp.php?mode=terms
+I 2022/10/01 13:34:56 Fulltext * indexing: TJ5uwkoZ4EE5 https://www.wondercms.com/community/ucp.php?mode=terms
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[TJ5uwkoZ4EE5 (1745462226959990784)]} 0 0
+I 2022/10/01 13:34:56 SWITCHBOARD * *Indexed 165 words in URL https://www.wondercms.com/community/ucp.php?mode=terms [TJ5uwkoZ4EE5]
+	Description:  WonderCMS community - User Control Panel - Terms of use
+	MimeType: text/html | Charset: UTF-8 | Size: 2384 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:56 SWITCHBOARD * Excluded 20 words in URL https://celestia.space/forum/viewtopic.php?f=7&p=159286
+I 2022/10/01 13:34:56 HTCACHE * storing content of url https://forum.axishistory.com/viewtopic.php?f=72&p=2432353, 29294 bytes
+I 2022/10/01 13:34:56 Fulltext * indexing: QhgYjfbeJEa4 https://celestia.space/forum/viewtopic.php?f=7&p=159286
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[QhgYjfbeJEa4 (1745462226965233664)]} 0 1
+I 2022/10/01 13:34:56 SWITCHBOARD * *Indexed 263 words in URL https://celestia.space/forum/viewtopic.php?f=7&p=159286 [QhgYjfbeJEa4]
+	Description:  DART spacecraft impacts on Dimorphos (new: Celestia animation of impact) - Physics and Astronomy - Celestia Forums
+	MimeType: text/html | Charset: UTF-8 | Size: 4466 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:56 SWITCHBOARD * Excluded 13 words in URL https://www.dnforum.com/search/
+I 2022/10/01 13:34:56 Fulltext * indexing: sDXL5lWvpqu4 https://www.dnforum.com/search/
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[sDXL5lWvpqu4 (1745462226967330816)]} 0 0
+I 2022/10/01 13:34:56 SWITCHBOARD * *Indexed 82 words in URL https://www.dnforum.com/search/ [sDXL5lWvpqu4]
+	Description:  Search | DNForum.com - Buy, Sell, and Talk Domain Names
+	MimeType: text/html | Charset: UTF-8 | Size: 1059 bytes | 
+	LinkStorageTime: 0 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:56 SWITCHBOARD * Excluded 24 words in URL https://forum.axishistory.com/viewtopic.php?f=72&p=2432353
+I 2022/10/01 13:34:56 HTCACHE * storing content of url https://ubuntuforums.org/showgroups.php/, 63528 bytes
+I 2022/10/01 13:34:56 Fulltext * indexing: pvNe-0wrqFc5 https://forum.axishistory.com/viewtopic.php?f=72&p=2432353
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[pvNe-0wrqFc5 (1745462226988302336)]} 0 1
+I 2022/10/01 13:34:56 SWITCHBOARD * *Indexed 313 words in URL https://forum.axishistory.com/viewtopic.php?f=72&p=2432353 [pvNe-0wrqFc5]
+	Description:  Eupalette Major of Fortifikationen Dienst 4. inspektion Ingenieur - Axis History Forum
+	MimeType: text/html | Charset: UTF-8 | Size: 4449 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:56 HTCACHE * storing content of url https://daemonforums.org/forumdisplay.php?s=5f84937e39cf637605e971b2cd502bde&f=15, 97191 bytes
+I 2022/10/01 13:34:56 LOADER * cache hit/stale for: https://www.digitalocean.com/products/vpc
+I 2022/10/01 13:34:56 LOADER * cache hit/stale for: https://www.alice.org/featured-projects/alice-regional-challenge-middle-school-finalists/
+I 2022/10/01 13:34:56 HTCACHE * storing content of url https://bbpress.org/blog/2009/01/, 44077 bytes
+I 2022/10/01 13:34:56 SWITCHBOARD * Excluded 11 words in URL https://ubuntuforums.org/showgroups.php/
+I 2022/10/01 13:34:56 LOADER * CRAWLER Redirection detected ('HTTP/1.1 303 See Other') for URL https://forum.wpde.org/find-new/posts
+I 2022/10/01 13:34:56 LOADER * CRAWLER ..Redirecting request to: https://forum.wpde.org/find-new/9984670/posts
+I 2022/10/01 13:34:56 REJECTED * https://forum.wpde.org/find-new/posts - cannot load: load error - CRAWLER Redirect of URL=https://forum.wpde.org/find-new/posts to https://forum.wpde.org/find-new/9984670/posts placed on crawler queue for double-check
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[1EiK5gV9mrTw (1745462227049119744)]} 0 0
+I 2022/10/01 13:34:56 Fulltext * indexing: pDgiNs3KCdvx https://ubuntuforums.org/showgroups.php/
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[pDgiNs3KCdvx (1745462227053314048)]} 0 3
+I 2022/10/01 13:34:56 SWITCHBOARD * *Indexed 420 words in URL https://ubuntuforums.org/showgroups.php/ [pDgiNs3KCdvx]
+	Description:  Show Groups - Ubuntu Forums
+	MimeType: text/html | Charset: ISO-8859-1 | Size: 6568 bytes | 
+	LinkStorageTime: 3 ms | indexStorageTime: 1 ms
+I 2022/10/01 13:34:56 SWITCHBOARD * Excluded 13 words in URL https://bbpress.org/blog/2009/01/
+I 2022/10/01 13:34:56 HTCACHE * storing content of url https://forum.submitexpress.com/memberlist.php?mode=viewprofile&u=3595250, 12043 bytes
+I 2022/10/01 13:34:56 Fulltext * indexing: krkm2UqK7QBw https://bbpress.org/blog/2009/01/
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[krkm2UqK7QBw (1745462227059605504)]} 0 1
+I 2022/10/01 13:34:56 SWITCHBOARD * *Indexed 108 words in URL https://bbpress.org/blog/2009/01/ [krkm2UqK7QBw]
+	Description:  January · 2009 · bbPress.org
+	MimeType: text/html | Charset: UTF-8 | Size: 1466 bytes | 
+	LinkStorageTime: 2 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:56 SWITCHBOARD * Excluded 7 words in URL https://forum.submitexpress.com/memberlist.php?mode=viewprofile&u=3595250
+I 2022/10/01 13:34:56 Fulltext * indexing: -7OLu03u7l-6 https://forum.submitexpress.com/memberlist.php?mode=viewprofile&u=3595250
+I 2022/10/01 13:34:56 LOADER * cache hit/stale for: https://forum.dbpoweramp.com/forumdisplay.php?20-Developers-Corner=&s=5452c123ead6b2ee27cfc269a0cb18bb
+I 2022/10/01 13:34:56 org.apache.solr.update.processor.LogUpdateProcessorFactory [collection1]  webapp=null path=/update params={}{add=[-7OLu03u7l-6 (1745462227067994112)]} 0 0
+I 2022/10/01 13:34:56 SWITCHBOARD * *Indexed 106 words in URL https://forum.submitexpress.com/memberlist.php?mode=viewprofile&u=3595250 [-7OLu03u7l-6]
+	Description:  Search Engine Forums, SEO Forum - Viewing profile - candoursystems
+	MimeType: text/html | Charset: UTF-8 | Size: 1224 bytes | 
+	LinkStorageTime: 1 ms | indexStorageTime: 0 ms
+I 2022/10/01 13:34:56 HTCACHE * storing content of url https://forum.wordreference.com/threads/norwegian-for-det-late-svin-er-jorda-alltid-kald.3972332/, 70390 bytes
+I 2022/10/01 13:34:56 SWITCHBOARD * Excluded 18 words in URL https://daemonforums.org/forumdisplay.php?s=5f84937e39cf637605e971b2cd502bde&f=15

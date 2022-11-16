@@ -1,11 +1,13 @@
 # smokingwheels.github.io
 
-Github file storage is too small per file.
 
 git clone https://github.com/smokingwheels/smokingwheels.github.io.git
 
-Lists updated 29 Sep 2022 now with a YaCy and Pihole blacklists to improve crawling.
-https://community.searchlab.eu/t/i-have-yacy-and-pihole-running-on-the-same-device-now-may-cure-the-problem-of-slow-crawling-after-a-while/1205
+16 nov 2022
+multiedit 1.9 million by combining my lists.
+I had over 900 domains listed on my pihole's domain page and it was getting very slow.
+https://smokingwheels.github.io/Pi-hole/multiedit
+
 
 I have a precompiled build for YaCy it installs on windows also runs on linux.
 git clone https://github.com/smokingwheels/YaCy.git
